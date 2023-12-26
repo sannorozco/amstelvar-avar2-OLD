@@ -10,10 +10,10 @@
       <point x="897" y="1494" type="line"/>
       <point x="891" y="491" type="line"/>
       <point x="891" y="129" type="line"/>
-      <point x="1119" y="94" type="line"/>
-      <point x="1119" y="0" type="line"/>
-      <point x="477" y="0" type="line"/>
-      <point x="477" y="94" type="line"/>
+      <point x="1219" y="94" type="line"/>
+      <point x="1219" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="94" type="line"/>
       <point x="715" y="129" type="line"/>
       <point x="724" y="489" type="line"/>
       <point x="724" y="1295" type="line"/>
@@ -50,6 +50,8 @@
           <string>YTFI</string>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>
