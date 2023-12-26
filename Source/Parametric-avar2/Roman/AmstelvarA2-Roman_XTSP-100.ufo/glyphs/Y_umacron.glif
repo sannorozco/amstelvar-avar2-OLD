@@ -10,10 +10,4 @@ I + Yu-dash.case@yu_dash + O@yu_dash + macroncomb.case@I:110%, top ^ I,O | 0xf52
     <component base="O" xOffset="750"/>
     <component base="macroncomb.case" xOffset="532"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
-    </dict>
-  </lib>
 </glyph>

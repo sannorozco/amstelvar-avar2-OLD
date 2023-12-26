@@ -6,10 +6,4 @@
     <component base="circumflexcomb-stack.case" xOffset="1210"/>
     <component base="acutecomb-stack.case" xOffset="1603" yOffset="231"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
-    </dict>
-  </lib>
 </glyph>
