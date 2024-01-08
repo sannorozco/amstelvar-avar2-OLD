@@ -137,8 +137,8 @@
     },
     "YTDE": {
       "direction": "y",
-      "glyph 1": "n",
-      "point 1": "0",
+      "glyph 1": "p",
+      "point 1": "-1",
       "glyph 2": "p",
       "point 2": "0",
       "parent": "",
@@ -362,8 +362,8 @@
     },
     "YTOS": {
       "direction": "y",
-      "glyph 1": "H",
-      "point 1": "6",
+      "glyph 1": "O",
+      "point 1": "C",
       "glyph 2": "O",
       "point 2": "3",
       "parent": "",

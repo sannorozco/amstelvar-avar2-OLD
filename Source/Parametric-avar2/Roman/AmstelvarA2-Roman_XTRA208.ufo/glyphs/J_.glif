@@ -14,16 +14,16 @@
       <point x="249" y="-63"/>
       <point x="304" y="18"/>
       <point x="304" y="112" type="qcurve" smooth="yes"/>
-      <point x="302" y="834" type="line"/>
+      <point x="302" y="754" type="line"/>
       <point x="300" y="1352" type="line"/>
       <point x="97" y="1386" type="line"/>
       <point x="97" y="1500" type="line"/>
       <point x="670" y="1500" type="line"/>
       <point x="670" y="1384" type="line"/>
       <point x="480" y="1350" type="line"/>
-      <point x="478" y="834" type="line"/>
+      <point x="478" y="754" type="line"/>
       <point x="490" y="189" type="line" smooth="yes"/>
-      <point x="494" y="-29"/>
+      <point x="495" y="-29"/>
       <point x="339" y="-199"/>
       <point x="207" y="-207" type="qcurve" smooth="yes"/>
       <point x="160" y="-210"/>
@@ -105,8 +105,6 @@
           <string>XUCS</string>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>
