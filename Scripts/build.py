@@ -377,87 +377,58 @@ class AmstelvarA2DesignSpaceBuilder_avar2_fences(AmstelvarA2DesignSpaceBuilder_a
 
     def addMappingsFences(self):
 
-        defaultName = 'wght400'
+        defaultBlends = {}
+        for blendedAxis in self.blendedAxes.keys():
+            blendedAxisName = self.blendedAxes[blendedAxis]['name']
+            defaultBlends[blendedAxisName] = self.blendedAxes[blendedAxis]['default']
 
-        # add fences for default (monovar)
+        for styleName, styleFences in self.fences.items(): 
+            styleBlends = { self.blendedAxes[part[:4]]['name']: int(part[4:]) for part in styleName.split('_') }
 
-        blendTag    = defaultName[:4]
-        blendValue  = int(defaultName[4:])
-        blendName   = self.blendedAxes[blendTag]['name']
-        for tag in self.fences[defaultName]:
-            # get min/max fence values
-            valuesFence = [
-                self.fences[defaultName][tag]['min'],
-                self.fences[defaultName][tag]['max'],
-            ]
-            # get min/max parametric axis value from file names
-            valuesAxis = []
-            for ufo in self.parametricSources:
-                if tag in ufo:
-                    value = int(os.path.splitext(os.path.split(ufo)[-1])[0].split('_')[-1][4:])
-                    valuesAxis.append(value)
-            assert len(valuesAxis)
-            valuesAxis.sort()
-            # create mapping elements
-            for i, valueFence in enumerate(valuesFence):
-                valueAxis  = valuesAxis[i]
-                m = AxisMappingDescriptor()
-                m.inputLocation = {
-                    blendName : blendValue,
-                    tag       : valueAxis,
-                }
-                m.outputLocation = {
-                    blendName : blendValue,
-                    tag       : valueFence,
-                }
-                self.designspace.addAxisMapping(m)
+            for axisTag in styleFences.keys():
+                # get min/max parametric axis value from file names
+                axisValues = []
+                for ufo in self.parametricSources:
+                    if axisTag in ufo:
+                        value = int(os.path.splitext(os.path.split(ufo)[-1])[0].split('_')[-1][4:])
+                        axisValues.append(value)
+                assert len(axisValues)
+                axisValues.sort()
 
-        # add fences for extrema
+                for i, axisValue in enumerate(axisValues):
+                    fenceValue = styleFences[axisTag]['min'] if i == 0 else styleFences[axisTag]['max']
 
-        # for styleName in self.fences.keys():
-        #     if styleName == defaultName:
-        #         continue
-        #     blendTag    = styleName[:4]
-        #     blendValue  = int(styleName[4:])
-        #     blendName   = self.blendedAxes[blendTag]['name']
-        #     for tag in self.fences[styleName]:
-        #         # get min/max fence values
-        #         valuesFence = [
-        #             self.fences[defaultName][tag]['min'],
-        #             self.fences[defaultName][tag]['max'],
-        #         ]
-        #         # get min/max parametric axis value from file names
-        #         valuesAxis = []
-        #         for ufo in self.parametricSources:
-        #             if tag in ufo:
-        #                 value = int(os.path.splitext(os.path.split(ufo)[-1])[0].split('_')[-1][4:])
-        #                 valuesAxis.append(value)
-        #         assert len(valuesAxis)
-        #         valuesAxis.sort()
-        #         # create null mappings
-        #         for i, valueFence in enumerate(valuesFence):
-        #             valueAxis  = valuesAxis[i]
-        #             m = AxisMappingDescriptor()
-        #             m.inputLocation = {
-        #                 blendName : blendValue,
-        #                 tag       : valueAxis,
-        #             }
-        #             m.outputLocation = {
-        #                 blendName : blendValue,
-        #                 tag       : valueFence,
-        #             }
-        #             self.designspace.addAxisMapping(m)
+                    # MAP 1: pin down fence value
+                    m1 = AxisMappingDescriptor()
+                    m1.inputLocation          = { k: v for k, v in defaultBlends.items() }
+                    for k, v in styleBlends.items():
+                        m1.inputLocation[k] = v
+                    m1.inputLocation[axisTag] = fenceValue
+                    m1.outputLocation         = m1.inputLocation.copy()
+                    self.designspace.addAxisMapping(m1)
 
-        #             m = AxisMappingDescriptor()
-        #             m.inputLocation = {
-        #                 blendName : blendValue,
-        #                 tag       : valueAxis,
-        #             }
-        #             m.outputLocation = {
-        #                 blendName : blendValue,
-        #                 tag       : valueAxis,
-        #             }
-        #             self.designspace.addAxisMapping(m)
+                    # MAP 2: map axis value to fence
+                    m2 = AxisMappingDescriptor()
+                    m2.inputLocation          = m1.inputLocation.copy()
+                    m2.inputLocation[axisTag] = axisValue
+                    m2.outputLocation         = m1.outputLocation.copy()
+                    self.designspace.addAxisMapping(m2)
+
+                    # MAP 3 (custom): map global fence to custom fence
+
+                    if styleName == self.defaultName:
+                        continue
+
+                    defaultFences = self.fences[self.defaultName]
+
+                    m3 = AxisMappingDescriptor()
+                    m3.inputLocation          = m1.inputLocation.copy()
+                    m3.inputLocation[axisTag] = defaultFences[axisTag]['min'] if i == 0 else defaultFences[axisTag]['max']
+                    m3.outputLocation         = m1.outputLocation.copy()
+
+                    # locations must be unique!
+                    if m3.inputLocation != m3.outputLocation:
+                        self.designspace.addAxisMapping(m3)
 
     def build(self):
         self.designspace = DesignSpaceDocument()
@@ -467,50 +438,6 @@ class AmstelvarA2DesignSpaceBuilder_avar2_fences(AmstelvarA2DesignSpaceBuilder_a
         self.addMappingsFences()
         self.addDefaultSource()
         self.addParametricSources()
-
-
-class AmstelvarA2DesignSpaceBuilder_avar2_fences_wght200(AmstelvarA2DesignSpaceBuilder_avar2_fences):
-
-    designspaceName = AmstelvarA2DesignSpaceBuilder.designspaceName.replace('.designspace', '_avar2_fences-wght200.designspace')
-
-    def addMappingsFences(self):
-
-        for styleName in self.fences.keys():
-            if styleName == 'wght200':
-                blendTag   = styleName[:4]
-                blendName  = self.blendedAxes[blendTag]['name']
-                blendValue = int(styleName[4:])
-                for tag in self.fences[styleName]:
-                    # get min/max fences values
-                    valuesFence = [
-                        self.fences[styleName][tag]['min'],
-                        self.fences[styleName][tag]['max'],
-                    ]
-                    # get min/max parametric axis value from file names
-                    valuesAxis = []
-                    for ufo in self.parametricSources:
-                        if tag in ufo:
-                            value = int(os.path.splitext(os.path.split(ufo)[-1])[0].split('_')[-1][4:])
-                            valuesAxis.append(value)
-                    assert len(valuesAxis)
-                    valuesAxis.sort()
-
-                    for i, valueFence in enumerate(valuesFence):
-                        valueAxis  = valuesAxis[i]
-                        m = AxisMappingDescriptor()
-
-                        inputLocation = {}
-                        inputLocation[blendName] = blendValue
-                        inputLocation[tag] = valueAxis
-
-                        outputLocation = {}
-                        outputLocation[blendName] = blendValue
-                        outputLocation[tag] = valueFence
-
-                        m.inputLocation  = inputLocation
-                        m.outputLocation = outputLocation
-
-                        self.designspace.addAxisMapping(m)
 
 
 # -----
@@ -524,22 +451,17 @@ if __name__ == '__main__':
     # D.save()
     # D.buildInstances()
 
-    D1 = AmstelvarA2DesignSpaceBuilder_avar1()
-    D1.build()
-    D1.save()
-    D1.buildVariableFont()
+    # D1 = AmstelvarA2DesignSpaceBuilder_avar1()
+    # D1.build()
+    # D1.save()
+    # D1.buildVariableFont()
 
-    D2 = AmstelvarA2DesignSpaceBuilder_avar2()
-    D2.build()
-    D2.save()
-    D2.buildVariableFont()
+    # D2 = AmstelvarA2DesignSpaceBuilder_avar2()
+    # D2.build()
+    # D2.save()
+    # D2.buildVariableFont()
 
-    # D3 = AmstelvarA2DesignSpaceBuilder_avar2_fences()
-    # D3.build()
-    # D3.save()
-    # D3.buildVariableFont()
-
-    # D4 = AmstelvarA2DesignSpaceBuilder_avar2_fences_wght200()
-    # D4.build()
-    # D4.save()
-    # D4.buildVariableFont()
+    D3 = AmstelvarA2DesignSpaceBuilder_avar2_fences()
+    D3.build()
+    D3.save()
+    D3.buildVariableFont()
