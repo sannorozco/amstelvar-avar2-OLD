@@ -3,6 +3,7 @@
   <advance width="1742"/>
   <unicode hex="0448"/>
   <anchor x="888.0" y="1000" name="top"/>
+  <anchor x="1589" y="134" name="cy_descender"/>
   <outline>
     <contour>
       <point x="66" y="272" type="qcurve" smooth="yes"/>

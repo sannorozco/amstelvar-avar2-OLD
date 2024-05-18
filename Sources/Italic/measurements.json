@@ -8231,59 +8231,59 @@
       }
     },
     "Ieukran": {
-      "0 17": {
+      "8 25": {
         "name": "XOUC",
         "direction": "x"
       },
-      "17 23": {
-        "name": "XTUC",
-        "direction": "x"
-      },
-      "27 20": {
+      "22 11": {
         "name": "YOUC",
         "direction": "y"
       },
-      "14 3": {
+      "36 28": {
         "name": "YOUC",
         "direction": "y"
       },
-      "37 32": {
+      "7 2": {
         "name": "YOUC",
         "direction": "y"
       },
-      "23 24": {
+      "31 33": {
         "name": "YOUC",
         "direction": "a"
       },
-      "O 8": {
+      "25 31": {
+        "name": "XTUC",
+        "direction": "x"
+      },
+      "36 11": {
         "name": "YTUC",
         "direction": "y"
       },
-      "35 36": {
+      "18 17": {
         "name": "XSVU",
         "direction": "x"
       },
-      "33 34": {
+      "3 4": {
         "name": "XSVU",
         "direction": "x"
       },
-      "10 9": {
+      "6 5": {
         "name": "XSVU",
         "direction": "x"
       },
-      "9 8": {
+      "17 16": {
         "name": "YSVU",
         "direction": "y"
       },
-      "35 34": {
+      "5 4": {
         "name": "YSVU",
         "direction": "y"
       },
-      "C 3": {
+      "C 11": {
         "name": "YTOS",
         "direction": "y"
       },
-      "O 27": {
+      "O 36": {
         "name": "YTOS",
         "direction": "y"
       }

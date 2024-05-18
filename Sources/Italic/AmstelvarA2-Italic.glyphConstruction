@@ -499,7 +499,7 @@ adieresiscyr = a + dieresiscomb@top | 0x4d3
 amacroncyr = a + macroncomb@top | 0xf50f
 chedescender-cy = che + cy-descendercomb@cy_descender | 0x4b7
 de.locl = g | None
-dje = h + horizontalbarlc@center + engtail@h:engtail | 0x0452
+# dje = h + horizontalbarlc@center + engtail@h:engtail | 0x0452
 dze = s | 0x455
 dzhe = u + descenderinverted-cy@cy-descenderinverted | 0x45f
 ebrevecyr = ecyr + breve.cyrcomb@top | 0xf525
@@ -550,8 +550,8 @@ ustraightstroke = ustraight + ustraight-stroke | 0x4b1
 yamacron = ya + macroncomb@top | 0xf529
 yeru = soft & idotless | 0x044B
 yi = idotless + yi-dieresiscomb@top | 0x457
-yu = idotless + yu-dash@yu_dash + o@yu_dash ^ idotless,o | 0x044E
-yumacron = yu + macroncomb@top | 0xf52d
+yu = idotless + yu.bgr-stroke@yu_dash + o@yu_dash ^ idotless,o | 0x044E
+yumacron = idotless + yu.bgr-stroke@yu_dash + o@yu_dash + macroncomb@yumacron:center,top  ^ yu-i,o | 
 
 zedescendercyr = ze + cedillacomb@bottom | 0x499
 zhebrevecyr = zhe + breve.cyrcomb@top | 0x4c2
@@ -573,7 +573,7 @@ hard.bgr = hard | None
 soft.bgr = soft | None
 te.bgr = m | None
 tse.bgr = u + cy-descendercomb@cy_descender | None
-yu.bgr = yu-l.bgr + yu.bgr-stroke + o | None
+yu.bgr = yu-l.bgr + yu.bgr-stroke@yu_dash + o@yu_dash ^ yu-l.bgr,o | None
 
 # -----------------
 #  D I G R A P H S

@@ -4,7 +4,7 @@
   <outline>
     <component base="yu-l.bgr"/>
     <component base="yu.bgr-stroke"/>
-    <component base="o" xOffset="456"/>
+    <component base="o" xOffset="456.000000000021"/>
   </outline>
   <lib>
     <dict>

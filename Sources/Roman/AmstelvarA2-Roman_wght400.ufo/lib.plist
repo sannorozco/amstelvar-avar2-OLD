@@ -90213,6 +90213,15 @@
       <string>omega</string>
       <string>omegatonos</string>
       <string>kaisymbol</string>
+      <string>Obarcyr-stroke</string>
+      <string>U-stroke</string>
+      <string>cy-descender</string>
+      <string>Ha-stroke</string>
+      <string>obarcyr-stroke</string>
+      <string>Cy-descendercomb.case</string>
+      <string>Cy-descender.case</string>
+      <string>cy-descendercomb</string>
+      <string>yu-i</string>
     </array>
     <key>public.skipExportGlyphs</key>
     <array/>
