@@ -5,7 +5,7 @@
   <outline>
     <component base="O"/>
     <component base="diagonalbarO" xOffset="861.4999999999701" yOffset="2"/>
-    <component base="acutecomb.case" xOffset="1168.561643835706"/>
+    <component base="acutecomb.case" xOffset="1265.5616438356853"/>
   </outline>
   <lib>
     <dict>

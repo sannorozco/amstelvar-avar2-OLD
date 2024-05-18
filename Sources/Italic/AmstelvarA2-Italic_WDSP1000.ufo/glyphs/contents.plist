@@ -1292,6 +1292,8 @@
     <string>h.glif</string>
     <key>ha</key>
     <string>ha.glif</string>
+    <key>ha-stroke</key>
+    <string>ha-stroke.glif</string>
     <key>hadescender</key>
     <string>hadescender.glif</string>
     <key>hard</key>
@@ -1452,6 +1454,8 @@
     <string>kabashkircyr.glif</string>
     <key>kadescender</key>
     <string>kadescender.glif</string>
+    <key>kai-tail</key>
+    <string>kai-tail.glif</string>
     <key>kaisymbol</key>
     <string>kaisymbol.glif</string>
     <key>kappa</key>
@@ -2030,6 +2034,8 @@
     <string>ushort.glif</string>
     <key>ustraight</key>
     <string>ustraight.glif</string>
+    <key>ustraight-stroke</key>
+    <string>ustraight-stroke.glif</string>
     <key>ustraightstroke</key>
     <string>ustraightstroke.glif</string>
     <key>utilde</key>
@@ -2100,6 +2106,8 @@
     <string>yu-l.bgr.glif</string>
     <key>yu.bgr</key>
     <string>yu.bgr.glif</string>
+    <key>yu.bgr-stroke</key>
+    <string>yu.bgr-stroke.glif</string>
     <key>yumacron</key>
     <string>yumacron.glif</string>
     <key>z</key>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omacroncyr" format="2">
-  <advance width="1050"/>
+  <advance width="1908"/>
   <unicode hex="F519"/>
   <outline>
     <component base="o"/>
-    <component base="macroncomb" xOffset="486.999999999926"/>
+    <component base="macroncomb" xOffset="1042.9999999999118"/>
   </outline>
   <lib>
     <dict>

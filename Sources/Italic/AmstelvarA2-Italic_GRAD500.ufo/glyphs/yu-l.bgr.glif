@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yu-l.bgr" format="2">
   <advance width="460"/>
+  <anchor x="193" y="498" name="yu_dash"/>
   <outline>
     <contour>
       <point x="56" y="-23" type="line"/>

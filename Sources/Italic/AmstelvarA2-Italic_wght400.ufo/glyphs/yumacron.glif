@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yumacron" format="2">
   <advance width="1538"/>
+  <unicode hex="F52D"/>
   <outline>
     <component base="idotless" xOffset="-14"/>
     <component base="yu.bgr-stroke" xOffset="31.9999999999948"/>

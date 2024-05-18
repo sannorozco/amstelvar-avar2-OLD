@@ -2,12 +2,5 @@
 <glyph name="ghe.bgr" format="2">
   <advance width="888"/>
   <outline>
-    <component base="ghe"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,1,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

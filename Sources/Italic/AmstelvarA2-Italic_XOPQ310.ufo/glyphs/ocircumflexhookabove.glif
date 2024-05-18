@@ -4,8 +4,8 @@
   <unicode hex="1ED5"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb-stack" xOffset="905.3645390070517" yOffset="-53"/>
-    <component base="hookabovecomb-stack" xOffset="1324.3645390071547" yOffset="215"/>
+    <component base="circumflexcomb-stack" xOffset="934.999999999907" yOffset="-53"/>
+    <component base="hookabovecomb-stack" xOffset="1354.00000000001" yOffset="215"/>
   </outline>
   <lib>
     <dict>

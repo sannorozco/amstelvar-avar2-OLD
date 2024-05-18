@@ -5,7 +5,7 @@
   <outline>
     <component base="D"/>
     <component base="Z" xOffset="2386"/>
-    <component base="caroncomb.case" xOffset="3120.0000000000637"/>
+    <component base="caroncomb.case" xOffset="3217.000000000043"/>
   </outline>
   <lib>
     <dict>

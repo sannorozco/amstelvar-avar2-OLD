@@ -4,7 +4,7 @@
   <unicode hex="0158"/>
   <outline>
     <component base="R"/>
-    <component base="caroncomb.case" xOffset="1011.9999999999611"/>
+    <component base="caroncomb.case" xOffset="1108.9999999999404"/>
   </outline>
   <lib>
     <dict>

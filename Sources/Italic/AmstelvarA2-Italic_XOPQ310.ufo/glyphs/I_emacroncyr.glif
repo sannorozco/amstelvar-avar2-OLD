@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iemacroncyr" format="2">
-  <advance width="1182"/>
+  <advance width="1746"/>
   <unicode hex="F510"/>
   <outline>
     <component base="E"/>
-    <component base="macroncomb.case" xOffset="593.9999999999347"/>
+    <component base="macroncomb.case" xOffset="898.9999999999919"/>
   </outline>
   <lib>
     <dict>

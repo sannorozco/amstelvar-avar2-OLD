@@ -7,7 +7,8 @@
   <anchor x="1451" y="0" name="ogonek"/>
   <anchor x="1363.5616438356165" y="1500" name="top"/>
   <anchor x="1691" y="1500" name="topright"/>
-  <anchor x="697.5616438356165" y="1500" name="tonos"/>
+  <anchor x="240" y="1500" name="tonos"/>
+  <anchor x="397" y="795" name="_yu_dash"/>
   <outline>
     <contour>
       <point x="102.56164383561645" y="868" type="qcurve" smooth="yes"/>
@@ -42,8 +43,6 @@
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.t9UmQ6O2X4</key>
       <integer>5</integer>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
     </dict>
   </lib>
 </glyph>

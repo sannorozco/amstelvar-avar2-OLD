@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tedescender-cy" format="2">
-  <advance width="1741"/>
+  <advance width="2983"/>
   <unicode hex="04AD"/>
   <outline>
     <component base="m"/>
-    <component base="descender-cy" xOffset="971"/>
+    <component base="cy-descendercomb" xOffset="2186.000000000038" yOffset="1"/>
   </outline>
   <lib>
     <dict>

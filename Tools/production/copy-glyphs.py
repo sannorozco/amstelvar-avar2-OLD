@@ -11,9 +11,9 @@ sourcePath    = os.path.join(sourcesFolder, f'{familyName}-{subFamilyName}_{sour
 
 assert os.path.exists(sourcePath)
 
-glyphNames = ['e'] # 'yi-dieresiscomb hookabovecomb-stack.case'.split()
+glyphNames = 'gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb hookabovecomb ringcomb hungarumlautcomb caroncomb breveinvertedcomb dblgravecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb commaaccentturnedcomb gravecomb.case acutecomb.case dieresiscomb.case macroncomb.case cedillacomb.case circumflexcomb.case caroncomb.case brevecomb.case dotaccentcomb.case ringcomb.case ogonekcomb.case tildecomb.case hungarumlautcomb.case hookabovecomb.case breveinvertedcomb.case dblgravecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case commaaccentcomb.case brevebelowcomb.case macronbelowcomb.case caroncomb.alt tonoscomb tonoscomb.case dieresistonoscomb breve.cyrcomb.case breve.cyrcomb yi-dieresiscomb'.split()
 
-dstFonts = 'XUCS114 XUCS259'.split()
+dstFonts = [] # 'XUCS114 XUCS259'.split()
     
 preflight = False
 

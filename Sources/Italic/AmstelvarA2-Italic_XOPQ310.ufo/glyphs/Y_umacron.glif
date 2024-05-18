@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yumacron" format="2">
-  <advance width="2143"/>
+  <advance width="3045"/>
   <unicode hex="F52C"/>
   <outline>
-    <component base="Yu"/>
-    <component base="macroncomb.case" xOffset="847.0000000000693"/>
+    <component base="I"/>
+    <component base="Yu-dash.case" xOffset="224.99999999998727"/>
+    <component base="O" xOffset="606.9999999999683"/>
+    <component base="macroncomb.case" xOffset="1385.9855027728772"/>
   </outline>
   <lib>
     <dict>

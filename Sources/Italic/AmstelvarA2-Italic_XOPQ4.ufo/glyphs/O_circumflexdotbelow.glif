@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ocircumflexdotbelow" format="2">
-  <advance width="1528"/>
+  <advance width="1241"/>
   <unicode hex="1ED8"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb.case" xOffset="711.0000000000823"/>
-    <component base="dotbelowcomb.case" xOffset="709"/>
+    <component base="circumflexcomb.case" xOffset="668.000000000096"/>
+    <component base="dotbelowcomb.case" xOffset="666"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

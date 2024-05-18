@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tse" format="2">
-  <advance width="1171"/>
+  <advance width="1999"/>
   <unicode hex="0446"/>
   <outline>
     <component base="u"/>
-    <component base="descender-cy" xOffset="410"/>
+    <component base="cy-descendercomb" xOffset="1217.000000000012" yOffset="1"/>
   </outline>
   <lib>
     <dict>
