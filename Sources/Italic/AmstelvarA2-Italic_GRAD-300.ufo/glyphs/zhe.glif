@@ -5,6 +5,7 @@
   <guideline x="241" y="553" angle="90" identifier="8KgqZm3A67"/>
   <anchor x="833" y="0" name="bottom"/>
   <anchor x="948.0" y="1000" name="top"/>
+  <anchor x="1632" y="134" name="cy_descender"/>
   <outline>
     <contour>
       <point x="1209" y="517" type="qcurve" smooth="yes"/>

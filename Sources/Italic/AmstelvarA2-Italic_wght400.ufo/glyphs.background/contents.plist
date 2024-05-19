@@ -10,6 +10,8 @@
     <string>O_.glif</string>
     <key>P</key>
     <string>P_.glif</string>
+    <key>Yeru</key>
+    <string>Y_eru.glif</string>
     <key>Yu-dash.case</key>
     <string>Y_u-dash.case.glif</string>
     <key>Yumacron</key>
@@ -58,6 +60,8 @@
     <string>twosuperior.glif</string>
     <key>x</key>
     <string>x.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>yu-l.bgr</key>
     <string>yu-l.bgr.glif</string>
     <key>yu.bgr-stroke</key>

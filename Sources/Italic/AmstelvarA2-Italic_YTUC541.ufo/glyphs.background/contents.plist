@@ -10,12 +10,16 @@
     <string>B_.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>Che</key>
+    <string>C_he.glif</string>
     <key>D</key>
     <string>D_.glif</string>
     <key>Delta</key>
     <string>D_elta.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>Eng</key>
+    <string>E_ng.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>G</key>
@@ -28,6 +32,8 @@
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>Ka</key>
+    <string>K_a.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>Lambda</key>
@@ -54,6 +60,10 @@
     <string>R_.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>Sha</key>
+    <string>S_ha.glif</string>
+    <key>Shcha</key>
+    <string>S_hcha.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>U</key>
@@ -68,6 +78,8 @@
     <string>Y_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>Zhe</key>
+    <string>Z_he.glif</string>
     <key>acutecomb-stack.case</key>
     <string>acutecomb-stack.case.glif</string>
     <key>brevecomb-stack.case</key>
@@ -76,6 +88,8 @@
     <string>breveinvertedcomb-stack.case.glif</string>
     <key>caroncomb-stack.case</key>
     <string>caroncomb-stack.case.glif</string>
+    <key>che</key>
+    <string>che.glif</string>
     <key>circumflexcomb-stack.case</key>
     <string>circumflexcomb-stack.case.glif</string>
     <key>commaaccentturnedcomb</key>
@@ -84,24 +98,38 @@
     <string>dblgravecomb-stack.case.glif</string>
     <key>dieresiscomb-stack.case</key>
     <string>dieresiscomb-stack.case.glif</string>
-    <key>dieresistonoscomb.case</key>
-    <string>dieresistonoscomb.case.glif</string>
     <key>dotaccentcomb-stack.case</key>
     <string>dotaccentcomb-stack.case.glif</string>
+    <key>en</key>
+    <string>en.glif</string>
     <key>gravecomb-stack.case</key>
     <string>gravecomb-stack.case.glif</string>
-    <key>hookcomb-stack.case</key>
-    <string>hookcomb-stack.case.glif</string>
     <key>hungarumlautcomb-stack.case</key>
     <string>hungarumlautcomb-stack.case.glif</string>
+    <key>idotless</key>
+    <string>idotless.glif</string>
     <key>ie</key>
     <string>ie.glif</string>
     <key>iebrevecyr</key>
     <string>iebrevecyr.glif</string>
     <key>io</key>
     <string>io.glif</string>
+    <key>ka</key>
+    <string>ka.glif</string>
+    <key>kai-tail</key>
+    <string>kai-tail.glif</string>
+    <key>kappa</key>
+    <string>kappa.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
     <key>macroncomb-stack.case</key>
     <string>macroncomb-stack.case.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
+    <key>sha</key>
+    <string>sha.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>w</key>
@@ -110,7 +138,11 @@
     <string>x.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>yi-dieresis</key>
+    <string>yi-dieresis.glif</string>
     <key>zhe</key>
     <string>zhe.glif</string>
+    <key>zhedescender</key>
+    <string>zhedescender.glif</string>
   </dict>
 </plist>

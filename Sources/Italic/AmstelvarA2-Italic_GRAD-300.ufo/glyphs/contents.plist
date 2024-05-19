@@ -100,8 +100,6 @@
     <string>C_heverticalstroke-cy.glif</string>
     <key>Chi</key>
     <string>C_hi.glif</string>
-    <key>Cy-descender.case</key>
-    <string>C_y-descender.case.glif</string>
     <key>Cy-descendercomb.case</key>
     <string>C_y-descendercomb.case.glif</string>
     <key>D</key>
@@ -950,8 +948,6 @@
     <string>copyright.glif</string>
     <key>currency</key>
     <string>currency.glif</string>
-    <key>cy-descender</key>
-    <string>cy-descender.glif</string>
     <key>cy-descendercomb</key>
     <string>cy-descendercomb.glif</string>
     <key>d</key>
@@ -1924,10 +1920,6 @@
     <string>tildecomb-stack.case.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
-    <key>tildemacroncomb</key>
-    <string>tildemacroncomb.glif</string>
-    <key>tildemacroncomb.case</key>
-    <string>tildemacroncomb.case.glif</string>
     <key>tonos</key>
     <string>tonos.glif</string>
     <key>tonos.case</key>

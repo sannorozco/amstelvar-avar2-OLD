@@ -4,6 +4,7 @@
   <unicode hex="006D"/>
   <anchor x="958" y="0" name="bottom"/>
   <anchor x="958" y="1000" name="top"/>
+  <anchor x="1572" y="134" name="cy_descender"/>
   <outline>
     <contour>
       <point x="76" y="-23" type="line"/>

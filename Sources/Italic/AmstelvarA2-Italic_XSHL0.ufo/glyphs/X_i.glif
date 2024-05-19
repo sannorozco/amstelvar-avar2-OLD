@@ -15,20 +15,20 @@
       <point x="317" y="1132" type="line"/>
     </contour>
     <contour>
-      <point x="252" y="539" type="line"/>
-      <point x="345" y="984" type="line"/>
-      <point x="455" y="984" type="line"/>
-      <point x="454" y="835" type="line"/>
-      <point x="709" y="823" type="line"/>
-      <point x="986" y="835" type="line"/>
-      <point x="1042" y="984" type="line"/>
+      <point x="256" y="529" type="line"/>
+      <point x="344" y="984" type="line"/>
+      <point x="450" y="984" type="line"/>
+      <point x="448" y="835" type="line"/>
+      <point x="718" y="823" type="line"/>
+      <point x="991" y="835" type="line"/>
+      <point x="1047" y="984" type="line"/>
       <point x="1153" y="984" type="line"/>
       <point x="1065" y="529" type="line"/>
-      <point x="965" y="529" type="line"/>
-      <point x="967" y="686" type="line"/>
-      <point x="683" y="697" type="line"/>
-      <point x="411" y="686" type="line"/>
-      <point x="352" y="539" type="line"/>
+      <point x="968" y="529" type="line"/>
+      <point x="972" y="686" type="line"/>
+      <point x="693" y="697" type="line"/>
+      <point x="409" y="686" type="line"/>
+      <point x="353" y="529" type="line"/>
     </contour>
     <contour>
       <point x="-4" y="0" type="line"/>

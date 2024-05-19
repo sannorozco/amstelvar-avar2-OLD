@@ -1,18 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotatonos" format="2">
-  <advance width="1254"/>
+  <advance width="927"/>
   <unicode hex="038A"/>
-  <note>
-10,I
-</note>
   <outline>
-    <component base="I" xOffset="542.000000000054"/>
-    <component base="tonoscomb.case" xOffset="111"/>
+    <component base="I" xOffset="214.99999999999397"/>
+    <component base="tonoscomb.case" xOffset="-107" yOffset="-418"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

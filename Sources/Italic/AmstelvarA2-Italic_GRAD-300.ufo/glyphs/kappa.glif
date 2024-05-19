@@ -3,6 +3,7 @@
   <advance width="1082"/>
   <unicode hex="03BA"/>
   <guideline x="1011" y="844" angle="79" identifier="VK3VYFLBN1"/>
+  <anchor x="834" y="134" name="kai_tail"/>
   <outline>
     <contour>
       <point x="86" y="0" type="line"/>

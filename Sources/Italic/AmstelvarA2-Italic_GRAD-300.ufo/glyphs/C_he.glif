@@ -3,6 +3,7 @@
   <advance width="1536"/>
   <unicode hex="0427"/>
   <guideline x="1330" y="777" angle="90" identifier="9CLqHZNG04"/>
+  <anchor x="1359.0" y="100" name="cy_descender"/>
   <outline>
     <contour>
       <point x="461" y="1117" type="line" smooth="yes"/>

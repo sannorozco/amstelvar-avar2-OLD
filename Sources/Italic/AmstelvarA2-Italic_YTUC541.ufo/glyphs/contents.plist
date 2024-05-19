@@ -1882,10 +1882,6 @@
     <string>tildecomb-stack.case.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
-    <key>tildemacroncomb</key>
-    <string>tildemacroncomb.glif</string>
-    <key>tildemacroncomb.case</key>
-    <string>tildemacroncomb.case.glif</string>
     <key>tonos</key>
     <string>tonos.glif</string>
     <key>tonos.case</key>
@@ -2028,6 +2024,8 @@
     <string>yhookabove.glif</string>
     <key>yi</key>
     <string>yi.glif</string>
+    <key>yi-dieresis</key>
+    <string>yi-dieresis.glif</string>
     <key>yi-dieresiscomb</key>
     <string>yi-dieresiscomb.glif</string>
     <key>ymacron</key>

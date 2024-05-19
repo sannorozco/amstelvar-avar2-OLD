@@ -3,7 +3,7 @@
   <advance width="1742"/>
   <outline>
     <component base="sha"/>
-    <component base="descender-cy" xOffset="981"/>
+    <component base="cy-descendercomb" xOffset="960.00000000001" yOffset="1"/>
   </outline>
   <lib>
     <dict>

@@ -5,6 +5,7 @@
   <anchor x="180" y="0" name="bottom"/>
   <anchor x="353" y="1168" name="top"/>
   <anchor x="180" y="0" name="ogonek"/>
+  <anchor x="255" y="579" name="yu_dash"/>
   <outline>
     <contour>
       <point x="105" y="-21" type="line"/>
@@ -26,8 +27,6 @@
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.UoBWQ8KbZg</key>
       <integer>5</integer>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
     </dict>
   </lib>
 </glyph>

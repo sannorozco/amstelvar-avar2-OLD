@@ -6,6 +6,7 @@
   <anchor x="356" y="0" name="ogonek"/>
   <anchor x="503.0" y="1500" name="top"/>
   <anchor x="81.0" y="1500" name="tonos"/>
+  <anchor x="365" y="795" name="yu_dash"/>
   <outline>
     <contour>
       <point x="-66" y="0" type="line"/>

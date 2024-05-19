@@ -2,9 +2,6 @@
 <glyph name="ecircumflexgrave" format="2">
   <advance width="986"/>
   <unicode hex="1EC1"/>
-  <note>
-@topleft
-</note>
   <outline>
     <component base="e"/>
     <component base="circumflexcomb-stack" xOffset="525.999999999979" yOffset="115"/>
@@ -13,7 +10,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yu.bgr" format="2">
-  <advance width="1506"/>
+  <advance width="1516"/>
   <outline>
     <component base="yu-l.bgr"/>
     <component base="yu.bgr-stroke"/>
-    <component base="o" xOffset="456"/>
+    <component base="o" xOffset="466.00000000001774" yOffset="54"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,1</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -3,13 +3,15 @@
   <advance width="2143"/>
   <unicode hex="F52C"/>
   <outline>
-    <component base="Yu"/>
-    <component base="macroncomb.case" xOffset="847.0000000000693"/>
+    <component base="I"/>
+    <component base="Yu-dash.case" xOffset="10.000000000006025"/>
+    <component base="O" xOffset="615.0000000000213"/>
+    <component base="macroncomb.case" xOffset="1156.262049465325"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

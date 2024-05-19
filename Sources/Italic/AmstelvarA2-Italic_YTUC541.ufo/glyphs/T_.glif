@@ -5,6 +5,7 @@
   <anchor x="451.0" y="0" name="bottom"/>
   <anchor x="556.0" y="567.0" name="center"/>
   <anchor x="655.0" y="1082" name="top"/>
+  <anchor x="755.0" y="100" name="cy_descender"/>
   <outline>
     <contour>
       <point x="19" y="681" type="line"/>
@@ -29,10 +30,4 @@
       <point x="119" y="681" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
-    </dict>
-  </lib>
 </glyph>
