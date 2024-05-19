@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ha" format="2">
-  <advance width="1222"/>
+  <advance width="887"/>
   <unicode hex="0425"/>
   <outline>
     <component base="X"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,1,0,0.8</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

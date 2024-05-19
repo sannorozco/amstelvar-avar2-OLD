@@ -2,8 +2,8 @@
 <glyph name="r" format="2">
   <advance width="569"/>
   <unicode hex="0072"/>
-  <anchor x="160" y="0" name="bottom"/>
-  <anchor x="328" y="1000" name="top"/>
+  <anchor x="198" y="0" name="bottom"/>
+  <anchor x="358" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="80" y="-14" type="line"/>
@@ -42,8 +42,6 @@
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.P35jP8CCy2</key>
       <integer>5</integer>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.34888</string>
     </dict>
   </lib>
 </glyph>

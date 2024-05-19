@@ -490,6 +490,9 @@ upsilondieresis = upsilon + dieresiscomb@GRKtop | 0x03CB
 upsilondieresistonos = upsilon + dieresistonoscomb@GRKtop | 0x03B0
 upsilontonos = upsilon + tonoscomb@GRKtop | 0x03CD
 
+# Kaisymbol = K + kai-tail@kai_tail | 0x03CF
+kaisymbol = kappa + kai-tail@kai_tail | 0x03D7
+
 # -------------------------------------
 #  C Y R I L L I C   L O W E R C A S E 
 # -------------------------------------
@@ -509,6 +512,7 @@ es = c | 0x0441
 esdescendercyr = c + cedillacomb@bottom | 0x4ab
 emacroncyr = ecyr + macroncomb@top | 0xf523
 endescender = en + cy-descendercomb@cy_descender | 0x4a3
+ghe.bgr = ghe | None
 ghe.locl = idotless + macroncomb@top | None
 ghestroke = ghe + horizontalbarlc@center | 0x493
 gje = ghe + acutecomb@top | 0x453

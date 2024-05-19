@@ -2,7 +2,8 @@
 <glyph name="ka" format="2">
   <advance width="1060"/>
   <unicode hex="043A"/>
-  <anchor x="576" y="1000" name="top"/>
+  <anchor x="576.0" y="1000" name="top"/>
+  <anchor x="977" y="133" name="cy_descender"/>
   <outline>
     <contour>
       <point x="34" y="56" type="line"/>

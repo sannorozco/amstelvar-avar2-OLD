@@ -3,7 +3,5 @@
   <advance width="618"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="idotless"/>
-    <component base="idot" xOffset="126.00000000001134"/>
   </outline>
 </glyph>

@@ -8,6 +8,7 @@
   <anchor x="320" y="1000" name="top"/>
   <anchor x="351" y="1000" name="topright"/>
   <anchor x="320" y="1000" name="GRKtop"/>
+  <anchor x="83" y="498" name="yu_dash"/>
   <outline>
     <contour>
       <point x="8" y="528" type="qcurve" smooth="yes"/>
@@ -38,10 +39,4 @@
       <point x="214" y="731"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.34888</string>
-    </dict>
-  </lib>
 </glyph>
