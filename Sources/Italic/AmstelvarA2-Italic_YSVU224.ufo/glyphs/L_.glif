@@ -6,7 +6,7 @@
   <anchor x="755.0" y="750.0" name="centerright"/>
   <anchor x="878.0" y="1500" name="top"/>
   <anchor x="804.0" y="1001" name="topright"/>
-  <anchor x="347.0" y="750.0" name="center"/>
+  <anchor x="397.0" y="750.0" name="center"/>
   <outline>
     <contour>
       <point x="-59" y="0" type="line"/>
@@ -28,10 +28,4 @@
       <point x="919" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
-    </dict>
-  </lib>
 </glyph>

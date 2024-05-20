@@ -41,11 +41,8 @@
       <point x="725" y="0" type="line"/>
       <point x="913" y="24" type="line"/>
     </contour>
+    <contour>
+      <point x="1201" y="100" type="move"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
-    </dict>
-  </lib>
 </glyph>

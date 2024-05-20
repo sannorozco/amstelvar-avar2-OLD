@@ -25,4 +25,4 @@ for ufoPath in ufoPaths:
     print(f'setting glyph order in {os.path.split(ufoPath)[-1]}…')
     font.templateGlyphOrder = glyphOrder
     font.save()
-    font.close()
+    # font.close()

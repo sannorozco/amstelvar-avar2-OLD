@@ -4,12 +4,6 @@
   <unicode hex="045E"/>
   <outline>
     <component base="y"/>
-    <component base="breve.cyrcomb" xOffset="310"/>
+    <component base="breve.cyrcomb" xOffset="503.9999999999963"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
-    </dict>
-  </lib>
 </glyph>

@@ -5,12 +5,6 @@
   <outline>
     <component base="D"/>
     <component base="Z" xOffset="1456"/>
-    <component base="caroncomb.case" xOffset="1879"/>
+    <component base="caroncomb.case" xOffset="1975.9999999999804"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
-    </dict>
-  </lib>
 </glyph>

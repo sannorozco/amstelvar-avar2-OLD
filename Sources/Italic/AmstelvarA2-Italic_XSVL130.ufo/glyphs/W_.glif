@@ -2,8 +2,8 @@
 <glyph name="W" format="2">
   <advance width="1806"/>
   <unicode hex="0057"/>
-  <anchor x="691" y="0" name="bottom"/>
-  <anchor x="981" y="1500" name="top"/>
+  <anchor x="691.0" y="0" name="bottom"/>
+  <anchor x="981.0" y="1500" name="top"/>
   <outline>
     <contour>
       <point x="60" y="1386" type="line"/>
@@ -13,8 +13,8 @@
       <point x="391" y="1366" type="line"/>
       <point x="401" y="803" type="line"/>
       <point x="410" y="400" type="line"/>
-      <point x="413" y="271" type="line"/>
-      <point x="422" y="271" type="line"/>
+      <point x="410" y="271" type="line"/>
+      <point x="427" y="271" type="line"/>
       <point x="497" y="400" type="line"/>
       <point x="695" y="737" type="line"/>
       <point x="913" y="1121" type="line"/>
@@ -26,14 +26,14 @@
       <point x="1074" y="1373" type="line"/>
       <point x="1080" y="800" type="line"/>
       <point x="1094" y="400" type="line"/>
-      <point x="1097" y="271" type="line"/>
-      <point x="1106" y="271" type="line"/>
+      <point x="1094" y="271" type="line"/>
+      <point x="1111" y="271" type="line"/>
       <point x="1177" y="400" type="line"/>
       <point x="1395" y="803" type="line"/>
       <point x="1678" y="1372" type="line"/>
       <point x="1485" y="1386" type="line"/>
       <point x="1498" y="1500" type="line"/>
-      <point x="1985" y="1499" type="line"/>
+      <point x="1985" y="1500" type="line"/>
       <point x="1972" y="1385" type="line"/>
       <point x="1814" y="1367" type="line"/>
       <point x="1489" y="760" type="line"/>
