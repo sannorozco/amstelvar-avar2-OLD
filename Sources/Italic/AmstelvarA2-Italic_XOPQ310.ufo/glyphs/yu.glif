@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yu" format="2">
-  <advance width="2390"/>
+  <advance width="2167"/>
   <unicode hex="044E"/>
   <outline>
-    <component base="idotless"/>
-    <component base="yu.bgr-stroke" xOffset="245.00000000001393"/>
-    <component base="o" xOffset="482.00000000001023"/>
+    <component base="yu-i"/>
+    <component base="yu.bgr-stroke" xOffset="21.999999999987836"/>
+    <component base="o" xOffset="258.99999999998414"/>
   </outline>
   <lib>
     <dict>

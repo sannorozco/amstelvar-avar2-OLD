@@ -8,12 +8,12 @@
   <outline>
     <component base="a"/>
     <component base="circumflexcomb-stack" xOffset="499.9999999999119" yOffset="-53"/>
-    <component base="gravecomb-stack" xOffset="846" yOffset="244"/>
+    <component base="gravecomb-stack" xOffset="919.000000000015" yOffset="215"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -1008,6 +1008,8 @@
     <string>kabashkircyr.glif</string>
     <key>kadescender</key>
     <string>kadescender.glif</string>
+    <key>kai-tail</key>
+    <string>kai-tail.glif</string>
     <key>kaisymbol</key>
     <string>kaisymbol.glif</string>
     <key>kappa</key>
@@ -1342,6 +1344,8 @@
     <string>ytilde.glif</string>
     <key>yu</key>
     <string>yu.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>yu.bgr</key>
     <string>yu.bgr.glif</string>
     <key>yumacron</key>

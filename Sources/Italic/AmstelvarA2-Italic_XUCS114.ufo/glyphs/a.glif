@@ -2,9 +2,9 @@
 <glyph name="a" format="2">
   <advance width="1045"/>
   <unicode hex="0061"/>
-  <anchor x="345" y="0" name="bottom"/>
+  <anchor x="345.0" y="0" name="bottom"/>
   <anchor x="732" y="0" name="ogonek"/>
-  <anchor x="608" y="1000" name="top"/>
+  <anchor x="608.0" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="-6" y="248" type="qcurve" smooth="yes"/>
@@ -48,10 +48,4 @@
       <point x="159" y="533"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.aElvfKe6lu</key>
-      <integer>5</integer>
-    </dict>
-  </lib>
 </glyph>

@@ -5,7 +5,7 @@
   <outline>
     <component base="idotless"/>
     <component base="idot" xOffset="126.00000000001134"/>
-    <component base="dotbelowcomb" xOffset="277"/>
+    <component base="dotbelowcomb" xOffset="374"/>
   </outline>
   <lib>
     <dict>

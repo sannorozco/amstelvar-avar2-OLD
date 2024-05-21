@@ -116,6 +116,8 @@
     <string>f.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>ghe.bgr</key>
+    <string>ghe.bgr.glif</string>
     <key>gravecomb-stack.case</key>
     <string>gravecomb-stack.case.glif</string>
     <key>h</key>
@@ -176,6 +178,8 @@
     <string>y.glif</string>
     <key>yi-dieresiscomb</key>
     <string>yi-dieresiscomb.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>zhe</key>
     <string>zhe.glif</string>
   </dict>

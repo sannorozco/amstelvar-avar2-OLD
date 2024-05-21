@@ -2,5 +2,6 @@
 <glyph name="ghe.bgr" format="2">
   <advance width="888"/>
   <outline>
+    <component base="ghe"/>
   </outline>
 </glyph>

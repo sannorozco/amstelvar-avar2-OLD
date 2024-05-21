@@ -4,12 +4,6 @@
   <unicode hex="0446"/>
   <outline>
     <component base="u"/>
-    <component base="descender-cy" xOffset="410"/>
+    <component base="cy-descendercomb" xOffset="389.00000000001125" yOffset="1"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0,1,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yumacron" format="2">
-  <advance width="1538"/>
+  <advance width="1446"/>
   <unicode hex="F52D"/>
   <outline>
-    <component base="idotless" xOffset="-14"/>
-    <component base="yu.bgr-stroke" xOffset="31.9999999999948"/>
-    <component base="o" xOffset="488.0000000000158"/>
-    <component base="macroncomb" xOffset="782.2277144237938"/>
+    <component base="yu-i" xOffset="-82"/>
+    <component base="yu.bgr-stroke" xOffset="-60.000000000012164"/>
+    <component base="o" xOffset="396.0000000000088"/>
+    <component base="macroncomb" xOffset="739.7205024059597"/>
   </outline>
   <lib>
     <dict>
