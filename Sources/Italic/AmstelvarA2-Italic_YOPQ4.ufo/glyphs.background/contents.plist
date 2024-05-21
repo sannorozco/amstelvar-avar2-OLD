@@ -94,6 +94,8 @@
     <string>acutecomb-stack.case.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
+    <key>alpha</key>
+    <string>alpha.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
     <key>b</key>
@@ -124,12 +126,14 @@
     <string>e.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
-    <key>en</key>
-    <string>en.glif</string>
-    <key>eng</key>
-    <string>eng.glif</string>
+    <key>epsilon</key>
+    <string>epsilon.glif</string>
+    <key>eta</key>
+    <string>eta.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>finalsigma</key>
+    <string>finalsigma.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>gravecomb-stack.case</key>
@@ -166,6 +170,8 @@
     <string>m.glif</string>
     <key>macroncomb-stack.case</key>
     <string>macroncomb-stack.case.glif</string>
+    <key>mu</key>
+    <string>mu.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>nine</key>

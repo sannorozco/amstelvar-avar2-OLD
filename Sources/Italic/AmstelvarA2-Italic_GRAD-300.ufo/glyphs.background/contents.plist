@@ -536,6 +536,8 @@
     <string>perthousand.glif</string>
     <key>phi</key>
     <string>phi.glif</string>
+    <key>pi</key>
+    <string>pi.glif</string>
     <key>psi</key>
     <string>psi.glif</string>
     <key>q</key>
