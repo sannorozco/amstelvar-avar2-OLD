@@ -436,6 +436,7 @@
           <string>ring-stack.case</string>
           <string>tilde-stack.case</string>
           <string>hungarumlaut-stack.case</string>
+          <string>hook-stack.case</string>
           <string>breveinverted-stack.case</string>
           <string>dblgrave-stack.case</string>
           <string>gravecomb-stack.case</string>
@@ -1050,37 +1051,51 @@
           <string>omega</string>
           <string>omegatonos</string>
           <string>kaisymbol</string>
+          <string>Cy-descender.case</string>
           <string>Cy-descendercomb.case</string>
           <string>Ha-stroke</string>
           <string>Obarcyr-stroke</string>
           <string>U-stroke</string>
           <string>Yi-dieresis.case</string>
+          <string>acutecombstack</string>
+          <string>acutecombstack.case</string>
+          <string>brevecombstack.case</string>
           <string>breveinvertedcomb.stack</string>
+          <string>circumflexcombstack</string>
+          <string>circumflexcombstack.case</string>
+          <string>coloncurrency.rvrn</string>
+          <string>cy-descender</string>
           <string>cy-descendercomb</string>
           <string>descender-cy</string>
           <string>descenderinverted-cy</string>
           <string>diagonalbarL</string>
-          <string>enspace</string>
-          <string>obarcyr-stroke</string>
-          <string>thinspace</string>
-          <string>yu-i</string>
-          <string>yu-l.bgr</string>
-          <string>Cy-descender.case</string>
-          <string>coloncurrency.rvrn</string>
-          <string>cy-descender</string>
+          <string>dieresiscombstack</string>
+          <string>dieresiscombstack.case</string>
+          <string>dotaccentcombstack</string>
+          <string>dotaccentcombstack.case</string>
           <string>eight.prop</string>
+          <string>enspace</string>
           <string>f_f_ij</string>
           <string>f_ij</string>
           <string>five.prop</string>
           <string>four.prop</string>
+          <string>gravecombstack.case</string>
           <string>hastroke-stroke</string>
+          <string>hookabovecombstack.case</string>
+          <string>hookcomb-stack.case</string>
           <string>hryvnia.rvrn</string>
           <string>ka-swash</string>
+          <string>macroncombstack</string>
+          <string>macroncombstack.case</string>
           <string>nine.prop</string>
+          <string>obarcyr-stroke</string>
           <string>one.prop</string>
           <string>seven.prop</string>
           <string>six.prop</string>
+          <string>thinspace</string>
           <string>three.prop</string>
+          <string>tildecombstack</string>
+          <string>tildecombstack.case</string>
           <string>tildemacroncomb</string>
           <string>tildemacroncomb.case</string>
           <string>two.prop</string>
@@ -1091,6 +1106,8 @@
           <string>uni20B2.rvrn</string>
           <string>uni20B5.rvrn</string>
           <string>yu-dash</string>
+          <string>yu-i</string>
+          <string>yu-l.bgr</string>
           <string>zero.prop</string>
         </array>
         <key>type</key>
@@ -5029,6 +5046,7 @@
       <string>ring-stack.case</string>
       <string>tilde-stack.case</string>
       <string>hungarumlaut-stack.case</string>
+      <string>hook-stack.case</string>
       <string>breveinverted-stack.case</string>
       <string>dblgrave-stack.case</string>
       <string>gravecomb-stack.case</string>
@@ -5643,12 +5661,14 @@
       <string>omega</string>
       <string>omegatonos</string>
       <string>kaisymbol</string>
+      <string>Cy-descender.case</string>
       <string>Cy-descendercomb.case</string>
       <string>Ha-stroke</string>
       <string>Obarcyr-stroke</string>
       <string>U-stroke</string>
       <string>Yi-dieresis.case</string>
       <string>breveinvertedcomb.stack</string>
+      <string>cy-descender</string>
       <string>cy-descendercomb</string>
       <string>descender-cy</string>
       <string>descenderinverted-cy</string>
@@ -5656,31 +5676,10 @@
       <string>enspace</string>
       <string>obarcyr-stroke</string>
       <string>thinspace</string>
+      <string>tildemacroncomb</string>
+      <string>tildemacroncomb.case</string>
       <string>yu-i</string>
       <string>yu-l.bgr</string>
-      <string>f_f_ij</string>
-      <string>f_ij</string>
-      <string>zero.prop</string>
-      <string>one.prop</string>
-      <string>two.prop</string>
-      <string>three.prop</string>
-      <string>four.prop</string>
-      <string>five.prop</string>
-      <string>six.prop</string>
-      <string>seven.prop</string>
-      <string>eight.prop</string>
-      <string>nine.prop</string>
-      <string>hryvnia.rvrn</string>
-      <string>hastroke-stroke</string>
-      <string>ka-swash</string>
-      <string>u-stroke</string>
-      <string>yu-dash</string>
-      <string>uni20B1.copy_1</string>
-      <string>uni20B2.copy_1</string>
-      <string>coloncurrency.rvrn</string>
-      <string>uni20B1.rvrn</string>
-      <string>uni20B2.rvrn</string>
-      <string>uni20B5.rvrn</string>
     </array>
     <key>tnCurvePalet</key>
     <dict>

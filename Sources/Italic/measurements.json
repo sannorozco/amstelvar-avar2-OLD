@@ -8231,59 +8231,59 @@
       }
     },
     "Ieukran": {
-      "8 25": {
+      "0 17": {
         "name": "XOUC",
         "direction": "x"
       },
-      "22 11": {
-        "name": "YOUC",
-        "direction": "y"
-      },
-      "36 28": {
-        "name": "YOUC",
-        "direction": "y"
-      },
-      "7 2": {
-        "name": "YOUC",
-        "direction": "y"
-      },
-      "31 33": {
-        "name": "YOUC",
-        "direction": "a"
-      },
-      "25 31": {
+      "17 23": {
         "name": "XTUC",
         "direction": "x"
       },
-      "36 11": {
+      "27 20": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "14 3": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "37 32": {
+        "name": "YOUC",
+        "direction": "y"
+      },
+      "23 24": {
+        "name": "YOUC",
+        "direction": "a"
+      },
+      "O 8": {
         "name": "YTUC",
         "direction": "y"
       },
-      "18 17": {
+      "35 36": {
         "name": "XSVU",
         "direction": "x"
       },
-      "3 4": {
+      "33 34": {
         "name": "XSVU",
         "direction": "x"
       },
-      "6 5": {
+      "10 9": {
         "name": "XSVU",
         "direction": "x"
       },
-      "17 16": {
+      "9 8": {
         "name": "YSVU",
         "direction": "y"
       },
-      "5 4": {
+      "35 34": {
         "name": "YSVU",
         "direction": "y"
       },
-      "C 11": {
+      "C 3": {
         "name": "YTOS",
         "direction": "y"
       },
-      "O 36": {
+      "O 27": {
         "name": "YTOS",
         "direction": "y"
       }

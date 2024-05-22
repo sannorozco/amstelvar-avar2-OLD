@@ -11,9 +11,9 @@ sourcePath    = os.path.join(sourcesFolder, f'{familyName}-{subFamilyName}_{sour
 
 assert os.path.exists(sourcePath)
 
-glyphNames = 'kai-tail yu-i yu yumacron'.split()
+glyphNames = ['e'] # 'yi-dieresiscomb hookabovecomb-stack.case'.split()
 
-dstFonts = 'YTUC541 YTUC875'.split()
+dstFonts = 'XUCS114 XUCS259'.split()
     
 preflight = False
 
@@ -29,7 +29,7 @@ for ufoPath in ufoPaths:
 
         dstFont = OpenFont(ufoPath, showInterface=False)
 
-        print(f'copying glyphs to {os.path.split(ufoPath)[-1]}...')
+        print(f'copying glyphs to {ufoPath}...')
         for glyphName in glyphNames:
             if glyphName not in sourceFont:
                 print(f'\tERROR: {glyphName} not in source font')

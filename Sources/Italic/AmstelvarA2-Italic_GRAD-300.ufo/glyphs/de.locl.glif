@@ -2,12 +2,12 @@
 <glyph name="de.locl" format="2">
   <advance width="1043"/>
   <outline>
-    <component base="g"/>
+    <component base="g" yOffset="1"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.5,1,0,0.5</string>
+      <string>1,0.8,0,0.5</string>
     </dict>
   </lib>
 </glyph>

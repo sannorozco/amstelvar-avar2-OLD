@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Germandbls" format="2">
-  <advance width="1407"/>
+  <advance width="500"/>
   <unicode hex="1E9E"/>
   <outline>
+    <contour>
+      <point x="-66" y="0" type="move"/>
+      <point x="-8" y="300" type="line"/>
+      <point x="180" y="320" type="line"/>
+    </contour>
   </outline>
 </glyph>
