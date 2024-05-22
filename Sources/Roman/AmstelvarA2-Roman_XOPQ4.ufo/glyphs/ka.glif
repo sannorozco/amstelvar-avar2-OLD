@@ -6,6 +6,7 @@
   <guideline x="786" y="880" angle="0" identifier="nFoPGEsufr"/>
   <anchor x="453" y="0" name="bottom"/>
   <anchor x="453" y="1000" name="top"/>
+  <anchor x="923" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="230" y="500" type="line"/>

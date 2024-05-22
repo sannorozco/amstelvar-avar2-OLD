@@ -4,6 +4,8 @@
   <dict>
     <key>.notdef</key>
     <string>_notdef.glif</string>
+    <key>Cy-descendercomb.case</key>
+    <string>C_y-descendercomb.case.glif</string>
     <key>DZcaron</key>
     <string>D_Z_caron.glif</string>
     <key>Delta</key>
@@ -58,6 +60,8 @@
     <string>caroncomb.case.glif</string>
     <key>cedillacomb.case</key>
     <string>cedillacomb.case.glif</string>
+    <key>che</key>
+    <string>che.glif</string>
     <key>che.bgr</key>
     <string>che.bgr.glif</string>
     <key>chi</key>
@@ -72,6 +76,8 @@
     <string>commaaccentcomb.case.glif</string>
     <key>commaaccentturnedcomb</key>
     <string>commaaccentturnedcomb.glif</string>
+    <key>cy-descendercomb</key>
+    <string>cy-descendercomb.glif</string>
     <key>dblgravecomb-stack</key>
     <string>dblgravecomb-stack.glif</string>
     <key>dblgravecomb-stack.case</key>
@@ -98,6 +104,8 @@
     <string>dotbelowcomb.case.glif</string>
     <key>el.bgr</key>
     <string>el.bgr.glif</string>
+    <key>en</key>
+    <string>en.glif</string>
     <key>en.bgr</key>
     <string>en.bgr.glif</string>
     <key>eta</key>
@@ -140,6 +148,8 @@
     <string>kappa.glif</string>
     <key>kaverticalstrokecyr</key>
     <string>kaverticalstrokecyr.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
     <key>lambda</key>
     <string>lambda.glif</string>
     <key>macronbelowcomb.case</key>
@@ -156,6 +166,8 @@
     <string>n.glif</string>
     <key>nu</key>
     <string>nu.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
     <key>ogonekcomb.case</key>
     <string>ogonekcomb.case.glif</string>
     <key>p</key>
@@ -174,12 +186,18 @@
     <string>ringcomb-stack.glif</string>
     <key>ringcomb.case</key>
     <string>ringcomb.case.glif</string>
+    <key>sha</key>
+    <string>sha.glif</string>
     <key>sha.bgr</key>
     <string>sha.bgr.glif</string>
     <key>shcha.bgr</key>
     <string>shcha.bgr.glif</string>
+    <key>soft</key>
+    <string>soft.glif</string>
     <key>soft.bgr</key>
     <string>soft.bgr.glif</string>
+    <key>te</key>
+    <string>te.glif</string>
     <key>theta</key>
     <string>theta.glif</string>
     <key>tildecomb-stack</key>
@@ -188,6 +206,8 @@
     <string>tildecomb.case.glif</string>
     <key>tse.bgr</key>
     <string>tse.bgr.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
     <key>upsilon</key>
     <string>upsilon.glif</string>
     <key>ustraight</key>
@@ -200,6 +220,8 @@
     <string>yi.glif</string>
     <key>yi-dieresiscomb</key>
     <string>yi-dieresiscomb.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>zhe</key>
     <string>zhe.glif</string>
     <key>zhe.bgr</key>

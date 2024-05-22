@@ -3,48 +3,13 @@
   <advance width="1043"/>
   <unicode hex="04B3"/>
   <outline>
-    <contour>
-      <point x="825" y="55" type="line"/>
-      <point x="1043" y="55" type="line"/>
-      <point x="1053" y="-318" type="line"/>
-      <point x="1013" y="-318" type="line"/>
-      <point x="972" y="0" type="line"/>
-      <point x="825" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="16" y="0" type="line"/>
-      <point x="16" y="34" type="line"/>
-      <point x="194" y="69" type="line"/>
-      <point x="478" y="489" type="line"/>
-      <point x="160" y="927" type="line"/>
-      <point x="20" y="962" type="line"/>
-      <point x="20" y="1000" type="line"/>
-      <point x="442" y="1000" type="line"/>
-      <point x="442" y="962" type="line"/>
-      <point x="249" y="925" type="line"/>
-      <point x="449" y="651" type="line"/>
-      <point x="516" y="552" type="line"/>
-      <point x="526" y="552" type="line"/>
-      <point x="588" y="651" type="line"/>
-      <point x="777" y="932" type="line"/>
-      <point x="590" y="962" type="line"/>
-      <point x="590" y="1000" type="line"/>
-      <point x="1006" y="1000" type="line"/>
-      <point x="1006" y="962" type="line"/>
-      <point x="848" y="927" type="line"/>
-      <point x="561" y="498" type="line"/>
-      <point x="895" y="55" type="line"/>
-      <point x="895" y="0" type="line"/>
-      <point x="611" y="0" type="line"/>
-      <point x="611" y="34" type="line"/>
-      <point x="795" y="71" type="line"/>
-      <point x="592" y="338" type="line"/>
-      <point x="523" y="435" type="line"/>
-      <point x="513" y="435" type="line"/>
-      <point x="452" y="338" type="line"/>
-      <point x="265" y="64" type="line"/>
-      <point x="432" y="34" type="line"/>
-      <point x="432" y="0" type="line"/>
-    </contour>
+    <component base="x"/>
+    <component base="cy-descendercomb" xOffset="341"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
+    </dict>
+  </lib>
 </glyph>

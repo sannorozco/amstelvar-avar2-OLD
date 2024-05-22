@@ -1,51 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hadescender" format="2">
-  <advance width="1246"/>
+  <advance width="1243"/>
   <unicode hex="04B2"/>
   <outline>
-    <contour>
-      <point x="1068" y="108" type="line"/>
-      <point x="1276" y="108" type="line"/>
-      <point x="1286" y="-338" type="line"/>
-      <point x="1164" y="-338" type="line"/>
-      <point x="1095" y="0" type="line"/>
-      <point x="1068" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="-20" y="0" type="line"/>
-      <point x="-20" y="100" type="line"/>
-      <point x="148" y="135" type="line"/>
-      <point x="578" y="870" type="line"/>
-      <point x="238" y="1355" type="line"/>
-      <point x="80" y="1386" type="line"/>
-      <point x="80" y="1500" type="line"/>
-      <point x="421" y="1500" type="line"/>
-      <point x="421" y="1386" type="line"/>
-      <point x="248" y="1353" type="line"/>
-      <point x="517" y="967" type="line"/>
-      <point x="575" y="884" type="line"/>
-      <point x="585" y="884" type="line"/>
-      <point x="633" y="966" type="line"/>
-      <point x="864" y="1360" type="line"/>
-      <point x="687" y="1386" type="line"/>
-      <point x="687" y="1500" type="line"/>
-      <point x="1193" y="1500" type="line"/>
-      <point x="1193" y="1386" type="line"/>
-      <point x="1015" y="1355" type="line"/>
-      <point x="669" y="747" type="line"/>
-      <point x="1075" y="135" type="line"/>
-      <point x="1075" y="0" type="line"/>
-      <point x="892" y="0" type="line"/>
-      <point x="892" y="100" type="line"/>
-      <point x="1065" y="135" type="line"/>
-      <point x="714" y="668" type="line"/>
-      <point x="671" y="733" type="line"/>
-      <point x="661" y="733" type="line"/>
-      <point x="621" y="666" type="line"/>
-      <point x="299" y="130" type="line"/>
-      <point x="476" y="100" type="line"/>
-      <point x="476" y="0" type="line"/>
-    </contour>
+    <component base="X"/>
+    <component base="Cy-descendercomb.case" xOffset="653" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -53,6 +12,8 @@
       <dict/>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_XOPQ4.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -106,6 +106,8 @@
     <string>d.glif</string>
     <key>dblgravecomb-stack.case</key>
     <string>dblgravecomb-stack.case.glif</string>
+    <key>delta</key>
+    <string>delta.glif</string>
     <key>dieresiscomb-stack.case</key>
     <string>dieresiscomb-stack.case.glif</string>
     <key>dotaccentcomb-stack.case</key>
@@ -166,10 +168,12 @@
     <string>r.glif</string>
     <key>s</key>
     <string>s.glif</string>
-    <key>sha</key>
-    <string>sha.glif</string>
+    <key>sigma</key>
+    <string>sigma.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>theta</key>
+    <string>theta.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>v</key>

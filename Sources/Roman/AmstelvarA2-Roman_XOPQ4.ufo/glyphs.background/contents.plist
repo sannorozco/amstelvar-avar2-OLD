@@ -6,14 +6,30 @@
     <string>A_.glif</string>
     <key>B</key>
     <string>B_.glif</string>
+    <key>Che</key>
+    <string>C_he.glif</string>
+    <key>Cy-descendercomb.case</key>
+    <string>C_y-descendercomb.case.glif</string>
     <key>Delta</key>
     <string>D_elta.glif</string>
     <key>Eth</key>
     <string>E_th.glif</string>
+    <key>H</key>
+    <string>H_.glif</string>
+    <key>Ha-stroke</key>
+    <string>H_a-stroke.glif</string>
     <key>Hbar</key>
     <string>H_bar.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
+    <key>Ka</key>
+    <string>K_a.glif</string>
     <key>Lambda</key>
     <string>L_ambda.glif</string>
+    <key>O</key>
+    <string>O_.glif</string>
+    <key>Obarcyr-stroke</key>
+    <string>O_barcyr-stroke.glif</string>
     <key>Omega</key>
     <string>O_mega.glif</string>
     <key>Phi</key>
@@ -24,24 +40,40 @@
     <string>Q_.glif</string>
     <key>R</key>
     <string>R_.glif</string>
+    <key>Sha</key>
+    <string>S_ha.glif</string>
     <key>Sigma</key>
     <string>S_igma.glif</string>
+    <key>T</key>
+    <string>T_.glif</string>
     <key>Theta</key>
     <string>T_heta.glif</string>
+    <key>U-stroke</key>
+    <string>U_-stroke.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>W</key>
     <string>W_.glif</string>
+    <key>X</key>
+    <string>X_.glif</string>
+    <key>Yu-dash.case</key>
+    <string>Y_u-dash.case.glif</string>
+    <key>Zhe</key>
+    <string>Z_he.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
     <key>c</key>
     <string>c.glif</string>
     <key>cedillacomb.case</key>
     <string>cedillacomb.case.glif</string>
+    <key>che</key>
+    <string>che.glif</string>
     <key>chi</key>
     <string>chi.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>cy-descendercomb</key>
+    <string>cy-descendercomb.glif</string>
     <key>dagger</key>
     <string>dagger.glif</string>
     <key>daggerdbl</key>
@@ -52,6 +84,8 @@
     <string>diagonalbarl.glif</string>
     <key>emdash</key>
     <string>emdash.glif</string>
+    <key>en</key>
+    <string>en.glif</string>
     <key>endash</key>
     <string>endash.glif</string>
     <key>eta</key>
@@ -74,14 +108,24 @@
     <string>iota.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>ka</key>
+    <string>ka.glif</string>
     <key>kappa</key>
     <string>kappa.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
     <key>lslash</key>
     <string>lslash.glif</string>
     <key>mu</key>
     <string>mu.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
+    <key>obarcyr-stroke</key>
+    <string>obarcyr-stroke.glif</string>
     <key>omega</key>
     <string>omega.glif</string>
+    <key>periodcentered.loclCAT.case</key>
+    <string>periodcentered.loclC_A_T_.case.glif</string>
     <key>phi</key>
     <string>phi.glif</string>
     <key>quotedblbase</key>
@@ -104,10 +148,22 @@
     <string>s.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
+    <key>sha</key>
+    <string>sha.glif</string>
+    <key>sha.bgr</key>
+    <string>sha.bgr.glif</string>
+    <key>shcha</key>
+    <string>shcha.glif</string>
     <key>sigma</key>
     <string>sigma.glif</string>
+    <key>soft</key>
+    <string>soft.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>te</key>
+    <string>te.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
     <key>upsilon</key>
@@ -116,11 +172,21 @@
     <string>v.glif</string>
     <key>w</key>
     <string>w.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
     <key>xi</key>
     <string>xi.glif</string>
+    <key>yu</key>
+    <string>yu.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
+    <key>yu.bgr-stroke</key>
+    <string>yu.bgr-stroke.glif</string>
     <key>z</key>
     <string>z.glif</string>
     <key>zeta</key>
     <string>zeta.glif</string>
+    <key>zhe</key>
+    <string>zhe.glif</string>
   </dict>
 </plist>

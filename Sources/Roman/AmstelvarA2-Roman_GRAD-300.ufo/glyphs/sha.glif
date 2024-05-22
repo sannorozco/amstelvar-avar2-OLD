@@ -2,6 +2,7 @@
 <glyph name="sha" format="2">
   <advance width="1884"/>
   <unicode hex="0448"/>
+  <anchor x="1804" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="267" y="502" type="line"/>

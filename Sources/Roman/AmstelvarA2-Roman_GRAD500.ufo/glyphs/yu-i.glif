@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yu-i" format="2">
+  <advance width="626"/>
+  <anchor x="311" y="500" name="yu_dash"/>
+  <anchor x="311" y="500" name="yeru_i"/>
+  <anchor x="80" y="0" name="_yeru_i"/>
+  <outline>
+    <contour>
+      <point x="439" y="500" type="line"/>
+      <point x="441" y="135" type="line"/>
+      <point x="559" y="100" type="line"/>
+      <point x="559" y="0" type="line"/>
+      <point x="67" y="0" type="line"/>
+      <point x="67" y="100" type="line"/>
+      <point x="185" y="135" type="line"/>
+      <point x="187" y="500" type="line"/>
+      <point x="185" y="865" type="line"/>
+      <point x="67" y="900" type="line"/>
+      <point x="67" y="1000" type="line"/>
+      <point x="559" y="1000" type="line"/>
+      <point x="559" y="900" type="line"/>
+      <point x="441" y="865" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,10 +2,6 @@
 <glyph name="obarcyr" format="2">
   <advance width="1050"/>
   <unicode hex="04E9"/>
-  <guideline x="585" y="692" angle="90" identifier="TW15yk9ONy"/>
-  <guideline x="302" y="625" angle="90" identifier="LWmXbChIoz"/>
-  <guideline x="953" y="554" angle="90" identifier="bK8m9jQMXz"/>
-  <guideline x="627" y="553" angle="90" identifier="vdy2ab6IAk"/>
   <outline>
     <contour>
       <point x="38" y="525" type="qcurve" smooth="yes"/>

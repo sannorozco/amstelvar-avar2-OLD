@@ -2,6 +2,7 @@
 <glyph name="soft" format="2">
   <advance width="1891"/>
   <unicode hex="044C"/>
+  <anchor x="1865" y="0" name="yeru_i"/>
   <outline>
     <contour>
       <point x="814" y="105" type="line"/>

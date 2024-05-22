@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yu-dash.case" format="2">
   <advance width="1235"/>
+  <anchor x="380" y="755" name="_yu_dash"/>
+  <anchor x="848" y="755" name="yu_dash"/>
   <outline>
     <contour>
       <point x="380" y="716" type="line"/>

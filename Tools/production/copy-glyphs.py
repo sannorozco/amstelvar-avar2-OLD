@@ -3,7 +3,7 @@
 import os, glob
 
 familyName    = 'AmstelvarA2'
-subFamilyName = ['Roman', 'Italic'][1]
+subFamilyName = ['Roman', 'Italic'][0]
 sourceName    = 'wght400'
 baseFolder    = os.path.dirname(os.path.dirname(os.getcwd()))
 sourcesFolder = os.path.join(baseFolder, 'Sources', subFamilyName)
@@ -11,9 +11,9 @@ sourcePath    = os.path.join(sourcesFolder, f'{familyName}-{subFamilyName}_{sour
 
 assert os.path.exists(sourcePath)
 
-glyphNames = 'kai-tail yu-i yu yumacron'.split()
+glyphNames = 'H Ustraightstroke Hastroke-cy I O T X Zhe Ka Che Sha Shcha Yu Zhedescender Kadescender Endescender Tedescender-cy Hadescender Chedescender-cy Obarcyr zhe ka en te che sha shcha yeru soft yu zhedescender kadescender endescender tedescender-cy hadescender chedescender-cy obarcyr hastroke-cy tse.bgr sha.bgr shcha.bgr Yumacron yumacron Yu-dash.case yu.bgr-stroke'.split() # l o u x 
 
-dstFonts = 'YTUC541 YTUC875'.split()
+dstFonts = 'XSHL0 XSHL124'.split()
     
 preflight = False
 

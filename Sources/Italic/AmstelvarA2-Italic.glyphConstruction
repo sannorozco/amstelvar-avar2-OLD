@@ -96,7 +96,7 @@ Lacute = L + acutecomb.case@top | 0x139
 Lcaron = L + caroncomb.alt@topright | 0x13d
 Lcommaaccent = L + commaaccentcomb.case@bottom | 0x13b
 Ldot = L + periodcentered.loclCAT@centerright | 0x13f
-Lslash = L + diagonalbarL@center | 0x141
+Lslash = L + diagonalbarl@center | 0x141
 
 Nacute = N + acutecomb.case@top | 0x143
 Ncaron = N + caroncomb.case@top | 0x147

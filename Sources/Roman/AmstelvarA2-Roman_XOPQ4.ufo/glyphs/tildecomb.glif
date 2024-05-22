@@ -33,10 +33,4 @@
       <point x="-317" y="1155" type="qcurve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50364</string>
-    </dict>
-  </lib>
 </glyph>

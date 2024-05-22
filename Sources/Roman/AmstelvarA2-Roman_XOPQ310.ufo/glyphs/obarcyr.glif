@@ -3,47 +3,15 @@
   <advance width="2012"/>
   <unicode hex="04E9"/>
   <outline>
-    <contour>
-      <point x="64" y="500" type="qcurve" smooth="yes"/>
-      <point x="64" y="717"/>
-      <point x="585" y="1022"/>
-      <point x="1007" y="1022" type="qcurve" smooth="yes"/>
-      <point x="1428" y="1022"/>
-      <point x="1948" y="737"/>
-      <point x="1948" y="506" type="qcurve" smooth="yes"/>
-      <point x="1948" y="290"/>
-      <point x="1434" y="-22"/>
-      <point x="1013" y="-22" type="qcurve" smooth="yes"/>
-      <point x="592" y="-22"/>
-      <point x="64" y="267"/>
-    </contour>
-    <contour>
-      <point x="668" y="520" type="qcurve" smooth="yes"/>
-      <point x="669" y="339"/>
-      <point x="854" y="88"/>
-      <point x="1005" y="88" type="qcurve" smooth="yes"/>
-      <point x="1170" y="88"/>
-      <point x="1349" y="317"/>
-      <point x="1349" y="506" type="qcurve" smooth="yes"/>
-      <point x="1349" y="680"/>
-      <point x="1162" y="906"/>
-      <point x="1007" y="906" type="qcurve" smooth="yes"/>
-      <point x="843" y="906"/>
-      <point x="667" y="700"/>
-    </contour>
-    <contour>
-      <point x="579" y="574" type="line"/>
-      <point x="1007" y="571" type="line"/>
-      <point x="1439" y="574" type="line"/>
-      <point x="1439" y="469" type="line"/>
-      <point x="1007" y="471" type="line"/>
-      <point x="579" y="469" type="line"/>
-    </contour>
+    <component base="o"/>
+    <component base="obarcyr-stroke" xOffset="425" yOffset="-21.5"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Chedescender-cy" format="2">
   <advance width="1576"/>
-  <guideline x="1330" y="777" angle="90" identifier="9CLqHZNG04"/>
   <outline>
     <contour>
       <point x="461" y="1117" type="line" smooth="yes"/>

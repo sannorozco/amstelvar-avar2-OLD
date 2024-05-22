@@ -100,6 +100,8 @@
     <string>C_heverticalstroke-cy.glif</string>
     <key>Chi</key>
     <string>C_hi.glif</string>
+    <key>Cy-descendercomb.case</key>
+    <string>C_y-descendercomb.case.glif</string>
     <key>D</key>
     <string>D_.glif</string>
     <key>DZcaron</key>
@@ -936,6 +938,8 @@
     <string>copyright.glif</string>
     <key>currency</key>
     <string>currency.glif</string>
+    <key>cy-descendercomb</key>
+    <string>cy-descendercomb.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>dagger</key>
@@ -2046,6 +2050,8 @@
     <string>ytilde.glif</string>
     <key>yu</key>
     <string>yu.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>yu.bgr</key>
     <string>yu.bgr.glif</string>
     <key>yu.bgr-stroke</key>

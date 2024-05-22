@@ -48,8 +48,6 @@
       <dict/>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_XSHL124.ufo/glyphs</string>
-      <key>public.markColor</key>
-      <string>1,0.18574,0.57340,0.29823</string>
     </dict>
   </lib>
 </glyph>

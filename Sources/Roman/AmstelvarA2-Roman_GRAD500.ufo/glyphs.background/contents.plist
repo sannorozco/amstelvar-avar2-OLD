@@ -10,8 +10,12 @@
     <string>B_.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>Che</key>
+    <string>C_he.glif</string>
     <key>Chedescender-cy</key>
     <string>C_hedescender-cy.glif</string>
+    <key>Cy-descendercomb.case</key>
+    <string>C_y-descendercomb.case.glif</string>
     <key>D</key>
     <string>D_.glif</string>
     <key>De.bgr</key>
@@ -36,6 +40,8 @@
     <string>G_amma.glif</string>
     <key>H</key>
     <string>H_.glif</string>
+    <key>Ha-stroke</key>
+    <string>H_a-stroke.glif</string>
     <key>Hadescender</key>
     <string>H_adescender.glif</string>
     <key>Hastroke-cy</key>
@@ -48,6 +54,8 @@
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>Ka</key>
+    <string>K_a.glif</string>
     <key>Kaisymbol</key>
     <string>K_aisymbol.glif</string>
     <key>L</key>
@@ -60,6 +68,8 @@
     <string>N_.glif</string>
     <key>O</key>
     <string>O_.glif</string>
+    <key>Obarcyr-stroke</key>
+    <string>O_barcyr-stroke.glif</string>
     <key>Omega</key>
     <string>O_mega.glif</string>
     <key>Omegatonos</key>
@@ -84,12 +94,16 @@
     <string>S_.glif</string>
     <key>Schwacyr</key>
     <string>S_chwacyr.glif</string>
+    <key>Sha</key>
+    <string>S_ha.glif</string>
     <key>Sigma</key>
     <string>S_igma.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>U</key>
     <string>U_.glif</string>
+    <key>U-stroke</key>
+    <string>U_-stroke.glif</string>
     <key>Ucyr</key>
     <string>U_cyr.glif</string>
     <key>Upsilontonos</key>
@@ -136,6 +150,8 @@
     <string>breve.cyrcomb.case.glif</string>
     <key>brevecomb</key>
     <string>brevecomb.glif</string>
+    <key>che</key>
+    <string>che.glif</string>
     <key>chi</key>
     <string>chi.glif</string>
     <key>circumflexcomb</key>
@@ -144,6 +160,8 @@
     <string>commaaccentcomb.glif</string>
     <key>commaaccentturnedcomb</key>
     <string>commaaccentturnedcomb.glif</string>
+    <key>cy-descendercomb</key>
+    <string>cy-descendercomb.glif</string>
     <key>dblgravecomb</key>
     <string>dblgravecomb.glif</string>
     <key>delta</key>
@@ -166,6 +184,8 @@
     <string>eight.tab.glif</string>
     <key>el.bgr</key>
     <string>el.bgr.glif</string>
+    <key>en</key>
+    <string>en.glif</string>
     <key>epsilon</key>
     <string>epsilon.glif</string>
     <key>epsilontonos</key>
@@ -222,6 +242,8 @@
     <string>kappa.glif</string>
     <key>kaverticalstrokecyr</key>
     <string>kaverticalstrokecyr.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
     <key>lambda</key>
     <string>lambda.glif</string>
     <key>ldot</key>
@@ -234,6 +256,10 @@
     <string>nine.tab.glif</string>
     <key>nu</key>
     <string>nu.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
+    <key>obarcyr-stroke</key>
+    <string>obarcyr-stroke.glif</string>
     <key>omega</key>
     <string>omega.glif</string>
     <key>omegatonos</key>
@@ -260,12 +286,18 @@
     <string>psi.glif</string>
     <key>rho</key>
     <string>rho.glif</string>
+    <key>sha</key>
+    <string>sha.glif</string>
     <key>sha.bgr</key>
     <string>sha.bgr.glif</string>
     <key>sigma</key>
     <string>sigma.glif</string>
+    <key>soft</key>
+    <string>soft.glif</string>
     <key>tau</key>
     <string>tau.glif</string>
+    <key>te</key>
+    <string>te.glif</string>
     <key>theta</key>
     <string>theta.glif</string>
     <key>three.tab</key>
@@ -282,6 +314,8 @@
     <string>tonoscomb.case.glif</string>
     <key>two.tab</key>
     <string>two.tab.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
     <key>upsilon</key>
     <string>upsilon.glif</string>
     <key>upsilondieresis</key>
@@ -306,6 +340,8 @@
     <string>xi.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>yu.bgr</key>
     <string>yu.bgr.glif</string>
     <key>yu.bgr-stroke</key>

@@ -2,9 +2,6 @@
 <glyph name="Upsilontonos" format="2">
   <advance width="2122"/>
   <unicode hex="038E"/>
-  <note>
-10,Y
-</note>
   <outline>
     <component base="Y" xOffset="415"/>
     <component base="tonoscomb.case" xOffset="120"/>

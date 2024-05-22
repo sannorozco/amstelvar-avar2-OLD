@@ -2,9 +2,6 @@
 <glyph name="Epsilontonos" format="2">
   <advance width="2004"/>
   <unicode hex="0388"/>
-  <note>
-50,E
-</note>
   <outline>
     <component base="E" xOffset="274"/>
     <component base="tonoscomb.case" xOffset="120"/>

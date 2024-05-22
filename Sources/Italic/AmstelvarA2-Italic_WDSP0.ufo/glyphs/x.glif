@@ -65,4 +65,10 @@
       <point x="76" y="-13"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hipertipo.tempEdit.glyphSetPath</key>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Italic/AmstelvarA2-Italic_wght400.ufo/glyphs</string>
+    </dict>
+  </lib>
 </glyph>
