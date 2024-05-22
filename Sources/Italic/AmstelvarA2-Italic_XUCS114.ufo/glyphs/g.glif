@@ -2,8 +2,8 @@
 <glyph name="g" format="2">
   <advance width="1043"/>
   <unicode hex="0067"/>
-  <anchor x="324.0" y="-416" name="bottom"/>
-  <anchor x="602.0" y="1000" name="top"/>
+  <anchor x="324" y="-416" name="bottom"/>
+  <anchor x="602" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="-6" y="264" type="qcurve" smooth="yes"/>
@@ -52,4 +52,10 @@
       <point x="159" y="545"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.P2iG04Woq9</key>
+      <integer>5</integer>
+    </dict>
+  </lib>
 </glyph>

@@ -3,7 +3,7 @@
 '''
 red    : nested components
 blue   : multiple components
-green  : one component only
+yellow : one component only
 
 '''
 
@@ -27,7 +27,7 @@ for g in f:
     if not(g.components):
         continue
     if len(g.components) == 1:
-        g.markColor = 0.5, 1, 0, alpha
+        g.markColor = 1, 0.8, 0, alpha
     else:
         levels = getNestingLevels(g)
         if levels > 1:

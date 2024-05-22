@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="C" format="2">
-  <advance width="1303"/>
+  <advance width="500"/>
   <unicode hex="0043"/>
   <outline>
+    <contour>
+      <point x="1273" y="1400" type="move"/>
+      <point x="1235" y="1052" type="line"/>
+      <point x="986" y="1052" type="line"/>
+      <point x="979" y="1282" type="line"/>
+    </contour>
   </outline>
 </glyph>

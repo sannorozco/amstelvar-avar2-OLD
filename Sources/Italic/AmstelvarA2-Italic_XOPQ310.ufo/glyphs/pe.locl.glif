@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pe.locl" format="2">
-  <advance width="1999"/>
+  <advance width="1171"/>
   <outline>
     <component base="u"/>
-    <component base="macroncomb" xOffset="989.9999999998976"/>
+    <component base="macroncomb" xOffset="475"/>
   </outline>
   <lib>
     <dict>

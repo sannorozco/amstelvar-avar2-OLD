@@ -4,12 +4,14 @@
   <unicode hex="0069"/>
   <outline>
     <component base="idotless"/>
-    <component base="idot" xOffset="126.00000000001134"/>
+    <component base="idot" xOffset="126"/>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.UoBWQ8KbZg</key>
+      <integer>5</integer>
       <key>public.markColor</key>
-      <string>0,0.6,1,0.5</string>
+      <string>0,0.5,1,0.8</string>
     </dict>
   </lib>
 </glyph>

@@ -52,6 +52,8 @@
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.aElvfKe6lu</key>
       <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0,0.98107,0.57369,0.5</string>
     </dict>
   </lib>
 </glyph>
