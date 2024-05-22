@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hadescender" format="2">
-  <advance width="960"/>
+  <advance width="1370"/>
   <unicode hex="04B3"/>
   <outline>
     <component base="x"/>
-    <component base="descender-cy" xOffset="257"/>
+    <component base="cy-descendercomb" xOffset="642.9999999999995" yOffset="1"/>
   </outline>
   <lib>
     <dict>

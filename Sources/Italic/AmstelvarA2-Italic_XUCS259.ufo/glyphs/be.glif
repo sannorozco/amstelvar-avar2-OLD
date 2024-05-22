@@ -15,10 +15,10 @@
       <point x="694.5099337748" y="858"/>
       <point x="585" y="858" type="qcurve" smooth="yes"/>
       <point x="467.4268585132" y="858"/>
-      <point x="239.7063251827" y="702.6142778519"/>
-      <point x="173" y="615" type="qcurve"/>
-      <point x="172" y="729" type="line"/>
-      <point x="266.6387223371" y="848.5436492679"/>
+      <point x="234" y="700"/>
+      <point x="111" y="545" type="qcurve"/>
+      <point x="129" y="680" type="line"/>
+      <point x="268" y="852"/>
       <point x="540.3168316832" y="1006"/>
       <point x="672" y="1006" type="qcurve" smooth="yes"/>
       <point x="826.2264957265" y="1006"/>

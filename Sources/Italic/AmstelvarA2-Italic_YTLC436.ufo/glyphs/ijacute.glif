@@ -5,12 +5,12 @@
     <component base="idotless"/>
     <component base="idot" xOffset="96.99999999996524" yOffset="-150"/>
     <component base="jdotless" xOffset="618"/>
-    <component base="acutecomb" xOffset="811.9999999999818" yOffset="-150"/>
+    <component base="acutecomb" xOffset="908.9999999999817" yOffset="-150"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

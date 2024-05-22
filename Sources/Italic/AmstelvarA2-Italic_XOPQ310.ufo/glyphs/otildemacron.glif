@@ -4,8 +4,8 @@
   <unicode hex="022D"/>
   <outline>
     <component base="o"/>
-    <component base="tildecomb-stack" xOffset="906.3645390070582" yOffset="-52"/>
-    <component base="macroncomb-stack" xOffset="974.3645390070578" yOffset="299"/>
+    <component base="tildecomb-stack" xOffset="935.9999999999135" yOffset="-52"/>
+    <component base="macroncomb-stack" xOffset="1003.9999999999131" yOffset="299"/>
   </outline>
   <lib>
     <dict>

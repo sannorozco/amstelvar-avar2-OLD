@@ -5,10 +5,4 @@
     <component base="Yu"/>
     <component base="macroncomb.case" xOffset="944.0000000000488"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0,0,0.5</string>
-    </dict>
-  </lib>
 </glyph>

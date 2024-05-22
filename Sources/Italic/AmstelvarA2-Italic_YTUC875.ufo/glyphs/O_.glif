@@ -8,6 +8,7 @@
   <anchor x="954.0" y="1750" name="top"/>
   <anchor x="1092" y="1750" name="topright"/>
   <anchor x="288.0" y="1750" name="tonos"/>
+  <anchor x="201" y="934" name="_yu_dash"/>
   <outline>
     <contour>
       <point x="130" y="1007" type="qcurve" smooth="yes"/>
@@ -42,8 +43,6 @@
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.t9UmQ6O2X4</key>
       <integer>5</integer>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
     </dict>
   </lib>
 </glyph>

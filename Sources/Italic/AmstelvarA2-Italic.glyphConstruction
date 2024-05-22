@@ -200,23 +200,23 @@ Alphatonos = A + tonoscomb.case@tonos | 0x0386
 Beta = B | 0x392
 Chi = X | 0x3a7
 Epsilon = E | 0x395
-Epsilontonos = E + tonoscomb.case@tonos ^ 230,E | 0x0388
+Epsilontonos = E + tonoscomb.case@tonos ^ Alphatonos,E | 0x0388
 Eta = H | 0x397
-Etatonos = H + tonoscomb.case@tonos ^ 230,H | 0x0389
+Etatonos = H + tonoscomb.case@tonos ^ Alphatonos,H | 0x0389
 Iota = I | 0x399
 Iotadieresis = I + dieresiscomb.case@top | 0x03AA
-Iotatonos = I + tonoscomb.case@tonos ^ 230,I | 0x038A
+Iotatonos = I + tonoscomb.case@tonos ^ Alphatonos,I | 0x038A
 Kappa = K | 0x39a
 Mu = M | 0x39c
 Nu = N | 0x39d
-Omegatonos = Omega + tonoscomb.case@tonos ^ 230,O | 0x038F
+Omegatonos = Omega + tonoscomb.case@tonos ^ Alphatonos,O | 0x038F
 Omicron = O | 0x39f
-Omicrontonos = O + tonoscomb.case@tonos ^ 230,O | 0x038C
+Omicrontonos = O + tonoscomb.case@tonos ^ Alphatonos,O | 0x038C
 Rho = P | 0x3a1
 Tau = T | 0x3a4
 Upsilon = Y | 0x3a5
 Upsilondieresis = Y + dieresiscomb.case@top | 0x03AB
-Upsilontonos = Y + tonoscomb.case@tonos ^ 230,Y | 0x038E
+Upsilontonos = Y + tonoscomb.case@tonos ^ Alphatonos,Y | 0x038E
 Zeta = Z | 0x396
 
 # -------------------------------------
@@ -228,7 +228,7 @@ Chedescender-cy = Che + Cy-descendercomb.case@cy_descender | 0x4b6
 Dze = S | 0x405
 Ebrevecyr = Ecyr + breve.cyrcomb.case@top | 0xf524
 Emacroncyr = Ecyr + macroncomb.case@top | 0xf522
-Ef = Phi | 0x424
+# Ef = Phi | 0x424
 El.bgr = Lambda | None
 Em = M | 0x41c
 En = H | 0x41d
@@ -274,7 +274,8 @@ Yamacron = Ya + macroncomb.case@top | 0xf528
 Yeru = Soft & I | 0x042B
 Yi = I + dieresiscomb.case@top | 0x407
 Yu = I + Yu-dash.case@yu_dash + O@yu_dash ^ I,O | 0x042E
-Yumacron = Yu + macroncomb.case@top | 0xf52c
+Yumacron = I + Yu-dash.case@yu_dash + O@yu_dash + macroncomb.case@Yu:center,top ^ I,O | 0xf52c
+Yu = I + Yu-dash.case@yu_dash + O@yu_dash ^ I,O | 0x042E
 Zedescendercyr = Ze + cedillacomb.case@bottom | 0x498
 Zhebrevecyr = Zhe + breve.cyrcomb.case@top | 04C1
 Zhedescender = Zhe + Cy-descendercomb.case@cy_descender | 0x496
@@ -489,6 +490,9 @@ upsilondieresis = upsilon + dieresiscomb@GRKtop | 0x03CB
 upsilondieresistonos = upsilon + dieresistonoscomb@GRKtop | 0x03B0
 upsilontonos = upsilon + tonoscomb@GRKtop | 0x03CD
 
+# Kaisymbol = K + kai-tail@kai_tail | 0x03CF
+kaisymbol = kappa + kai-tail@kai_tail | 0x03D7
+
 # -------------------------------------
 #  C Y R I L L I C   L O W E R C A S E 
 # -------------------------------------
@@ -499,7 +503,7 @@ adieresiscyr = a + dieresiscomb@top | 0x4d3
 amacroncyr = a + macroncomb@top | 0xf50f
 chedescender-cy = che + cy-descendercomb@cy_descender | 0x4b7
 de.locl = g | None
-dje = h + horizontalbarlc@center + engtail@h:engtail | 0x0452
+# dje = h + horizontalbarlc@center + engtail@h:engtail | 0x0452
 dze = s | 0x455
 dzhe = u + descenderinverted-cy@cy-descenderinverted | 0x45f
 ebrevecyr = ecyr + breve.cyrcomb@top | 0xf525
@@ -508,6 +512,7 @@ es = c | 0x0441
 esdescendercyr = c + cedillacomb@bottom | 0x4ab
 emacroncyr = ecyr + macroncomb@top | 0xf523
 endescender = en + cy-descendercomb@cy_descender | 0x4a3
+ghe.bgr = ghe | None
 ghe.locl = idotless + macroncomb@top | None
 ghestroke = ghe + horizontalbarlc@center | 0x493
 gje = ghe + acutecomb@top | 0x453
@@ -550,9 +555,8 @@ ustraightstroke = ustraight + ustraight-stroke | 0x4b1
 yamacron = ya + macroncomb@top | 0xf529
 yeru = soft & idotless | 0x044B
 yi = idotless + yi-dieresiscomb@top | 0x457
-yu = idotless + yu-dash@yu_dash + o@yu_dash ^ idotless,o | 0x044E
-yumacron = yu + macroncomb@top | 0xf52d
-
+yu = yu-i + yu.bgr-stroke@yu_dash + o@yu_dash ^ yu-i,o | 0x044E
+yumacron = yu-i + yu.bgr-stroke@yu_dash + o@yu_dash + macroncomb@yu:center,top  ^ yu-yu-i,o | 0xf52d
 zedescendercyr = ze + cedillacomb@bottom | 0x499
 zhebrevecyr = zhe + breve.cyrcomb@top | 0x4c2
 zhedescender = zhe + cy-descendercomb@cy_descender | 0x497
@@ -573,7 +577,7 @@ hard.bgr = hard | None
 soft.bgr = soft | None
 te.bgr = m | None
 tse.bgr = u + cy-descendercomb@cy_descender | None
-yu.bgr = yu-l.bgr + yu.bgr-stroke + o | None
+yu.bgr = yu-l.bgr + yu.bgr-stroke@yu_dash + o@yu_dash ^ yu-l.bgr,o | None
 
 # -----------------
 #  D I G R A P H S

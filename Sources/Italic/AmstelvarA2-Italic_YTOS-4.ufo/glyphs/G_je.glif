@@ -4,12 +4,6 @@
   <unicode hex="0403"/>
   <outline>
     <component base="Gamma"/>
-    <component base="acutecomb.case" xOffset="469.000000000067"/>
+    <component base="acutecomb.case" xOffset="566.0000000000464"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
-    </dict>
-  </lib>
 </glyph>

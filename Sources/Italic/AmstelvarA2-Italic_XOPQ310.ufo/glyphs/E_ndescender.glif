@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Endescender" format="2">
-  <advance width="1576"/>
+  <advance width="2478"/>
   <unicode hex="04A2"/>
   <outline>
     <component base="H"/>
-    <component base="Cy-descendercomb.case" xOffset="768"/>
+    <component base="Cy-descendercomb.case" xOffset="1665.9999999999795"/>
   </outline>
   <lib>
     <dict>

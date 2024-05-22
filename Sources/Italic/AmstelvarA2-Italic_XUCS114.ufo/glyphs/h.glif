@@ -2,9 +2,9 @@
 <glyph name="h" format="2">
   <advance width="1157"/>
   <unicode hex="0068"/>
-  <anchor x="420" y="0" name="bottom"/>
-  <anchor x="347" y="1202" name="center"/>
-  <anchor x="424" y="1534" name="top"/>
+  <anchor x="420.0" y="0" name="bottom"/>
+  <anchor x="347.0" y="1202" name="center"/>
+  <anchor x="424.0" y="1534" name="top"/>
   <outline>
     <contour>
       <point x="56" y="-23" type="line"/>
@@ -41,10 +41,4 @@
       <point x="955" y="46" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.hipertipo.tempEdit.glyphSetPath</key>
-      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Italic/AmstelvarA2-Italic_wght400.ufo/glyphs</string>
-    </dict>
-  </lib>
 </glyph>

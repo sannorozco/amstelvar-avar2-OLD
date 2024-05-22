@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Upsilondieresis" format="2">
-  <advance width="1202"/>
+  <advance width="1660"/>
   <unicode hex="03AB"/>
   <outline>
     <component base="Y"/>
-    <component base="dieresiscomb.case" xOffset="536"/>
+    <component base="dieresiscomb.case" xOffset="891.0000000000346"/>
   </outline>
   <lib>
     <dict>

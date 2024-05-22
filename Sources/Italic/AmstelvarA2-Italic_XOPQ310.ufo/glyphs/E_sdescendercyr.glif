@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Esdescendercyr" format="2">
-  <advance width="1303"/>
+  <advance width="1915"/>
   <unicode hex="04AA"/>
   <outline>
     <component base="C"/>
-    <component base="cedillacomb.case" xOffset="693"/>
+    <component base="cedillacomb.case" xOffset="1108.6905537459284"/>
   </outline>
   <lib>
     <dict>

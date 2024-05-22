@@ -2,9 +2,6 @@
 <glyph name="ocircumflexgrave" format="2">
   <advance width="1050"/>
   <unicode hex="1ED3"/>
-  <note>
-@topleft
-</note>
   <outline>
     <component base="o"/>
     <component base="circumflexcomb-stack" xOffset="475.9999999999211" yOffset="-53"/>

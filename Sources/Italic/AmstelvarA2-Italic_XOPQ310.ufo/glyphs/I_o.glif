@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Io" format="2">
-  <advance width="1182"/>
+  <advance width="1746"/>
   <unicode hex="0401"/>
   <outline>
     <component base="E"/>
-    <component base="dieresiscomb.case" xOffset="593.9999999999347"/>
+    <component base="dieresiscomb.case" xOffset="898.9999999999919"/>
   </outline>
   <lib>
     <dict>

@@ -32,12 +32,12 @@
       <point x="380" y="149"/>
     </contour>
     <contour>
-      <point x="382" y="648" type="line"/>
-      <point x="415" y="813" type="line"/>
-      <point x="771" y="791" type="line"/>
-      <point x="1134" y="813" type="line"/>
-      <point x="1101" y="648" type="line"/>
-      <point x="746" y="670" type="line"/>
+      <point x="393" y="690" type="line"/>
+      <point x="426" y="843" type="line"/>
+      <point x="782" y="823" type="line"/>
+      <point x="1145" y="843" type="line"/>
+      <point x="1112" y="690" type="line"/>
+      <point x="758" y="712" type="line"/>
     </contour>
   </outline>
 </glyph>

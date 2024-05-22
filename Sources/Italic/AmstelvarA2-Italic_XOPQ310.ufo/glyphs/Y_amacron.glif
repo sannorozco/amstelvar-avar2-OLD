@@ -4,7 +4,7 @@
   <unicode hex="F528"/>
   <outline>
     <component base="Ya"/>
-    <component base="macroncomb.case" xOffset="607.9999999999789"/>
+    <component base="macroncomb.case" xOffset="704.9999999999582"/>
   </outline>
   <lib>
     <dict>

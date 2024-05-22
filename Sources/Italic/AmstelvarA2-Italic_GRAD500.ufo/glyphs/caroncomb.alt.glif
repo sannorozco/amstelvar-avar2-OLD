@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.alt" format="2">
-  <anchor x="0" y="1000" name="_topright"/>
+  <anchor x="0.0" y="1000" name="_topright"/>
   <outline>
     <contour>
-      <point x="-9" y="1088" type="line"/>
-      <point x="136" y="1417" type="line" smooth="yes"/>
-      <point x="167" y="1487"/>
-      <point x="234" y="1573"/>
-      <point x="292" y="1573" type="qcurve" smooth="yes"/>
-      <point x="351" y="1573"/>
-      <point x="413" y="1517"/>
-      <point x="413" y="1474" type="qcurve" smooth="yes"/>
-      <point x="413" y="1431"/>
-      <point x="360" y="1343"/>
-      <point x="328" y="1299" type="qcurve" smooth="yes"/>
-      <point x="124" y="1015" type="line"/>
+      <point x="20.0" y="1075.0" type="line"/>
+      <point x="165.0" y="1404.0" type="line" smooth="yes"/>
+      <point x="196.0" y="1474.0"/>
+      <point x="257.0" y="1551.0"/>
+      <point x="297.0" y="1551.0" type="qcurve" smooth="yes"/>
+      <point x="337.0" y="1551.0"/>
+      <point x="380.0" y="1506.0"/>
+      <point x="380.0" y="1471.0" type="qcurve" smooth="yes"/>
+      <point x="380.0" y="1436.0"/>
+      <point x="337.0" y="1358.0"/>
+      <point x="305.0" y="1314.0" type="qcurve" smooth="yes"/>
+      <point x="101.0" y="1030.0" type="line"/>
     </contour>
   </outline>
 </glyph>

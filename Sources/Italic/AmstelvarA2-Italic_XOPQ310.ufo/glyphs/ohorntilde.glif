@@ -4,8 +4,8 @@
   <unicode hex="1EE1"/>
   <outline>
     <component base="o"/>
-    <component base="horncomb" xOffset="1175.0000000000555"/>
-    <component base="tildecomb" xOffset="945.9999999999119"/>
+    <component base="horncomb" xOffset="1272.0000000000555"/>
+    <component base="tildecomb" xOffset="1042.9999999999118"/>
   </outline>
   <lib>
     <dict>

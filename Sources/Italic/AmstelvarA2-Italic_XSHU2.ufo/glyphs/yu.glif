@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yu" format="2">
-  <advance width="1526"/>
+  <advance width="1358"/>
   <unicode hex="044E"/>
-  <anchor x="748.0" y="1000" name="top"/>
   <outline>
-    <component base="yu-i"/>
-    <component base="o" xOffset="476"/>
-    <component base="yu.bgr-stroke"/>
+    <component base="yu-i" xOffset="45.000000000003126"/>
+    <component base="yu.bgr-stroke" xOffset="-148" yOffset="-498"/>
+    <component base="o" xOffset="308.000000000021" yOffset="-498"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,1</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

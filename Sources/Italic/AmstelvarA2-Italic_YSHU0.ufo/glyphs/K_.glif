@@ -4,6 +4,7 @@
   <unicode hex="004B"/>
   <anchor x="607.0" y="0" name="bottom"/>
   <anchor x="896.0" y="1500" name="top"/>
+  <anchor x="1201" y="100" name="kai_tail"/>
   <outline>
     <contour>
       <point x="-66" y="0" type="line"/>
@@ -42,10 +43,4 @@
       <point x="913" y="24" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
-    </dict>
-  </lib>
 </glyph>

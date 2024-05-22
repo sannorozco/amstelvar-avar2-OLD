@@ -1,14 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tshe" format="2">
-  <advance width="1153"/>
+  <advance width="1157"/>
   <unicode hex="045B"/>
   <outline>
-    <component base="hbar"/>
+    <component base="h"/>
+    <component base="horizontalbarlc" xOffset="2.4999999999998295" yOffset="483"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,1,0,0.8</string>
-    </dict>
-  </lib>
 </glyph>

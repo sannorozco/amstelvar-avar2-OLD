@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Obarcyr" format="2">
-  <advance width="1528"/>
+  <advance width="2438"/>
   <unicode hex="04E8"/>
   <outline>
     <component base="O"/>
-    <component base="Obarcyr-stroke" yOffset="-41"/>
+    <component base="Obarcyr-stroke" xOffset="447.9999999999842" yOffset="-46.5"/>
   </outline>
   <lib>
     <dict>

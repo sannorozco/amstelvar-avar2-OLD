@@ -2,11 +2,10 @@
 <glyph name="Yu" format="2">
   <advance width="2143"/>
   <unicode hex="042E"/>
-  <anchor x="1042.0" y="1500" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="Yu-dash.case" xOffset="10"/>
-    <component base="O" xOffset="615"/>
+    <component base="Yu-dash.case" xOffset="10.000000000006025"/>
+    <component base="O" xOffset="615.0000000000213"/>
   </outline>
   <lib>
     <dict>

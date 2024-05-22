@@ -3,11 +3,12 @@
   <advance width="1050"/>
   <unicode hex="006F"/>
   <anchor x="358.0" y="0" name="bottom"/>
-  <anchor x="478.0" y="585.0" name="center"/>
+  <anchor x="480.0" y="598.0" name="center"/>
   <anchor x="514" y="0" name="ogonek"/>
   <anchor x="617.0" y="1168" name="top"/>
   <anchor x="696" y="1168" name="topright"/>
   <anchor x="617" y="1168" name="GRKtop"/>
+  <anchor x="101" y="588" name="yu_dash"/>
   <outline>
     <contour>
       <point x="29" y="621" type="qcurve" smooth="yes"/>

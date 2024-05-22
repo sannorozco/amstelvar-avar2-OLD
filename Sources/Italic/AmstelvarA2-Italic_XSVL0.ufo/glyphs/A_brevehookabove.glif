@@ -7,10 +7,4 @@
     <component base="brevecomb-stack.case" xOffset="759.0000000000639"/>
     <component base="hookabovecomb-stack.case" xOffset="826.0000000000698" yOffset="446"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
-    </dict>
-  </lib>
 </glyph>

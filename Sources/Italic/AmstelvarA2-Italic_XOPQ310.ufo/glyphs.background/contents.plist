@@ -12,6 +12,8 @@
     <string>B_.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>Che</key>
+    <string>C_he.glif</string>
     <key>D</key>
     <string>D_.glif</string>
     <key>Delta</key>
@@ -32,6 +34,8 @@
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>Ka</key>
+    <string>K_a.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>Lambda</key>
@@ -58,6 +62,8 @@
     <string>R_.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>Sha</key>
+    <string>S_ha.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>Thorn</key>
@@ -74,12 +80,20 @@
     <string>Y_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>Zhe</key>
+    <string>Z_he.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>acutecomb-stack.case</key>
     <string>acutecomb-stack.case.glif</string>
+    <key>alpha</key>
+    <string>alpha.glif</string>
+    <key>alphatonos</key>
+    <string>alphatonos.glif</string>
     <key>b</key>
     <string>b.glif</string>
+    <key>beta</key>
+    <string>beta.glif</string>
     <key>brevecomb-stack.case</key>
     <string>brevecomb-stack.case.glif</string>
     <key>breveinvertedcomb-stack.case</key>
@@ -88,6 +102,10 @@
     <string>c.glif</string>
     <key>caroncomb-stack.case</key>
     <string>caroncomb-stack.case.glif</string>
+    <key>che</key>
+    <string>che.glif</string>
+    <key>chi</key>
+    <string>chi.glif</string>
     <key>circumflexcomb-stack.case</key>
     <string>circumflexcomb-stack.case.glif</string>
     <key>commaaccentturnedcomb</key>
@@ -96,28 +114,42 @@
     <string>d.glif</string>
     <key>dblgravecomb-stack.case</key>
     <string>dblgravecomb-stack.case.glif</string>
+    <key>delta</key>
+    <string>delta.glif</string>
     <key>dieresiscomb-stack.case</key>
     <string>dieresiscomb-stack.case.glif</string>
-    <key>dieresistonoscomb.case</key>
-    <string>dieresistonoscomb.case.glif</string>
     <key>dotaccentcomb-stack.case</key>
     <string>dotaccentcomb-stack.case.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>en</key>
+    <string>en.glif</string>
     <key>eng</key>
     <string>eng.glif</string>
+    <key>epsilon</key>
+    <string>epsilon.glif</string>
+    <key>epsilontonos</key>
+    <string>epsilontonos.glif</string>
+    <key>eta</key>
+    <string>eta.glif</string>
+    <key>etatonos</key>
+    <string>etatonos.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>finalsigma</key>
+    <string>finalsigma.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>gamma</key>
+    <string>gamma.glif</string>
+    <key>ghe.bgr</key>
+    <string>ghe.bgr.glif</string>
     <key>gravecomb-stack.case</key>
     <string>gravecomb-stack.case.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>hookabovecomb-stack.case</key>
     <string>hookabovecomb-stack.case.glif</string>
-    <key>hookcomb-stack.case</key>
-    <string>hookcomb-stack.case.glif</string>
     <key>hungarumlautcomb-stack.case</key>
     <string>hungarumlautcomb-stack.case.glif</string>
     <key>i</key>
@@ -132,45 +164,107 @@
     <string>iebrevecyr.glif</string>
     <key>io</key>
     <string>io.glif</string>
+    <key>iota</key>
+    <string>iota.glif</string>
+    <key>iotadieresis</key>
+    <string>iotadieresis.glif</string>
+    <key>iotadieresistonos</key>
+    <string>iotadieresistonos.glif</string>
+    <key>iotatonos</key>
+    <string>iotatonos.glif</string>
     <key>jdotless</key>
     <string>jdotless.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>ka</key>
+    <string>ka.glif</string>
+    <key>kaisymbol</key>
+    <string>kaisymbol.glif</string>
+    <key>kappa</key>
+    <string>kappa.glif</string>
     <key>l</key>
     <string>l.glif</string>
+    <key>lambda</key>
+    <string>lambda.glif</string>
     <key>m</key>
     <string>m.glif</string>
     <key>macroncomb-stack.case</key>
     <string>macroncomb-stack.case.glif</string>
+    <key>mu</key>
+    <string>mu.glif</string>
     <key>n</key>
     <string>n.glif</string>
+    <key>nu</key>
+    <string>nu.glif</string>
     <key>o</key>
     <string>o.glif</string>
+    <key>omega</key>
+    <string>omega.glif</string>
+    <key>omegatonos</key>
+    <string>omegatonos.glif</string>
+    <key>omicron</key>
+    <string>omicron.glif</string>
+    <key>omicrontonos</key>
+    <string>omicrontonos.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>phi</key>
+    <string>phi.glif</string>
+    <key>pi</key>
+    <string>pi.glif</string>
+    <key>psi</key>
+    <string>psi.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>rho</key>
+    <string>rho.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>sha</key>
+    <string>sha.glif</string>
+    <key>sigma</key>
+    <string>sigma.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>tau</key>
+    <string>tau.glif</string>
+    <key>theta</key>
+    <string>theta.glif</string>
+    <key>tshe</key>
+    <string>tshe.glif</string>
     <key>u</key>
     <string>u.glif</string>
+    <key>upsilon</key>
+    <string>upsilon.glif</string>
+    <key>upsilondieresis</key>
+    <string>upsilondieresis.glif</string>
+    <key>upsilondieresistonos</key>
+    <string>upsilondieresistonos.glif</string>
+    <key>upsilontonos</key>
+    <string>upsilontonos.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>w</key>
     <string>w.glif</string>
     <key>x</key>
     <string>x.glif</string>
+    <key>xi</key>
+    <string>xi.glif</string>
     <key>y</key>
     <string>y.glif</string>
     <key>yi-dieresiscomb</key>
     <string>yi-dieresiscomb.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>zeta</key>
+    <string>zeta.glif</string>
     <key>zhe</key>
     <string>zhe.glif</string>
+    <key>zhedescender</key>
+    <string>zhedescender.glif</string>
   </dict>
 </plist>

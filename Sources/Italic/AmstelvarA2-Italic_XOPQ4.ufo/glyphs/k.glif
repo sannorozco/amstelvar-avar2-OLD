@@ -53,8 +53,6 @@
     <dict>
       <key>com.hipertipo.linkPoints</key>
       <array/>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
     </dict>
   </lib>
 </glyph>

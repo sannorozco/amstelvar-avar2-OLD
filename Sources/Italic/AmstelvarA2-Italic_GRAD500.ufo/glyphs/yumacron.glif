@@ -1,15 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yumacron" format="2">
-  <advance width="1526"/>
+  <advance width="1480"/>
   <unicode hex="F52D"/>
   <outline>
-    <component base="yu"/>
-    <component base="macroncomb" xOffset="748.0000000000009"/>
+    <component base="yu-i" xOffset="-48"/>
+    <component base="yu.bgr-stroke" xOffset="-26.000000000012164"/>
+    <component base="o" xOffset="430.0000000000088"/>
+    <component base="macroncomb" xOffset="783.1827704657129"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0,0,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

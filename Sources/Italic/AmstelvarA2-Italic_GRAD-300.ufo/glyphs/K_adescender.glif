@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kadescender" format="2">
-  <advance width="1324"/>
+  <advance width="1302"/>
   <unicode hex="049A"/>
   <outline>
     <component base="Ka"/>
-    <component base="Cy-descendercomb.case" xOffset="596"/>
+    <component base="Cy-descendercomb.case" xOffset="585.999999999986"/>
   </outline>
   <lib>
     <dict>

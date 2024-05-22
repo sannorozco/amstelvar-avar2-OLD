@@ -24,5 +24,10 @@ for ufoPath in ufoPaths:
     font = OpenFont(ufoPath, showInterface=False)
     print(f'setting glyph order in {os.path.split(ufoPath)[-1]}…')
     font.templateGlyphOrder = glyphOrder
+
+    diffGlyphs = set(font.keys()).difference(set(glyphOrder))
+    for glyphName in diffGlyphs:
+        font[glyphName].markColor = 1, 0, 0, 0.35
+
     font.save()
-    font.close()
+    # font.close()

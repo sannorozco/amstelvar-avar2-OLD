@@ -2,8 +2,9 @@
 <glyph name="m" format="2">
   <advance width="1034"/>
   <unicode hex="006D"/>
-  <anchor x="1083" y="0" name="bottom"/>
-  <anchor x="1240" y="1000" name="top"/>
+  <anchor x="367" y="0" name="bottom"/>
+  <anchor x="530" y="1000" name="top"/>
+  <anchor x="866" y="134" name="cy_descender"/>
   <outline>
     <contour>
       <point x="76" y="-23" type="line"/>
@@ -61,10 +62,4 @@
       <point x="836" y="46" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.34888</string>
-    </dict>
-  </lib>
 </glyph>

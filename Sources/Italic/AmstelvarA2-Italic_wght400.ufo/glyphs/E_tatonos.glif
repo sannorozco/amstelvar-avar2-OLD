@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etatonos" format="2">
-  <advance width="2119"/>
+  <advance width="1711"/>
   <unicode hex="0389"/>
-  <note>
-10,H
-</note>
   <outline>
-    <component base="H" xOffset="542.9999999999936"/>
-    <component base="tonoscomb.case" xOffset="301.00000000000006"/>
+    <component base="H" xOffset="134.99999999999358"/>
+    <component base="tonoscomb.case" xOffset="-107"/>
   </outline>
   <lib>
     <dict>

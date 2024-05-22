@@ -3,11 +3,11 @@
   <anchor x="0.0" y="1000" name="_GRKtop"/>
   <outline>
     <contour>
-      <point x="16" y="1160" type="line"/>
-      <point x="-39" y="1186" type="line"/>
-      <point x="138" y="1599" type="line"/>
-      <point x="241" y="1582" type="line"/>
-      <point x="266" y="1554" type="line"/>
+      <point x="25.0" y="1145.0" type="line"/>
+      <point x="-57.0" y="1186.0" type="line"/>
+      <point x="113.0" y="1613.0" type="line"/>
+      <point x="274.0" y="1582.0" type="line"/>
+      <point x="303.0" y="1527.0" type="line"/>
     </contour>
   </outline>
 </glyph>

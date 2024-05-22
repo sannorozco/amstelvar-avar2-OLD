@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ghe.locl" format="2">
-  <advance width="618"/>
+  <advance width="1021"/>
   <outline>
     <component base="idotless"/>
-    <component base="macroncomb" xOffset="205"/>
+    <component base="macroncomb" xOffset="533.9999999999551"/>
   </outline>
   <lib>
     <dict>

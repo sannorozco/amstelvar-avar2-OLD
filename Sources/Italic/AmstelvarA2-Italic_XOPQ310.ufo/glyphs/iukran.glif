@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iukran" format="2">
-  <advance width="618"/>
+  <advance width="1021"/>
   <unicode hex="0456"/>
   <outline>
-    <component base="i"/>
+    <component base="idotless"/>
+    <component base="idot" xOffset="436.9999999999552"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.8,0,0.5</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

@@ -7,10 +7,4 @@
     <component base="dieresiscomb-stack" xOffset="475.9999999999211" yOffset="-53"/>
     <component base="macroncomb-stack" xOffset="537.9999999999296" yOffset="266"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
-    </dict>
-  </lib>
 </glyph>

@@ -9,12 +9,12 @@
       <point x="199" y="-21"/>
       <point x="79" y="141"/>
       <point x="106" y="272" type="qcurve" smooth="yes"/>
-      <point x="233" y="887" type="line"/>
-      <point x="34" y="887" type="line"/>
-      <point x="37" y="915" type="line"/>
-      <point x="271" y="1002" type="line"/>
-      <point x="305" y="1002" type="line"/>
-      <point x="321" y="971" type="line"/>
+      <point x="233" y="885" type="line"/>
+      <point x="34" y="885" type="line"/>
+      <point x="37" y="913" type="line"/>
+      <point x="271" y="1000" type="line"/>
+      <point x="305" y="1000" type="line"/>
+      <point x="321" y="969" type="line"/>
       <point x="184" y="288" type="line" smooth="yes"/>
       <point x="157" y="155"/>
       <point x="248" y="32"/>

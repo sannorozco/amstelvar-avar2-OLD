@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nacute" format="2">
-  <advance width="1432"/>
+  <advance width="1232"/>
   <unicode hex="0143"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb.case" xOffset="689.000000000081"/>
+    <component base="acutecomb.case" xOffset="686.0000000001187"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

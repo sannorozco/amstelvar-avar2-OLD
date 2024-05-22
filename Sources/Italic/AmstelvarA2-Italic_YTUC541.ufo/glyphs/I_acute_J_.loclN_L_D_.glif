@@ -3,14 +3,14 @@
   <advance width="1445"/>
   <outline>
     <component base="I"/>
-    <component base="acutecomb.case" xOffset="226.99999999997624" yOffset="-418"/>
+    <component base="acutecomb.case" xOffset="323.99999999995555" yOffset="-418"/>
     <component base="J" xOffset="712"/>
-    <component base="acutecomb.case" xOffset="968.0000000000352" yOffset="-420"/>
+    <component base="acutecomb.case" xOffset="1065.0000000000146" yOffset="-420"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

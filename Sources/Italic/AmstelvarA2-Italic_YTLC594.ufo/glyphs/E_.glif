@@ -40,10 +40,4 @@
       <point x="767" y="749" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.hipertipo.tempEdit.glyphSetPath</key>
-      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Italic/AmstelvarA2-Italic_YTLC594.ufo/glyphs</string>
-    </dict>
-  </lib>
 </glyph>

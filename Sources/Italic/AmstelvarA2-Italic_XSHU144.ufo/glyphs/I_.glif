@@ -6,6 +6,7 @@
   <anchor x="356" y="0" name="ogonek"/>
   <anchor x="503.0" y="1500" name="top"/>
   <anchor x="81.0" y="1500" name="tonos"/>
+  <anchor x="365" y="795" name="yu_dash"/>
   <outline>
     <contour>
       <point x="-156" y="0" type="line"/>
@@ -24,10 +25,4 @@
       <point x="604" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
-    </dict>
-  </lib>
 </glyph>

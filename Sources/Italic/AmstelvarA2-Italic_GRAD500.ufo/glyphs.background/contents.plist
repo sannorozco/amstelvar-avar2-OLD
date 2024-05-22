@@ -64,6 +64,8 @@
     <string>K_a.glif</string>
     <key>Kadescender</key>
     <string>K_adescender.glif</string>
+    <key>Kaisymbol</key>
+    <string>K_aisymbol.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>Lambda</key>
@@ -100,6 +102,8 @@
     <string>S_chwa.glif</string>
     <key>Schwacyr</key>
     <string>S_chwacyr.glif</string>
+    <key>Sha</key>
+    <string>S_ha.glif</string>
     <key>Shcha</key>
     <string>S_hcha.glif</string>
     <key>T</key>
@@ -298,8 +302,6 @@
     <string>commaaccentturned.glif</string>
     <key>commaaccentturnedcomb</key>
     <string>commaaccentturnedcomb.glif</string>
-    <key>cy-descender</key>
-    <string>cy-descender.glif</string>
     <key>cy-descendercomb</key>
     <string>cy-descendercomb.glif</string>
     <key>d</key>
@@ -796,10 +798,6 @@
     <string>tildecomb-stack.case.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
-    <key>tildemacroncomb</key>
-    <string>tildemacroncomb.glif</string>
-    <key>tildemacroncomb.case</key>
-    <string>tildemacroncomb.case.glif</string>
     <key>tonos</key>
     <string>tonos.glif</string>
     <key>tonoscomb</key>
@@ -868,6 +866,8 @@
     <string>yi-dieresiscomb.glif</string>
     <key>yu</key>
     <string>yu.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>yu.bgr</key>
     <string>yu.bgr.glif</string>
     <key>yumacron</key>

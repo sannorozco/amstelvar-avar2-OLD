@@ -2,8 +2,8 @@
 <glyph name="J" format="2">
   <advance width="733"/>
   <unicode hex="004A"/>
-  <anchor x="376" y="-208" name="bottom"/>
-  <anchor x="533" y="1500" name="top"/>
+  <anchor x="376.0" y="-208" name="bottom"/>
+  <anchor x="533.0" y="1500" name="top"/>
   <outline>
     <contour>
       <point x="-185" y="-225" type="qcurve"/>
@@ -30,10 +30,4 @@
       <point x="-165" y="-237"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.hipertipo.tempEdit.glyphSetPath</key>
-      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Italic/AmstelvarA2-Italic_wght400.ufo/glyphs</string>
-    </dict>
-  </lib>
 </glyph>

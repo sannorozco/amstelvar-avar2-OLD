@@ -39,10 +39,4 @@
       <point x="-47" y="263"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.49062</string>
-    </dict>
-  </lib>
 </glyph>

@@ -4,8 +4,16 @@
   <dict>
     <key>B</key>
     <string>B_.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
+    <key>O</key>
+    <string>O_.glif</string>
     <key>P</key>
     <string>P_.glif</string>
+    <key>Yeru</key>
+    <string>Y_eru.glif</string>
+    <key>Yu-dash.case</key>
+    <string>Y_u-dash.case.glif</string>
     <key>Yumacron</key>
     <string>Y_umacron.glif</string>
     <key>caroncomb-stack.case</key>
@@ -16,24 +24,40 @@
     <string>eight.glif</string>
     <key>eightsuperior</key>
     <string>eightsuperior.glif</string>
+    <key>epsilon</key>
+    <string>epsilon.glif</string>
     <key>fivesuperior</key>
     <string>fivesuperior.glif</string>
     <key>foursuperior</key>
     <string>foursuperior.glif</string>
     <key>hookabovecomb.case</key>
     <string>hookabovecomb.case.glif</string>
+    <key>idotless</key>
+    <string>idotless.glif</string>
+    <key>kai-tail</key>
+    <string>kai-tail.glif</string>
+    <key>kappa</key>
+    <string>kappa.glif</string>
     <key>l</key>
     <string>l.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
     <key>ninesuperior</key>
     <string>ninesuperior.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
     <key>onesuperior</key>
     <string>onesuperior.glif</string>
     <key>pe.locl</key>
     <string>pe.locl.glif</string>
+    <key>pi</key>
+    <string>pi.glif</string>
     <key>sevensuperior</key>
     <string>sevensuperior.glif</string>
     <key>sixsuperior</key>
     <string>sixsuperior.glif</string>
+    <key>three</key>
+    <string>three.glif</string>
     <key>threesuperior</key>
     <string>threesuperior.glif</string>
     <key>tonoscomb.case</key>
@@ -42,8 +66,16 @@
     <string>twosuperior.glif</string>
     <key>x</key>
     <string>x.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
+    <key>yu-l.bgr</key>
+    <string>yu-l.bgr.glif</string>
+    <key>yu.bgr-stroke</key>
+    <string>yu.bgr-stroke.glif</string>
     <key>zerosuperior</key>
     <string>zerosuperior.glif</string>
+    <key>zhe</key>
+    <string>zhe.glif</string>
     <key>zhedescender</key>
     <string>zhedescender.glif</string>
   </dict>

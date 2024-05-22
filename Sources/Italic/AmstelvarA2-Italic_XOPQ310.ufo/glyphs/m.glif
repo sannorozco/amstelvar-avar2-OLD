@@ -4,6 +4,7 @@
   <unicode hex="006D"/>
   <anchor x="1369.0" y="0" name="bottom"/>
   <anchor x="1369.0" y="1000" name="top"/>
+  <anchor x="2815" y="134" name="cy_descender"/>
   <outline>
     <contour>
       <point x="76" y="-23" type="line"/>
@@ -61,10 +62,4 @@
       <point x="2785" y="46" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
-    </dict>
-  </lib>
 </glyph>

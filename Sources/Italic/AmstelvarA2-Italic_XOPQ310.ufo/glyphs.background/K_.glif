@@ -2,6 +2,45 @@
 <glyph name="K" format="2">
   <advance width="1302"/>
   <unicode hex="004B"/>
+  <anchor x="1505.0" y="0" name="bottom"/>
+  <anchor x="1794.0" y="1500" name="top"/>
+  <anchor x="2099" y="100" name="kai_tail"/>
   <outline>
+    <contour>
+      <point x="832" y="0" type="line"/>
+      <point x="841" y="100" type="line"/>
+      <point x="1037" y="125" type="line"/>
+      <point x="1160" y="754" type="line"/>
+      <point x="1274" y="1362" type="line"/>
+      <point x="1081" y="1386" type="line"/>
+      <point x="1094" y="1500" type="line"/>
+      <point x="1636" y="1500" type="line"/>
+      <point x="1623" y="1386" type="line"/>
+      <point x="1441" y="1362" type="line"/>
+      <point x="1320" y="754" type="line"/>
+      <point x="1209" y="124" type="line"/>
+      <point x="1393" y="100" type="line"/>
+      <point x="1384" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1201" y="540" type="line"/>
+      <point x="1229" y="693" type="line"/>
+      <point x="1923" y="1348" type="line"/>
+      <point x="1819" y="1386" type="line"/>
+      <point x="1832" y="1500" type="line"/>
+      <point x="2252" y="1500" type="line"/>
+      <point x="2239" y="1386" type="line"/>
+      <point x="2078" y="1348" type="line"/>
+    </contour>
+    <contour>
+      <point x="1487" y="874" type="line"/>
+      <point x="1615" y="993" type="line"/>
+      <point x="1945" y="125" type="line"/>
+      <point x="2099" y="100" type="line"/>
+      <point x="2090" y="0" type="line"/>
+      <point x="1623" y="0" type="line"/>
+      <point x="1632" y="100" type="line"/>
+      <point x="1773" y="124" type="line"/>
+    </contour>
   </outline>
 </glyph>

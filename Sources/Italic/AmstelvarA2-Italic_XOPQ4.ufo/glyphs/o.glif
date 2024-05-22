@@ -3,11 +3,12 @@
   <advance width="727"/>
   <unicode hex="006F"/>
   <anchor x="198.94545454545454" y="0" name="bottom"/>
-  <anchor x="301.94545454545454" y="500.0" name="center"/>
+  <anchor x="298" y="506.0" name="center"/>
   <anchor x="354.94545454545454" y="0" name="ogonek"/>
   <anchor x="424.94545454545454" y="1000" name="top"/>
   <anchor x="503.94545454545454" y="1000" name="topright"/>
   <anchor x="424.94545454545454" y="1000" name="GRKtop"/>
+  <anchor x="8" y="498" name="yu_dash"/>
   <outline>
     <contour>
       <point x="10.945454545454538" y="532" type="qcurve" smooth="yes"/>
@@ -38,10 +39,4 @@
       <point x="55.94545454545454" y="715"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.5</string>
-    </dict>
-  </lib>
 </glyph>

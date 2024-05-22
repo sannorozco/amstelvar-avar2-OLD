@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tedescender-cy" format="2">
-  <advance width="1741"/>
+  <advance width="1740"/>
   <unicode hex="04AD"/>
   <outline>
     <component base="m"/>
-    <component base="descender-cy" xOffset="971"/>
+    <component base="cy-descendercomb" xOffset="943.0000000000111" yOffset="1"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0,1,1</string>
-    </dict>
-  </lib>
 </glyph>

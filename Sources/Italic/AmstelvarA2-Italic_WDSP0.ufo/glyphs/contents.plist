@@ -100,8 +100,6 @@
     <string>C_heverticalstroke-cy.glif</string>
     <key>Chi</key>
     <string>C_hi.glif</string>
-    <key>Cy-descender.case</key>
-    <string>C_y-descender.case.glif</string>
     <key>Cy-descendercomb.case</key>
     <string>C_y-descendercomb.case.glif</string>
     <key>D</key>
@@ -916,8 +914,6 @@
     <string>circumflexcomb.case.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
-    <key>coloncurrency.rvrn</key>
-    <string>coloncurrency.rvrn.glif</string>
     <key>colonsign</key>
     <string>colonsign.glif</string>
     <key>colonsign.rvrn</key>
@@ -942,8 +938,6 @@
     <string>copyright.glif</string>
     <key>currency</key>
     <string>currency.glif</string>
-    <key>cy-descender</key>
-    <string>cy-descender.glif</string>
     <key>cy-descendercomb</key>
     <string>cy-descendercomb.glif</string>
     <key>d</key>
@@ -1112,8 +1106,6 @@
     <string>eight.lc.glif</string>
     <key>eight.lf</key>
     <string>eight.lf.glif</string>
-    <key>eight.prop</key>
-    <string>eight.prop.glif</string>
     <key>eight.tab</key>
     <string>eight.tab.glif</string>
     <key>eightsuperior</key>
@@ -1182,12 +1174,8 @@
     <string>f_f.glif</string>
     <key>f_f_i</key>
     <string>f_f_i.glif</string>
-    <key>f_f_ij</key>
-    <string>f_f_ij.glif</string>
     <key>f_f_l</key>
     <string>f_f_l.glif</string>
-    <key>f_ij</key>
-    <string>f_ij.glif</string>
     <key>fi</key>
     <string>fi.glif</string>
     <key>finalsigma</key>
@@ -1200,8 +1188,6 @@
     <string>five.lc.glif</string>
     <key>five.lf</key>
     <string>five.lf.glif</string>
-    <key>five.prop</key>
-    <string>five.prop.glif</string>
     <key>five.tab</key>
     <string>five.tab.glif</string>
     <key>fivesuperior</key>
@@ -1216,8 +1202,6 @@
     <string>four.lc.glif</string>
     <key>four.lf</key>
     <string>four.lf.glif</string>
-    <key>four.prop</key>
-    <string>four.prop.glif</string>
     <key>four.tab</key>
     <string>four.tab.glif</string>
     <key>foursuperior</key>
@@ -1292,6 +1276,8 @@
     <string>h.glif</string>
     <key>ha</key>
     <string>ha.glif</string>
+    <key>ha-stroke</key>
+    <string>ha-stroke.glif</string>
     <key>hadescender</key>
     <string>hadescender.glif</string>
     <key>hard</key>
@@ -1300,8 +1286,6 @@
     <string>hard.bgr.glif</string>
     <key>hastroke-cy</key>
     <string>hastroke-cy.glif</string>
-    <key>hastroke-stroke</key>
-    <string>hastroke-stroke.glif</string>
     <key>hbar</key>
     <string>hbar.glif</string>
     <key>hcircumflex</key>
@@ -1338,8 +1322,6 @@
     <string>hornu.glif</string>
     <key>hryvnia</key>
     <string>hryvnia.glif</string>
-    <key>hryvnia.rvrn</key>
-    <string>hryvnia.rvrn.glif</string>
     <key>hungarumlaut</key>
     <string>hungarumlaut.glif</string>
     <key>hungarumlaut-stack</key>
@@ -1444,14 +1426,14 @@
     <string>k.glif</string>
     <key>ka</key>
     <string>ka.glif</string>
-    <key>ka-swash</key>
-    <string>ka-swash.glif</string>
     <key>ka.bgr</key>
     <string>ka.bgr.glif</string>
     <key>kabashkircyr</key>
     <string>kabashkircyr.glif</string>
     <key>kadescender</key>
     <string>kadescender.glif</string>
+    <key>kai-tail</key>
+    <string>kai-tail.glif</string>
     <key>kaisymbol</key>
     <string>kaisymbol.glif</string>
     <key>kappa</key>
@@ -1558,8 +1540,6 @@
     <string>nine.lc.glif</string>
     <key>nine.lf</key>
     <string>nine.lf.glif</string>
-    <key>nine.prop</key>
-    <string>nine.prop.glif</string>
     <key>nine.tab</key>
     <string>nine.tab.glif</string>
     <key>ninesuperior</key>
@@ -1668,8 +1648,6 @@
     <string>one.lc.glif</string>
     <key>one.lf</key>
     <string>one.lf.glif</string>
-    <key>one.prop</key>
-    <string>one.prop.glif</string>
     <key>one.tab</key>
     <string>one.tab.glif</string>
     <key>onehalf</key>
@@ -1826,8 +1804,6 @@
     <string>seven.lc.glif</string>
     <key>seven.lf</key>
     <string>seven.lf.glif</string>
-    <key>seven.prop</key>
-    <string>seven.prop.glif</string>
     <key>seven.tab</key>
     <string>seven.tab.glif</string>
     <key>sevensuperior</key>
@@ -1850,8 +1826,6 @@
     <string>six.lc.glif</string>
     <key>six.lf</key>
     <string>six.lf.glif</string>
-    <key>six.prop</key>
-    <string>six.prop.glif</string>
     <key>six.tab</key>
     <string>six.tab.glif</string>
     <key>sixsuperior</key>
@@ -1902,8 +1876,6 @@
     <string>three.lc.glif</string>
     <key>three.lf</key>
     <string>three.lf.glif</string>
-    <key>three.prop</key>
-    <string>three.prop.glif</string>
     <key>three.tab</key>
     <string>three.tab.glif</string>
     <key>threequarters</key>
@@ -1924,10 +1896,6 @@
     <string>tildecomb-stack.case.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
-    <key>tildemacroncomb</key>
-    <string>tildemacroncomb.glif</string>
-    <key>tildemacroncomb.case</key>
-    <string>tildemacroncomb.case.glif</string>
     <key>tonos</key>
     <string>tonos.glif</string>
     <key>tonos.case</key>
@@ -1950,16 +1918,12 @@
     <string>two.lc.glif</string>
     <key>two.lf</key>
     <string>two.lf.glif</string>
-    <key>two.prop</key>
-    <string>two.prop.glif</string>
     <key>two.tab</key>
     <string>two.tab.glif</string>
     <key>twosuperior</key>
     <string>twosuperior.glif</string>
     <key>u</key>
     <string>u.glif</string>
-    <key>u-stroke</key>
-    <string>u-stroke.glif</string>
     <key>uacute</key>
     <string>uacute.glif</string>
     <key>ubreve</key>
@@ -2004,16 +1968,6 @@
     <string>umacroncyr.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
-    <key>uni20B1.copy_1</key>
-    <string>uni20B_1.copy_1.glif</string>
-    <key>uni20B1.rvrn</key>
-    <string>uni20B_1.rvrn.glif</string>
-    <key>uni20B2.copy_1</key>
-    <string>uni20B_2.copy_1.glif</string>
-    <key>uni20B2.rvrn</key>
-    <string>uni20B_2.rvrn.glif</string>
-    <key>uni20B5.rvrn</key>
-    <string>uni20B_5.rvrn.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>upsilon</key>
@@ -2030,6 +1984,8 @@
     <string>ushort.glif</string>
     <key>ustraight</key>
     <string>ustraight.glif</string>
+    <key>ustraight-stroke</key>
+    <string>ustraight-stroke.glif</string>
     <key>ustraightstroke</key>
     <string>ustraightstroke.glif</string>
     <key>utilde</key>
@@ -2092,14 +2048,14 @@
     <string>ytilde.glif</string>
     <key>yu</key>
     <string>yu.glif</string>
-    <key>yu-dash</key>
-    <string>yu-dash.glif</string>
     <key>yu-i</key>
     <string>yu-i.glif</string>
     <key>yu-l.bgr</key>
     <string>yu-l.bgr.glif</string>
     <key>yu.bgr</key>
     <string>yu.bgr.glif</string>
+    <key>yu.bgr-stroke</key>
+    <string>yu.bgr-stroke.glif</string>
     <key>yumacron</key>
     <string>yumacron.glif</string>
     <key>z</key>
@@ -2122,8 +2078,6 @@
     <string>zero.lc.glif</string>
     <key>zero.lf</key>
     <string>zero.lf.glif</string>
-    <key>zero.prop</key>
-    <string>zero.prop.glif</string>
     <key>zero.tab</key>
     <string>zero.tab.glif</string>
     <key>zerosuperior</key>
