@@ -4,14 +4,14 @@
   <unicode hex="04FF"/>
   <outline>
     <component base="x"/>
-    <component base="ha-stroke"/>
+    <component base="ha-stroke" xOffset="13" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
       <key>public.markColor</key>
-      <string>0,0.5,1,0.8</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

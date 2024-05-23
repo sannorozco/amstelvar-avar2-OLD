@@ -6,10 +6,6 @@
   <anchor x="876" y="1202.0" name="center"/>
   <anchor x="604" y="1534" name="top"/>
   <anchor x="961" y="1000" name="topright"/>
-  <anchor x="604" y="0" name="bottom"/>
-  <anchor x="876" y="1202.0" name="center"/>
-  <anchor x="604" y="1534" name="top"/>
-  <anchor x="961" y="1000" name="topright"/>
   <outline>
     <contour>
       <point x="68" y="478" type="qcurve" smooth="yes"/>
@@ -153,8 +149,6 @@
       </dict>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50364</string>
     </dict>
   </lib>
 </glyph>

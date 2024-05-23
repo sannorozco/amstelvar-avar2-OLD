@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>.notdef</key>
-    <string>_notdef.glif</string>
     <key>.null</key>
     <string>_null.glif</string>
     <key>A</key>
@@ -100,6 +98,8 @@
     <string>C_heverticalstroke-cy.glif</string>
     <key>Chi</key>
     <string>C_hi.glif</string>
+    <key>Cy-descendercomb.case</key>
+    <string>C_y-descendercomb.case.glif</string>
     <key>D</key>
     <string>D_.glif</string>
     <key>DZcaron</key>
@@ -230,6 +230,8 @@
     <string>H_.glif</string>
     <key>Ha</key>
     <string>H_a.glif</string>
+    <key>Ha-stroke</key>
+    <string>H_a-stroke.glif</string>
     <key>Hadescender</key>
     <string>H_adescender.glif</string>
     <key>Hard</key>
@@ -376,6 +378,8 @@
     <string>O_acute.glif</string>
     <key>Obarcyr</key>
     <string>O_barcyr.glif</string>
+    <key>Obarcyr-stroke</key>
+    <string>O_barcyr-stroke.glif</string>
     <key>Obreve</key>
     <string>O_breve.glif</string>
     <key>Obrevecyr</key>
@@ -530,6 +534,8 @@
     <string>T_she.glif</string>
     <key>U</key>
     <string>U_.glif</string>
+    <key>U-stroke</key>
+    <string>U_-stroke.glif</string>
     <key>Uacute</key>
     <string>U_acute.glif</string>
     <key>Ubreve</key>
@@ -936,6 +942,8 @@
     <string>copyright.glif</string>
     <key>currency</key>
     <string>currency.glif</string>
+    <key>cy-descendercomb</key>
+    <string>cy-descendercomb.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>dagger</key>
@@ -1566,6 +1574,8 @@
     <string>oacute.glif</string>
     <key>obarcyr</key>
     <string>obarcyr.glif</string>
+    <key>obarcyr-stroke</key>
+    <string>obarcyr-stroke.glif</string>
     <key>obreve</key>
     <string>obreve.glif</string>
     <key>obrevecyr</key>
@@ -2048,6 +2058,8 @@
     <string>ytilde.glif</string>
     <key>yu</key>
     <string>yu.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>yu.bgr</key>
     <string>yu.bgr.glif</string>
     <key>yu.bgr-stroke</key>

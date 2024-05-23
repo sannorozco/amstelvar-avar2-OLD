@@ -11,9 +11,11 @@ sourcePath    = os.path.join(sourcesFolder, f'{familyName}-{subFamilyName}_{sour
 
 assert os.path.exists(sourcePath)
 
-glyphNames = 'l o u x Ustraightstroke Hastroke-cy I O T X Zhe Ka Che Sha Shcha Yu Zhedescender Kadescender Endescender Tedescender-cy Hadescender Chedescender-cy Obarcyr zhe ka en te che sha shcha yeru soft yu zhedescender kadescender endescender tedescender-cy hadescender chedescender-cy obarcyr hastroke-cy tse.bgr sha.bgr shcha.bgr Yumacron yumacron Yu-dash.case yu.bgr-stroke'.split() # H
+glyphNames = 'Ustraightstroke Hastroke-cy Y H I O T X Soft Zhe Ka Che Sha Shcha Yu Zhedescender Kadescender Endescender Tedescender-cy Hadescender Chedescender-cy Obarcyr Yumacron Yu-dash.case yu.bgr-stroke'.split() # H
 
-dstFonts = 'XUCS32 XUCS205'.split()
+# l o u x obarcyr hastroke-cy tse.bgr sha.bgr shcha.bgr yumacron  zhe ka en te che sha shcha yeru soft yu zhedescender kadescender endescender tedescender-cy hadescender chedescender-cy 
+
+dstFonts = 'YSHL0 YSHL140'.split()
     
 preflight = False
 

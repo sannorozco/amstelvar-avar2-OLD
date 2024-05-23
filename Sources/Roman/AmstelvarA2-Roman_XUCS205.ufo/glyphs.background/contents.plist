@@ -2,14 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>Cy-descendercomb.case</key>
+    <string>C_y-descendercomb.case.glif</string>
     <key>Delta</key>
     <string>D_elta.glif</string>
+    <key>H</key>
+    <string>H_.glif</string>
+    <key>Ha-stroke</key>
+    <string>H_a-stroke.glif</string>
     <key>Lambda</key>
     <string>L_ambda.glif</string>
+    <key>Obarcyr-stroke</key>
+    <string>O_barcyr-stroke.glif</string>
     <key>Omega</key>
     <string>O_mega.glif</string>
     <key>Sigma</key>
     <string>S_igma.glif</string>
+    <key>Soft</key>
+    <string>S_oft.glif</string>
+    <key>U-stroke</key>
+    <string>U_-stroke.glif</string>
+    <key>cy-descendercomb</key>
+    <string>cy-descendercomb.glif</string>
     <key>el.bgr</key>
     <string>el.bgr.glif</string>
     <key>g</key>
@@ -20,10 +34,16 @@
     <string>kabashkircyr.glif</string>
     <key>kadescender</key>
     <string>kadescender.glif</string>
+    <key>kaisymbol</key>
+    <string>kaisymbol.glif</string>
     <key>kaverticalstrokecyr</key>
     <string>kaverticalstrokecyr.glif</string>
+    <key>obarcyr-stroke</key>
+    <string>obarcyr-stroke.glif</string>
     <key>ustraight</key>
     <string>ustraight.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>zhedescender</key>
     <string>zhedescender.glif</string>
   </dict>

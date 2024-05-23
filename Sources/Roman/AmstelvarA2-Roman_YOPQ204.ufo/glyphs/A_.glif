@@ -2,10 +2,10 @@
 <glyph name="A" format="2">
   <advance width="1728"/>
   <unicode hex="0041"/>
-  <anchor x="887" y="0" name="bottom"/>
-  <anchor x="1540" y="0" name="ogonek"/>
-  <anchor x="488" y="1500" name="tonos"/>
-  <anchor x="857" y="1500" name="top"/>
+  <anchor x="735.0" y="0" name="bottom"/>
+  <anchor x="1318" y="0" name="ogonek"/>
+  <anchor x="492.0" y="1500" name="tonos"/>
+  <anchor x="753.0" y="1500" name="top"/>
   <outline>
     <contour>
       <point x="-25" y="0" type="line"/>

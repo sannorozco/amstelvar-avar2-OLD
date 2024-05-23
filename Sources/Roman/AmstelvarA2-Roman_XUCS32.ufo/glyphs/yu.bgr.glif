@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yu.bgr" format="2">
-  <advance width="1642"/>
+  <advance width="1491"/>
   <outline>
-    <component base="l" xOffset="172"/>
-    <component base="yu.bgr-stroke" xOffset="-20"/>
-    <component base="o" xOffset="602"/>
+    <component base="l"/>
+    <component base="yu.bgr-stroke" xOffset="-174"/>
+    <component base="o" xOffset="451"/>
   </outline>
   <lib>
     <dict>

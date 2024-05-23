@@ -2,6 +2,7 @@
 <glyph name="Soft" format="2">
   <advance width="1288"/>
   <unicode hex="042C"/>
+  <anchor x="1262" y="0" name="Yeru_I"/>
   <outline>
     <contour>
       <point x="479" y="894" type="line"/>

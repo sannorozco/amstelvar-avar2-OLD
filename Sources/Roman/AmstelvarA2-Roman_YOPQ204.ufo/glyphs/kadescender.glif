@@ -1,54 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kadescender" format="2">
-  <advance width="1267"/>
+  <advance width="1264"/>
   <unicode hex="049B"/>
   <outline>
-    <contour>
-      <point x="230" y="500" type="line"/>
-      <point x="228" y="885" type="line"/>
-      <point x="80" y="920" type="line"/>
-      <point x="80" y="1000" type="line"/>
-      <point x="536" y="1000" type="line"/>
-      <point x="536" y="920" type="line"/>
-      <point x="398" y="885" type="line"/>
-      <point x="396" y="500" type="line"/>
-      <point x="398" y="115" type="line"/>
-      <point x="536" y="80" type="line"/>
-      <point x="536" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="80" type="line"/>
-      <point x="228" y="115" type="line"/>
-    </contour>
-    <contour>
-      <point x="307" y="678" type="line"/>
-      <point x="537" y="676" type="line"/>
-      <point x="730" y="880" type="line"/>
-      <point x="563" y="920" type="line"/>
-      <point x="563" y="1000" type="line"/>
-      <point x="1235" y="1000" type="line"/>
-      <point x="1235" y="920" type="line"/>
-      <point x="1077" y="875" type="line"/>
-      <point x="678" y="457" type="line"/>
-      <point x="752" y="360" type="line"/>
-      <point x="307" y="359" type="line"/>
-    </contour>
-    <contour>
-      <point x="591" y="484" type="line"/>
-      <point x="694" y="586" type="line"/>
-      <point x="1099" y="105" type="line"/>
-      <point x="1099" y="0" type="line"/>
-      <point x="910" y="0" type="line"/>
-      <point x="898" y="79" type="line"/>
-      <point x="907" y="111" type="line"/>
-    </contour>
-    <contour>
-      <point x="1038" y="105" type="line"/>
-      <point x="1219" y="105" type="line"/>
-      <point x="1229" y="-318" type="line"/>
-      <point x="1137" y="-318" type="line"/>
-      <point x="1048" y="0" type="line"/>
-      <point x="1038" y="0" type="line"/>
-    </contour>
+    <component base="ka"/>
+    <component base="cy-descendercomb" xOffset="507"/>
   </outline>
   <lib>
     <dict>
@@ -56,6 +12,8 @@
       <dict/>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

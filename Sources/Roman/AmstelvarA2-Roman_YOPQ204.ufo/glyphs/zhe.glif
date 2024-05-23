@@ -2,8 +2,9 @@
 <glyph name="zhe" format="2">
   <advance width="1903"/>
   <unicode hex="0436"/>
-  <anchor x="952" y="0" name="bottom"/>
-  <anchor x="952" y="1000" name="top"/>
+  <anchor x="833" y="0" name="bottom"/>
+  <anchor x="833" y="1000" name="top"/>
+  <anchor x="1842" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="669" y="484" type="line"/>

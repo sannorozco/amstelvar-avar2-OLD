@@ -6,6 +6,7 @@
   <anchor x="892" y="20" name="ogonek"/>
   <anchor x="484.0" y="1000" name="top"/>
   <anchor x="867" y="1000" name="topright"/>
+  <anchor x="1040" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="-82" y="872" type="line"/>
