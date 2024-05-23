@@ -2,6 +2,7 @@
 <glyph name="ustraight" format="2">
   <advance width="1026"/>
   <unicode hex="04AF"/>
+  <anchor x="512" y="-63" name="center"/>
   <outline>
     <contour>
       <point x="-10" y="910" type="line"/>

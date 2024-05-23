@@ -8,4 +8,10 @@
     <component base="zerosuperior" xOffset="1100" yOffset="-671"/>
     <component base="zerosuperior" xOffset="2020" yOffset="-671"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
+    </dict>
+  </lib>
 </glyph>

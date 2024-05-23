@@ -7,4 +7,10 @@
     <component base="dotaccentcomb-stack.case" xOffset="832"/>
     <component base="macroncomb-stack.case" xOffset="832" yOffset="410"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
+    </dict>
+  </lib>
 </glyph>

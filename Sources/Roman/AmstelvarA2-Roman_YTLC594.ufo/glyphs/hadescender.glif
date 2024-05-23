@@ -3,49 +3,8 @@
   <advance width="1043"/>
   <unicode hex="04B3"/>
   <outline>
-    <contour>
-      <point x="852" y="105" type="line"/>
-      <point x="1043" y="105" type="line"/>
-      <point x="1053" y="-318" type="line"/>
-      <point x="961" y="-318" type="line"/>
-      <point x="872" y="0" type="line"/>
-      <point x="852" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="16" y="0" type="line"/>
-      <point x="16" y="80" type="line"/>
-      <point x="174" y="115" type="line"/>
-      <point x="444" y="565" type="line"/>
-      <point x="138" y="1043" type="line"/>
-      <point x="20" y="1078" type="line"/>
-      <point x="20" y="1168" type="line"/>
-      <point x="442" y="1168" type="line"/>
-      <point x="442" y="1078" type="line"/>
-      <point x="319" y="1041" type="line"/>
-      <point x="466" y="810" type="line"/>
-      <point x="524" y="711" type="line"/>
-      <point x="534" y="711" type="line"/>
-      <point x="588" y="810" type="line"/>
-      <point x="727" y="1048" type="line"/>
-      <point x="590" y="1078" type="line"/>
-      <point x="590" y="1168" type="line"/>
-      <point x="1006" y="1168" type="line"/>
-      <point x="1006" y="1078" type="line"/>
-      <point x="858" y="1043" type="line"/>
-      <point x="596" y="608" type="line"/>
-      <point x="922" y="105" type="line"/>
-      <point x="922" y="0" type="line"/>
-      <point x="611" y="0" type="line"/>
-      <point x="611" y="80" type="line"/>
-      <point x="734" y="117" type="line"/>
-      <point x="573" y="366" type="line"/>
-      <point x="515" y="463" type="line"/>
-      <point x="505" y="463" type="line"/>
-      <point x="453" y="366" type="line"/>
-      <point x="305" y="110" type="line"/>
-      <point x="432" y="80" type="line"/>
-      <point x="432" y="0" type="line"/>
-    </contour>
+    <component base="x"/>
+    <component base="cy-descendercomb" xOffset="341"/>
   </outline>
   <lib>
     <dict>
@@ -54,7 +13,7 @@
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_YTLC594.ufo/glyphs</string>
       <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

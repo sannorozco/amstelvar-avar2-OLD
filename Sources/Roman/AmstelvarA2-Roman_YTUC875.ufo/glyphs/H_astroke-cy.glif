@@ -3,50 +3,8 @@
   <advance width="1346"/>
   <unicode hex="04FE"/>
   <outline>
-    <contour>
-      <point x="273" y="871" type="line"/>
-      <point x="273" y="1017" type="line"/>
-      <point x="670" y="1014" type="line"/>
-      <point x="1054" y="1017" type="line"/>
-      <point x="1054" y="871" type="line"/>
-      <point x="663" y="874" type="line"/>
-    </contour>
-    <contour>
-      <point x="-20" y="0" type="line"/>
-      <point x="-20" y="100" type="line"/>
-      <point x="148" y="135" type="line"/>
-      <point x="575" y="916" type="line"/>
-      <point x="188" y="1605" type="line"/>
-      <point x="30" y="1636" type="line"/>
-      <point x="30" y="1751" type="line"/>
-      <point x="564" y="1751" type="line"/>
-      <point x="564" y="1636" type="line"/>
-      <point x="391" y="1603" type="line"/>
-      <point x="604" y="1224" type="line"/>
-      <point x="674" y="1091" type="line"/>
-      <point x="684" y="1091" type="line"/>
-      <point x="751" y="1224" type="line"/>
-      <point x="957" y="1610" type="line"/>
-      <point x="780" y="1636" type="line"/>
-      <point x="780" y="1751" type="line"/>
-      <point x="1286" y="1751" type="line"/>
-      <point x="1286" y="1636" type="line"/>
-      <point x="1108" y="1605" type="line"/>
-      <point x="754" y="958" type="line"/>
-      <point x="1218" y="135" type="line"/>
-      <point x="1386" y="100" type="line"/>
-      <point x="1386" y="0" type="line"/>
-      <point x="842" y="0" type="line"/>
-      <point x="842" y="100" type="line"/>
-      <point x="1015" y="135" type="line"/>
-      <point x="722" y="656" type="line"/>
-      <point x="655" y="785" type="line"/>
-      <point x="645" y="785" type="line"/>
-      <point x="581" y="656" type="line"/>
-      <point x="299" y="130" type="line"/>
-      <point x="476" y="100" type="line"/>
-      <point x="476" y="0" type="line"/>
-    </contour>
+    <component base="X"/>
+    <component base="Ha-stroke" xOffset="-0.5" yOffset="138"/>
   </outline>
   <lib>
     <dict>
@@ -55,7 +13,7 @@
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_YTUC875.ufo/glyphs</string>
       <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

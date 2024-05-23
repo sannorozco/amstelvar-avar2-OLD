@@ -6,6 +6,7 @@
   <anchor x="1030" y="20" name="ogonek"/>
   <anchor x="622.0" y="850" name="top"/>
   <anchor x="1005" y="850" name="topright"/>
+  <anchor x="1178" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="56" y="734" type="line"/>
@@ -143,8 +144,6 @@
           <string>XLCS</string>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>

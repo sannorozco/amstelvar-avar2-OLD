@@ -2,6 +2,7 @@
 <glyph name="te" format="2">
   <advance width="1046"/>
   <unicode hex="0442"/>
+  <anchor x="756" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="756" y="80" type="line"/>
@@ -28,8 +29,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
     </dict>
   </lib>
 </glyph>

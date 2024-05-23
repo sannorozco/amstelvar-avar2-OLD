@@ -2,6 +2,7 @@
 <glyph name="en" format="2">
   <advance width="1276"/>
   <unicode hex="043D"/>
+  <anchor x="1196" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="313" y="499" type="line"/>
@@ -48,8 +49,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
     </dict>
   </lib>
 </glyph>

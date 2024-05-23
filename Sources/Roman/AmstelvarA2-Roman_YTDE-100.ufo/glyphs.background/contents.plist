@@ -52,6 +52,8 @@
     <string>caroncomb.case.glif</string>
     <key>cedillacomb.case</key>
     <string>cedillacomb.case.glif</string>
+    <key>che</key>
+    <string>che.glif</string>
     <key>chi</key>
     <string>chi.glif</string>
     <key>circumflexcomb-stack</key>
@@ -90,6 +92,8 @@
     <string>dotbelowcomb.case.glif</string>
     <key>el.bgr</key>
     <string>el.bgr.glif</string>
+    <key>en</key>
+    <string>en.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>gravecomb-stack</key>
@@ -114,6 +118,10 @@
     <string>i.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>ka</key>
+    <string>ka.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
     <key>macronbelowcomb.case</key>
     <string>macronbelowcomb.case.glif</string>
     <key>macroncomb-stack</key>
@@ -122,6 +130,8 @@
     <string>macroncomb-stack.case.glif</string>
     <key>macroncomb.case</key>
     <string>macroncomb.case.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
     <key>ogonekcomb.case</key>
     <string>ogonekcomb.case.glif</string>
     <key>percent</key>
@@ -136,17 +146,31 @@
     <string>ringcomb-stack.glif</string>
     <key>ringcomb.case</key>
     <string>ringcomb.case.glif</string>
+    <key>sha</key>
+    <string>sha.glif</string>
+    <key>sha.bgr</key>
+    <string>sha.bgr.glif</string>
+    <key>soft</key>
+    <string>soft.glif</string>
+    <key>te</key>
+    <string>te.glif</string>
     <key>theta</key>
     <string>theta.glif</string>
     <key>tildecomb-stack</key>
     <string>tildecomb-stack.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
     <key>y</key>
     <string>y.glif</string>
     <key>yi</key>
     <string>yi.glif</string>
     <key>ze.bgr</key>
     <string>ze.bgr.glif</string>
+    <key>zhe</key>
+    <string>zhe.glif</string>
   </dict>
 </plist>

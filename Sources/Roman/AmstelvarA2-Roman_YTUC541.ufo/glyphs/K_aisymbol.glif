@@ -4,7 +4,7 @@
   <unicode hex="03CF"/>
   <outline>
     <component base="K"/>
-    <component base="kai-tail" xOffset="371.0"/>
+    <component base="kai-tail" xOffset="371"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_YTUC541.ufo/glyphs</string>
       <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

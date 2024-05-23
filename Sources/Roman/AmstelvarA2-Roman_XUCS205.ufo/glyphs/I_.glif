@@ -8,6 +8,7 @@
   <anchor x="510.0" y="1500" name="top"/>
   <anchor x="120.0" y="1500" name="tonos"/>
   <anchor x="500" y="755" name="yu_dash"/>
+  <anchor x="202" y="0" name="_Yeru_I"/>
   <outline>
     <contour>
       <point x="202" y="0" type="line"/>

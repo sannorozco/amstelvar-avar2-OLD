@@ -202,6 +202,8 @@
     <string>kaverticalstrokecyr.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
     <key>lambda</key>
     <string>lambda.glif</string>
     <key>lje</key>
@@ -216,6 +218,8 @@
     <string>macroncomb.case.glif</string>
     <key>nje</key>
     <string>nje.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
     <key>obarcyr</key>
     <string>obarcyr.glif</string>
     <key>oe</key>
@@ -282,6 +286,8 @@
     <string>tse.glif</string>
     <key>tse.bgr</key>
     <string>tse.bgr.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
     <key>upsilon</key>
     <string>upsilon.glif</string>
     <key>ustraight</key>
@@ -306,6 +312,8 @@
     <string>yi.glif</string>
     <key>yu</key>
     <string>yu.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
     <key>yu.bgr</key>
     <string>yu.bgr.glif</string>
     <key>ze</key>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb-stack" format="2">
-  <advance width="500"/>
+  <anchor x="0.0" y="1430" name="top"/>
+  <anchor x="0.0" y="1052" name="_top"/>
   <outline>
     <contour>
       <point x="275" y="1482" type="qcurve"/>

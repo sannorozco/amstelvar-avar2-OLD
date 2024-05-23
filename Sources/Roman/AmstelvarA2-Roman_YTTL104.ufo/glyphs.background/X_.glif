@@ -2,6 +2,10 @@
 <glyph name="X" format="2">
   <advance width="1346"/>
   <unicode hex="0058"/>
+  <anchor x="661.0" y="0" name="bottom"/>
+  <anchor x="673.0" y="1500" name="top"/>
+  <anchor x="1386" y="100" name="cy_descender"/>
+  <anchor x="663" y="811" name="center"/>
   <outline>
     <contour>
       <point x="-20" y="0" type="line"/>

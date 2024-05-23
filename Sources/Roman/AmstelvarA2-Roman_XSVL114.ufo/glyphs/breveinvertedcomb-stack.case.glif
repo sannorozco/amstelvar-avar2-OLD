@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breveinvertedcomb-stack.case" format="2">
-  <advance width="500"/>
+  <anchor x="0.0" y="1500" name="_top"/>
+  <anchor x="0.0" y="1949" name="top"/>
   <outline>
     <contour>
       <point x="-290" y="1613" type="qcurve"/>

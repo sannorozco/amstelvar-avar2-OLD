@@ -6,4 +6,10 @@
     <component base="O"/>
     <component base="hungarumlautcomb.case" xOffset="992.439999999915"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
+    </dict>
+  </lib>
 </glyph>

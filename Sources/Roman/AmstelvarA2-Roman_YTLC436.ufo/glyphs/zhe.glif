@@ -4,6 +4,7 @@
   <unicode hex="0436"/>
   <anchor x="833" y="0" name="bottom"/>
   <anchor x="833" y="852" name="top"/>
+  <anchor x="1646" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="615" y="407" type="line"/>
@@ -72,8 +73,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
     </dict>
   </lib>
 </glyph>

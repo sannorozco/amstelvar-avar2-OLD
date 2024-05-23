@@ -54,6 +54,8 @@
     <string>G_ermandbls.glif</string>
     <key>Gheup</key>
     <string>G_heup.glif</string>
+    <key>H</key>
+    <string>H_.glif</string>
     <key>Hadescender</key>
     <string>H_adescender.glif</string>
     <key>Hard</key>
@@ -126,6 +128,8 @@
     <string>S_igma.glif</string>
     <key>Soft</key>
     <string>S_oft.glif</string>
+    <key>T</key>
+    <string>T_.glif</string>
     <key>Tedescender-cy</key>
     <string>T_edescender-cy.glif</string>
     <key>Theta</key>
@@ -154,6 +158,8 @@
     <string>Y_a.glif</string>
     <key>Yu</key>
     <string>Y_u.glif</string>
+    <key>Yu-dash.case</key>
+    <string>Y_u-dash.case.glif</string>
     <key>Ze</key>
     <string>Z_e.glif</string>
     <key>Zhe</key>
@@ -280,7 +286,11 @@
     <string>tildecomb-stack.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
     <key>yi</key>
     <string>yi.glif</string>
+    <key>yu.bgr-stroke</key>
+    <string>yu.bgr-stroke.glif</string>
   </dict>
 </plist>

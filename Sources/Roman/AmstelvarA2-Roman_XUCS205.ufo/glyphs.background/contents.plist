@@ -10,6 +10,8 @@
     <string>H_.glif</string>
     <key>Ha-stroke</key>
     <string>H_a-stroke.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
     <key>Lambda</key>
     <string>L_ambda.glif</string>
     <key>Obarcyr-stroke</key>
@@ -22,6 +24,10 @@
     <string>S_oft.glif</string>
     <key>U-stroke</key>
     <string>U_-stroke.glif</string>
+    <key>X</key>
+    <string>X_.glif</string>
+    <key>Y</key>
+    <string>Y_.glif</string>
     <key>cy-descendercomb</key>
     <string>cy-descendercomb.glif</string>
     <key>el.bgr</key>

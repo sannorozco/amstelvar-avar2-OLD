@@ -154,8 +154,6 @@
       </dict>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_YTOS25.ufo/glyphs</string>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50364</string>
     </dict>
   </lib>
 </glyph>

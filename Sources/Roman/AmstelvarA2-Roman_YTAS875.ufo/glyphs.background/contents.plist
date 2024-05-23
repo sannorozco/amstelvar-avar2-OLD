@@ -54,6 +54,8 @@
     <string>caroncomb.case.glif</string>
     <key>cedillacomb.case</key>
     <string>cedillacomb.case.glif</string>
+    <key>che</key>
+    <string>che.glif</string>
     <key>circumflexcomb-stack</key>
     <string>circumflexcomb-stack.glif</string>
     <key>circumflexcomb-stack.case</key>
@@ -90,6 +92,8 @@
     <string>dotbelowcomb.case.glif</string>
     <key>el.bgr</key>
     <string>el.bgr.glif</string>
+    <key>en</key>
+    <string>en.glif</string>
     <key>eth</key>
     <string>eth.glif</string>
     <key>f</key>
@@ -132,6 +136,8 @@
     <string>j.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>ka</key>
+    <string>ka.glif</string>
     <key>l</key>
     <string>l.glif</string>
     <key>macronbelowcomb.case</key>
@@ -142,8 +148,12 @@
     <string>macroncomb-stack.case.glif</string>
     <key>macroncomb.case</key>
     <string>macroncomb.case.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
     <key>ogonekcomb.case</key>
     <string>ogonekcomb.case.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
     <key>perthousand</key>
@@ -152,10 +162,26 @@
     <string>phi.glif</string>
     <key>psi</key>
     <string>psi.glif</string>
+    <key>q</key>
+    <string>q.glif</string>
+    <key>r</key>
+    <string>r.glif</string>
     <key>ringcomb-stack</key>
     <string>ringcomb-stack.glif</string>
     <key>ringcomb.case</key>
     <string>ringcomb.case.glif</string>
+    <key>s</key>
+    <string>s.glif</string>
+    <key>sha</key>
+    <string>sha.glif</string>
+    <key>sha.bgr</key>
+    <string>sha.bgr.glif</string>
+    <key>soft</key>
+    <string>soft.glif</string>
+    <key>t</key>
+    <string>t.glif</string>
+    <key>te</key>
+    <string>te.glif</string>
     <key>theta</key>
     <string>theta.glif</string>
     <key>thorn</key>
@@ -164,7 +190,17 @@
     <string>tildecomb-stack.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
+    <key>w</key>
+    <string>w.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
     <key>yi</key>
     <string>yi.glif</string>
+    <key>zhe</key>
+    <string>zhe.glif</string>
   </dict>
 </plist>

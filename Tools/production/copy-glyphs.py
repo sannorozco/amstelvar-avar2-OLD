@@ -11,12 +11,12 @@ sourcePath    = os.path.join(sourcesFolder, f'{familyName}-{subFamilyName}_{sour
 
 assert os.path.exists(sourcePath)
 
+glyphNames = 'I Soft'.split()
+# glyphNames = 'yu-i Cy-descendercomb.case cy-descendercomb Obarcyr-stroke U-stroke Ha-stroke obarcyr-stroke'.split()
+# glyphNames += 'Ustraightstroke Hastroke-cy H I O T Soft Zhe Ka Che Sha Shcha Yu Zhedescender Kadescender Endescender Tedescender-cy Hadescender Chedescender-cy Obarcyr Yumacron Yu-dash.case yu.bgr-stroke'.split() # H Y X 
+# glyphNames += 'l o u obarcyr hastroke-cy tse.bgr sha.bgr shcha.bgr yumacron zhe ka en te che sha shcha yeru soft yu zhedescender kadescender endescender tedescender-cy hadescender chedescender-cy'.split() # x 
 
-glyphNames = 'yu-i Cy-descendercomb.case cy-descendercomb Obarcyr-stroke U-stroke Ha-stroke obarcyr-stroke'.split()
-glyphNames += 'Ustraightstroke Hastroke-cy Y H I O T X Soft Zhe Ka Che Sha Shcha Yu Zhedescender Kadescender Endescender Tedescender-cy Hadescender Chedescender-cy Obarcyr Yumacron Yu-dash.case yu.bgr-stroke'.split() # H
-# glyphNames += 'l o u x obarcyr hastroke-cy tse.bgr sha.bgr shcha.bgr yumacron zhe ka en te che sha shcha yeru soft yu zhedescender kadescender endescender tedescender-cy hadescender chedescender-cy'.split()
-
-dstFonts = 'YTAS665 YTAS875'.split()
+dstFonts = 'XTTW0 XTTW30'.split()
     
 preflight = False
 

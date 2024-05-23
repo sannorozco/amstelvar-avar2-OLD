@@ -1,57 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="endescender" format="2">
-  <advance width="1288"/>
+  <advance width="1276"/>
   <unicode hex="04A3"/>
   <outline>
-    <contour>
-      <point x="313" y="499" type="line"/>
-      <point x="637" y="496" type="line"/>
-      <point x="963" y="499" type="line"/>
-      <point x="963" y="394" type="line"/>
-      <point x="637" y="396" type="line"/>
-      <point x="313" y="394" type="line"/>
-    </contour>
-    <contour>
-      <point x="230" y="425" type="line"/>
-      <point x="228" y="737" type="line"/>
-      <point x="80" y="772" type="line"/>
-      <point x="80" y="852" type="line"/>
-      <point x="536" y="852" type="line"/>
-      <point x="536" y="772" type="line"/>
-      <point x="398" y="737" type="line"/>
-      <point x="396" y="425" type="line"/>
-      <point x="398" y="115" type="line"/>
-      <point x="536" y="80" type="line"/>
-      <point x="536" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="80" type="line"/>
-      <point x="228" y="115" type="line"/>
-    </contour>
-    <contour>
-      <point x="1048" y="105" type="line"/>
-      <point x="1208" y="105" type="line"/>
-      <point x="1218" y="-318" type="line"/>
-      <point x="1126" y="-318" type="line"/>
-      <point x="1037" y="0" type="line"/>
-      <point x="740" y="0" type="line"/>
-      <point x="740" y="80" type="line"/>
-      <point x="878" y="115" type="line"/>
-      <point x="880" y="425" type="line"/>
-      <point x="878" y="737" type="line"/>
-      <point x="740" y="772" type="line"/>
-      <point x="740" y="852" type="line"/>
-      <point x="1196" y="852" type="line"/>
-      <point x="1196" y="772" type="line"/>
-      <point x="1048" y="737" type="line"/>
-      <point x="1046" y="425" type="line"/>
-    </contour>
+    <component base="en"/>
+    <component base="cy-descendercomb" xOffset="494"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
     </dict>
   </lib>
 </glyph>

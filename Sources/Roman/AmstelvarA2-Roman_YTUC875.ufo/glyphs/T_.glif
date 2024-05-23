@@ -5,6 +5,7 @@
   <anchor x="644.0" y="0" name="bottom"/>
   <anchor x="644.0" y="900.0" name="center"/>
   <anchor x="644.0" y="1750" name="top"/>
+  <anchor x="951" y="100" name="cy_descender"/>
   <outline>
     <contour>
       <point x="40" y="1302" type="line"/>
@@ -111,8 +112,6 @@
           <string>XSUC</string>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>

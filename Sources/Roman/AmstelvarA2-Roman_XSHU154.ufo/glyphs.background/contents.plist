@@ -52,6 +52,8 @@
     <string>S_hha.glif</string>
     <key>Sigma</key>
     <string>S_igma.glif</string>
+    <key>Soft</key>
+    <string>S_oft.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>U-stroke</key>
@@ -64,6 +66,8 @@
     <string>W_.glif</string>
     <key>X</key>
     <string>X_.glif</string>
+    <key>Y</key>
+    <string>Y_.glif</string>
     <key>Yu</key>
     <string>Y_u.glif</string>
     <key>Yu-dash.case</key>

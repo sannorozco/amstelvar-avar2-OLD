@@ -2,6 +2,7 @@
 <glyph name="sha" format="2">
   <advance width="1884"/>
   <unicode hex="0448"/>
+  <anchor x="1804" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="230" y="424" type="line"/>
@@ -44,8 +45,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
     </dict>
   </lib>
 </glyph>

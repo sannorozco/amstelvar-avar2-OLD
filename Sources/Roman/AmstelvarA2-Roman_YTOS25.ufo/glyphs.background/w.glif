@@ -3,39 +3,5 @@
   <advance width="1026"/>
   <unicode hex="0077"/>
   <outline>
-    <contour>
-      <point x="444" y="-28" type="line"/>
-      <point x="562" y="-28" type="line"/>
-      <point x="780" y="595" type="line"/>
-      <point x="790" y="595" type="line"/>
-      <point x="1011" y="-28" type="line"/>
-      <point x="1129" y="-28" type="line"/>
-      <point x="1455" y="875" type="line"/>
-      <point x="1603" y="910" type="line"/>
-      <point x="1603" y="1000" type="line"/>
-      <point x="1198" y="1000" type="line"/>
-      <point x="1198" y="910" type="line"/>
-      <point x="1335" y="880" type="line"/>
-      <point x="1092" y="160" type="line"/>
-      <point x="1082" y="160" type="line"/>
-      <point x="1045" y="274" type="line"/>
-      <point x="841" y="873" type="line"/>
-      <point x="974" y="910" type="line"/>
-      <point x="974" y="1000" type="line"/>
-      <point x="557" y="1000" type="line"/>
-      <point x="557" y="910" type="line"/>
-      <point x="675" y="875" type="line"/>
-      <point x="725" y="747" type="line"/>
-      <point x="568" y="274" type="line"/>
-      <point x="531" y="160" type="line"/>
-      <point x="521" y="160" type="line"/>
-      <point x="483" y="274" type="line"/>
-      <point x="281" y="873" type="line"/>
-      <point x="414" y="910" type="line"/>
-      <point x="414" y="1000" type="line"/>
-      <point x="-10" y="1000" type="line"/>
-      <point x="-10" y="910" type="line"/>
-      <point x="108" y="875" type="line"/>
-    </contour>
   </outline>
 </glyph>

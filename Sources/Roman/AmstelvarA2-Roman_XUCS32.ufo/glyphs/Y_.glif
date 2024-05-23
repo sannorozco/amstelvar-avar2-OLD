@@ -5,6 +5,7 @@
   <anchor x="566.0" y="0" name="bottom"/>
   <anchor x="570.0" y="1500" name="top"/>
   <anchor x="-170.0" y="1500" name="tonos"/>
+  <anchor x="566" y="583" name="center"/>
   <outline>
     <contour>
       <point x="254" y="0" type="line"/>

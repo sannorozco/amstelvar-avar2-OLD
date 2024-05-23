@@ -8,6 +8,7 @@
   <anchor x="832.0" y="1082" name="top"/>
   <anchor x="1028" y="1082" name="topright"/>
   <anchor x="140.0" y="1082" name="tonos"/>
+  <anchor x="169" y="535" name="_yu_dash"/>
   <outline>
     <contour>
       <point x="80" y="528" type="qcurve" smooth="yes"/>
@@ -101,8 +102,6 @@
       </dict>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Source/Parametric-avar2/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
-      <key>public.markColor</key>
-      <string>1,0.57811,0,0.25476</string>
     </dict>
   </lib>
 </glyph>

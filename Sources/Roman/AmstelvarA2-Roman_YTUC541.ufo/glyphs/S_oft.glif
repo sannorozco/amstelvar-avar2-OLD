@@ -2,6 +2,7 @@
 <glyph name="Soft" format="2">
   <advance width="1288"/>
   <unicode hex="042C"/>
+  <anchor x="1262" y="0" name="Yeru_I"/>
   <outline>
     <contour>
       <point x="479" y="568" type="line"/>
@@ -42,8 +43,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
     </dict>
   </lib>
 </glyph>
