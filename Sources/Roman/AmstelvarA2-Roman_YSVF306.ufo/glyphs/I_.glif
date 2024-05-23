@@ -2,11 +2,13 @@
 <glyph name="I" format="2">
   <advance width="780"/>
   <unicode hex="0049"/>
-  <guideline x="-220" y="1431" angle="0.0" identifier="7uQcXR8R18"/>
-  <anchor x="390" y="0" name="bottom"/>
+  <guideline x="-220" y="1431" angle="0" identifier="7uQcXR8R18"/>
+  <anchor x="390.0" y="0" name="bottom"/>
   <anchor x="526" y="0" name="ogonek"/>
-  <anchor x="390" y="1500" name="top"/>
-  <anchor x="0" y="1500" name="tonos"/>
+  <anchor x="390.0" y="1500" name="top"/>
+  <anchor x="0.0" y="1500" name="tonos"/>
+  <anchor x="380" y="755" name="yu_dash"/>
+  <anchor x="82" y="0" name="_Yeru_I"/>
   <outline>
     <contour>
       <point x="82" y="0" type="line"/>

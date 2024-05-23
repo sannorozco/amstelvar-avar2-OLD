@@ -11,11 +11,12 @@ sourcePath    = os.path.join(sourcesFolder, f'{familyName}-{subFamilyName}_{sour
 
 assert os.path.exists(sourcePath)
 
-glyphNames = 'Ustraightstroke Hastroke-cy Y H I O T X Soft Zhe Ka Che Sha Shcha Yu Zhedescender Kadescender Endescender Tedescender-cy Hadescender Chedescender-cy Obarcyr Yumacron Yu-dash.case yu.bgr-stroke'.split() # H
 
-# l o u x obarcyr hastroke-cy tse.bgr sha.bgr shcha.bgr yumacron  zhe ka en te che sha shcha yeru soft yu zhedescender kadescender endescender tedescender-cy hadescender chedescender-cy 
+glyphNames = 'yu-i Cy-descendercomb.case cy-descendercomb Obarcyr-stroke U-stroke Ha-stroke obarcyr-stroke'.split()
+glyphNames += 'Ustraightstroke Hastroke-cy Y H I O T X Soft Zhe Ka Che Sha Shcha Yu Zhedescender Kadescender Endescender Tedescender-cy Hadescender Chedescender-cy Obarcyr Yumacron Yu-dash.case yu.bgr-stroke'.split() # H
+# glyphNames += 'l o u x obarcyr hastroke-cy tse.bgr sha.bgr shcha.bgr yumacron zhe ka en te che sha shcha yeru soft yu zhedescender kadescender endescender tedescender-cy hadescender chedescender-cy'.split()
 
-dstFonts = 'YSHL0 YSHL140'.split()
+dstFonts = 'YTAS665 YTAS875'.split()
     
 preflight = False
 
@@ -44,5 +45,5 @@ for ufoPath in ufoPaths:
             print(f'\tsaving font...')
             dstFont.save()
 
-        dstFont.close()
+        # dstFont.close()
         print()
