@@ -4,8 +4,8 @@
   <unicode hex="0041"/>
   <anchor x="365" y="0" name="bottom"/>
   <anchor x="630" y="0" name="ogonek"/>
-  <anchor x="383" y="1500" name="top"/>
   <anchor x="218.0" y="1500" name="tonos"/>
+  <anchor x="383" y="1500" name="top"/>
   <outline>
     <contour>
       <point x="-25" y="0" type="line"/>

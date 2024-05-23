@@ -60,10 +60,4 @@
       <point x="1312" y="741"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-    </dict>
-  </lib>
 </glyph>

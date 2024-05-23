@@ -8,6 +8,7 @@
   <anchor x="758" y="1000" name="top"/>
   <anchor x="972" y="1000" name="topright"/>
   <anchor x="758" y="1000" name="GRKtop"/>
+  <anchor x="150" y="500" name="yu_dash"/>
   <outline>
     <contour>
       <point x="64" y="500" type="qcurve" smooth="yes"/>

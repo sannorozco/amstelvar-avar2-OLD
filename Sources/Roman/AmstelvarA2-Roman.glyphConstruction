@@ -557,7 +557,7 @@ zhedieresiscyr = zhe + dieresiscomb@top | 0x4dd
 
 che.bgr = che | None
 de.bgr = g | None
-en.bgr = en | None
+# en.bgr = en | None
 i.bgr = u | None
 igrave.bgr = u + gravecomb@top | None
 ishort.bgr = u + breve.cyrcomb@top | None

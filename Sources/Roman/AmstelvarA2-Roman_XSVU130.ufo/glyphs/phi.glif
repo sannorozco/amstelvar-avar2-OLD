@@ -48,10 +48,4 @@
       <point x="443" y="88"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-    </dict>
-  </lib>
 </glyph>

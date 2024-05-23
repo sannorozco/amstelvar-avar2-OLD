@@ -2,6 +2,9 @@
 <glyph name="Etatonos" format="2">
   <advance width="1267"/>
   <unicode hex="0389"/>
+  <note>
+10,H
+</note>
   <outline>
     <component base="H" xOffset="181"/>
     <component base="tonoscomb.case" xOffset="181"/>

@@ -3,35 +3,15 @@
   <advance width="1829"/>
   <unicode hex="04AC"/>
   <outline>
-    <contour>
-      <point x="1004" y="108" type="line"/>
-      <point x="1223" y="108" type="line"/>
-      <point x="1233" y="-338" type="line"/>
-      <point x="1111" y="-338" type="line"/>
-      <point x="1042" y="0" type="line"/>
-      <point x="605" y="0" type="line"/>
-      <point x="605" y="100" type="line"/>
-      <point x="824" y="136" type="line"/>
-      <point x="826" y="754" type="line"/>
-      <point x="824" y="1362" type="line"/>
-      <point x="815" y="1382" type="line"/>
-      <point x="185" y="1382" type="line"/>
-      <point x="150" y="1052" type="line"/>
-      <point x="40" y="1052" type="line"/>
-      <point x="40" y="1500" type="line"/>
-      <point x="1789" y="1500" type="line"/>
-      <point x="1789" y="1051" type="line"/>
-      <point x="1679" y="1051" type="line"/>
-      <point x="1644" y="1382" type="line"/>
-      <point x="1023" y="1382" type="line"/>
-      <point x="1004" y="1362" type="line"/>
-      <point x="1002" y="754" type="line"/>
-    </contour>
+    <component base="T"/>
+    <component base="Cy-descendercomb.case" xOffset="591" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

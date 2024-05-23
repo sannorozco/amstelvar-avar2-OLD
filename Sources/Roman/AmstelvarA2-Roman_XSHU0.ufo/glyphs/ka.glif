@@ -2,10 +2,9 @@
 <glyph name="ka" format="2">
   <advance width="1166"/>
   <unicode hex="043A"/>
-  <guideline x="241" y="553" angle="90.0" identifier="lmgRx0QBdK"/>
-  <guideline x="786" y="880" angle="0" identifier="nFoPGEsufr"/>
   <anchor x="612" y="0" name="bottom"/>
   <anchor x="612" y="1000" name="top"/>
+  <anchor x="1152" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="230" y="500" type="line"/>
@@ -47,12 +46,4 @@
       <point x="850" y="111" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-      <key>com.hipertipo.tempEdit.glyphSetPath</key>
-      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_XSHU0.ufo/glyphs</string>
-    </dict>
-  </lib>
 </glyph>

@@ -4,16 +4,76 @@
   <dict>
     <key>A</key>
     <string>A_.glif</string>
+    <key>B</key>
+    <string>B_.glif</string>
+    <key>C</key>
+    <string>C_.glif</string>
+    <key>Che</key>
+    <string>C_he.glif</string>
+    <key>Cy-descendercomb.case</key>
+    <string>C_y-descendercomb.case.glif</string>
+    <key>D</key>
+    <string>D_.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>F</key>
+    <string>F_.glif</string>
+    <key>G</key>
+    <string>G_.glif</string>
+    <key>H</key>
+    <string>H_.glif</string>
+    <key>Ha-stroke</key>
+    <string>H_a-stroke.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
+    <key>J</key>
+    <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>Ka</key>
+    <string>K_a.glif</string>
+    <key>L</key>
+    <string>L_.glif</string>
+    <key>M</key>
+    <string>M_.glif</string>
+    <key>N</key>
+    <string>N_.glif</string>
+    <key>O</key>
+    <string>O_.glif</string>
+    <key>Obarcyr-stroke</key>
+    <string>O_barcyr-stroke.glif</string>
+    <key>P</key>
+    <string>P_.glif</string>
     <key>Q</key>
     <string>Q_.glif</string>
     <key>R</key>
     <string>R_.glif</string>
     <key>S</key>
     <string>S_.glif</string>
+    <key>Sha</key>
+    <string>S_ha.glif</string>
+    <key>Soft</key>
+    <string>S_oft.glif</string>
+    <key>T</key>
+    <string>T_.glif</string>
+    <key>U</key>
+    <string>U_.glif</string>
+    <key>U-stroke</key>
+    <string>U_-stroke.glif</string>
+    <key>V</key>
+    <string>V_.glif</string>
+    <key>W</key>
+    <string>W_.glif</string>
+    <key>X</key>
+    <string>X_.glif</string>
+    <key>Y</key>
+    <string>Y_.glif</string>
+    <key>Yu-dash.case</key>
+    <string>Y_u-dash.case.glif</string>
+    <key>Z</key>
+    <string>Z_.glif</string>
+    <key>Zhe</key>
+    <string>Z_he.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>ae</key>
@@ -26,14 +86,20 @@
     <string>c.glif</string>
     <key>cedillacomb</key>
     <string>cedillacomb.glif</string>
+    <key>che</key>
+    <string>che.glif</string>
     <key>chi</key>
     <string>chi.glif</string>
+    <key>cy-descendercomb</key>
+    <string>cy-descendercomb.glif</string>
     <key>dagger</key>
     <string>dagger.glif</string>
     <key>daggerdbl</key>
     <string>daggerdbl.glif</string>
     <key>delta</key>
     <string>delta.glif</string>
+    <key>en</key>
+    <string>en.glif</string>
     <key>epsilon</key>
     <string>epsilon.glif</string>
     <key>eta</key>
@@ -68,8 +134,12 @@
     <string>iota.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>ka</key>
+    <string>ka.glif</string>
     <key>kappa</key>
     <string>kappa.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
     <key>lambda</key>
     <string>lambda.glif</string>
     <key>micro</key>
@@ -80,6 +150,10 @@
     <string>nine.glif</string>
     <key>nu</key>
     <string>nu.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
+    <key>obarcyr-stroke</key>
+    <string>obarcyr-stroke.glif</string>
     <key>omega</key>
     <string>omega.glif</string>
     <key>pi</key>
@@ -90,18 +164,28 @@
     <string>rho.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>sha</key>
+    <string>sha.glif</string>
+    <key>sha.bgr</key>
+    <string>sha.bgr.glif</string>
     <key>sigma</key>
     <string>sigma.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>soft</key>
+    <string>soft.glif</string>
     <key>tau</key>
     <string>tau.glif</string>
+    <key>te</key>
+    <string>te.glif</string>
     <key>theta</key>
     <string>theta.glif</string>
     <key>thorn</key>
     <string>thorn.glif</string>
     <key>two</key>
     <string>two.glif</string>
+    <key>u</key>
+    <string>u.glif</string>
     <key>upsilon</key>
     <string>upsilon.glif</string>
     <key>v</key>
@@ -114,7 +198,17 @@
     <string>xi.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>yeru</key>
+    <string>yeru.glif</string>
+    <key>yu</key>
+    <string>yu.glif</string>
+    <key>yu-i</key>
+    <string>yu-i.glif</string>
+    <key>yu.bgr-stroke</key>
+    <string>yu.bgr-stroke.glif</string>
     <key>zeta</key>
     <string>zeta.glif</string>
+    <key>zhe</key>
+    <string>zhe.glif</string>
   </dict>
 </plist>

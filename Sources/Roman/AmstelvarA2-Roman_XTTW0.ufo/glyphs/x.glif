@@ -4,6 +4,7 @@
   <unicode hex="0078"/>
   <anchor x="522" y="0" name="bottom"/>
   <anchor x="522" y="1000" name="top"/>
+  <anchor x="1043" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="16" y="0" type="line"/>
@@ -17,8 +18,8 @@
       <point x="442" y="910" type="line"/>
       <point x="319" y="873" type="line"/>
       <point x="454" y="701" type="line"/>
-      <point x="532" y="602" type="line"/>
-      <point x="532" y="602" type="line"/>
+      <point x="527" y="602" type="line"/>
+      <point x="537" y="602" type="line"/>
       <point x="603" y="701" type="line"/>
       <point x="727" y="880" type="line"/>
       <point x="590" y="910" type="line"/>
@@ -34,8 +35,8 @@
       <point x="611" y="80" type="line"/>
       <point x="734" y="117" type="line"/>
       <point x="584" y="305" type="line"/>
-      <point x="506" y="402" type="line"/>
-      <point x="506" y="402" type="line"/>
+      <point x="511" y="402" type="line"/>
+      <point x="501" y="402" type="line"/>
       <point x="439" y="305" type="line"/>
       <point x="305" y="110" type="line"/>
       <point x="432" y="80" type="line"/>
@@ -55,9 +56,7 @@
         </dict>
       </dict>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
-      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_XTTW0.ufo/glyphs</string>
-      <key>public.markColor</key>
-      <string>0,0.98107,0.57369,0.50244</string>
+      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
     </dict>
   </lib>
 </glyph>

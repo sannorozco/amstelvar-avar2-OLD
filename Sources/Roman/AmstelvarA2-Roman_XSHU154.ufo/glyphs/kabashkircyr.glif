@@ -2,10 +2,6 @@
 <glyph name="kabashkircyr" format="2">
   <advance width="1376"/>
   <unicode hex="04A1"/>
-  <guideline x="302" y="625" angle="90.0" identifier="0glbwjr6f1"/>
-  <guideline x="953" y="554" angle="90.0" identifier="41A0uQDzZV"/>
-  <guideline x="627" y="553" angle="90.0" identifier="rA3XBl1QkZ"/>
-  <guideline x="241" y="553" angle="90.0" identifier="UwAftolvUF"/>
   <outline>
     <contour>
       <point x="438" y="895" type="line"/>
@@ -49,12 +45,4 @@
       <point x="1060" y="111" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-      <key>com.hipertipo.tempEdit.glyphSetPath</key>
-      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_XSHU154.ufo/glyphs</string>
-    </dict>
-  </lib>
 </glyph>

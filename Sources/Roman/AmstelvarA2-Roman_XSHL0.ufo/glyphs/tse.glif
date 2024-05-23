@@ -23,19 +23,13 @@
       <point x="1038" y="885" type="line"/>
       <point x="1036" y="500" type="line"/>
       <point x="1039" y="105" type="line"/>
-      <point x="1039" y="105" type="line"/>
-      <point x="1049" y="-318" type="line"/>
-      <point x="957" y="-318" type="line"/>
-      <point x="868" y="0" type="line"/>
+      <point x="1099" y="105" type="line"/>
+      <point x="1109" y="-318" type="line"/>
+      <point x="1017" y="-318" type="line"/>
+      <point x="928" y="0" type="line"/>
       <point x="228" y="0" type="line"/>
       <point x="228" y="80" type="line"/>
       <point x="228" y="115" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-    </dict>
-  </lib>
 </glyph>

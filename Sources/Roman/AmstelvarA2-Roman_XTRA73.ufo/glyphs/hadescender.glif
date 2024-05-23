@@ -1,51 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hadescender" format="2">
-  <advance width="718"/>
+  <advance width="788"/>
   <unicode hex="04B3"/>
   <outline>
-    <contour>
-      <point x="527" y="105" type="line"/>
-      <point x="718" y="105" type="line"/>
-      <point x="728" y="-318" type="line"/>
-      <point x="636" y="-318" type="line"/>
-      <point x="547" y="0" type="line"/>
-      <point x="527" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="0" type="line"/>
-      <point x="25" y="80" type="line"/>
-      <point x="183" y="115" type="line"/>
-      <point x="314" y="468" type="line"/>
-      <point x="144" y="875" type="line"/>
-      <point x="26" y="910" type="line"/>
-      <point x="26" y="1000" type="line"/>
-      <point x="436" y="1000" type="line"/>
-      <point x="436" y="910" type="line"/>
-      <point x="313" y="873" type="line"/>
-      <point x="338" y="766" type="line"/>
-      <point x="375" y="650" type="line"/>
-      <point x="385" y="650" type="line"/>
-      <point x="411" y="766" type="line"/>
-      <point x="429" y="880" type="line"/>
-      <point x="292" y="910" type="line"/>
-      <point x="292" y="1000" type="line"/>
-      <point x="693" y="1000" type="line"/>
-      <point x="693" y="910" type="line"/>
-      <point x="545" y="875" type="line"/>
-      <point x="428" y="530" type="line"/>
-      <point x="598" y="105" type="line"/>
-      <point x="601" y="0" type="line"/>
-      <point x="307" y="0" type="line"/>
-      <point x="307" y="80" type="line"/>
-      <point x="430" y="117" type="line"/>
-      <point x="396" y="251" type="line"/>
-      <point x="370" y="348" type="line"/>
-      <point x="360" y="348" type="line"/>
-      <point x="337" y="251" type="line"/>
-      <point x="307" y="110" type="line"/>
-      <point x="434" y="80" type="line"/>
-      <point x="434" y="0" type="line"/>
-    </contour>
+    <component base="x"/>
+    <component base="cy-descendercomb" xOffset="72"/>
   </outline>
   <lib>
     <dict>

@@ -1,52 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hastroke-cy" format="2">
-  <advance width="1827"/>
+  <advance width="1828"/>
   <unicode hex="04FE"/>
   <outline>
-    <contour>
-      <point x="533" y="735" type="line"/>
-      <point x="533" y="881" type="line"/>
-      <point x="930" y="878" type="line"/>
-      <point x="1314" y="881" type="line"/>
-      <point x="1314" y="735" type="line"/>
-      <point x="923" y="738" type="line"/>
-    </contour>
-    <contour>
-      <point x="-20" y="0" type="line"/>
-      <point x="-20" y="100" type="line"/>
-      <point x="148" y="135" type="line"/>
-      <point x="814" y="761" type="line"/>
-      <point x="188" y="1355" type="line"/>
-      <point x="30" y="1386" type="line"/>
-      <point x="30" y="1500" type="line"/>
-      <point x="564" y="1500" type="line"/>
-      <point x="564" y="1386" type="line"/>
-      <point x="391" y="1353" type="line"/>
-      <point x="799" y="955" type="line"/>
-      <point x="917" y="841" type="line"/>
-      <point x="927" y="841" type="line"/>
-      <point x="1040" y="955" type="line"/>
-      <point x="1438" y="1360" type="line"/>
-      <point x="1261" y="1386" type="line"/>
-      <point x="1261" y="1500" type="line"/>
-      <point x="1767" y="1500" type="line"/>
-      <point x="1767" y="1386" type="line"/>
-      <point x="1589" y="1355" type="line"/>
-      <point x="995" y="783" type="line"/>
-      <point x="1699" y="135" type="line"/>
-      <point x="1867" y="100" type="line"/>
-      <point x="1867" y="0" type="line"/>
-      <point x="1323" y="0" type="line"/>
-      <point x="1323" y="100" type="line"/>
-      <point x="1496" y="135" type="line"/>
-      <point x="1009" y="592" type="line"/>
-      <point x="892" y="706" type="line"/>
-      <point x="882" y="706" type="line"/>
-      <point x="769" y="592" type="line"/>
-      <point x="299" y="130" type="line"/>
-      <point x="476" y="100" type="line"/>
-      <point x="476" y="0" type="line"/>
-    </contour>
+    <component base="X"/>
+    <component base="Ha-stroke" xOffset="260.5" yOffset="-58"/>
   </outline>
   <lib>
     <dict>
@@ -54,6 +12,8 @@
       <dict/>
       <key>com.hipertipo.tempEdit.glyphSetPath</key>
       <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_wght400.ufo/glyphs</string>
+      <key>public.markColor</key>
+      <string>0,0.6,1,0.5</string>
     </dict>
   </lib>
 </glyph>

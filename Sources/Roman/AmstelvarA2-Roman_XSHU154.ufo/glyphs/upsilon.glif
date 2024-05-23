@@ -2,7 +2,6 @@
 <glyph name="upsilon" format="2">
   <advance width="1105"/>
   <unicode hex="03C5"/>
-  <guideline x="583" y="458" angle="90.0" identifier="alyBMl9vyt"/>
   <anchor x="510" y="1000" name="GRKtop"/>
   <outline>
     <contour>
@@ -38,10 +37,4 @@
       <point x="779" y="-21"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-    </dict>
-  </lib>
 </glyph>

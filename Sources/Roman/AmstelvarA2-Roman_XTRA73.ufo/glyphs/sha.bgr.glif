@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sha.bgr" format="2">
   <advance width="1094"/>
+  <anchor x="1028" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="455" y="842" type="line"/>

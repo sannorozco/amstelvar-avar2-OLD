@@ -1,60 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yu" format="2">
-  <advance width="984"/>
+  <advance width="1062"/>
   <unicode hex="044E"/>
-  <anchor x="473" y="0" name="bottom"/>
-  <anchor x="499" y="1000" name="top"/>
   <outline>
-    <contour>
-      <point x="313" y="574" type="line"/>
-      <point x="526" y="571" type="line"/>
-      <point x="526" y="471" type="line"/>
-      <point x="313" y="469" type="line"/>
-    </contour>
-    <contour>
-      <point x="230" y="500" type="line"/>
-      <point x="228" y="885" type="line"/>
-      <point x="80" y="920" type="line"/>
-      <point x="80" y="1000" type="line"/>
-      <point x="536" y="1000" type="line"/>
-      <point x="536" y="920" type="line"/>
-      <point x="398" y="885" type="line"/>
-      <point x="396" y="500" type="line"/>
-      <point x="398" y="115" type="line"/>
-      <point x="536" y="80" type="line"/>
-      <point x="536" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="80" type="line"/>
-      <point x="228" y="115" type="line"/>
-    </contour>
-    <contour>
-      <point x="436" y="500" type="qcurve" smooth="yes"/>
-      <point x="436" y="717"/>
-      <point x="569" y="1022"/>
-      <point x="677" y="1022" type="qcurve" smooth="yes"/>
-      <point x="786" y="1022"/>
-      <point x="920" y="737"/>
-      <point x="920" y="506" type="qcurve" smooth="yes"/>
-      <point x="920" y="290"/>
-      <point x="787" y="-22"/>
-      <point x="680" y="-22" type="qcurve" smooth="yes"/>
-      <point x="571" y="-22"/>
-      <point x="436" y="267"/>
-    </contour>
-    <contour>
-      <point x="615" y="520" type="qcurve" smooth="yes"/>
-      <point x="616" y="339"/>
-      <point x="648" y="88"/>
-      <point x="675" y="88" type="qcurve" smooth="yes"/>
-      <point x="702" y="88"/>
-      <point x="734" y="317"/>
-      <point x="734" y="506" type="qcurve" smooth="yes"/>
-      <point x="734" y="680"/>
-      <point x="700" y="906"/>
-      <point x="676" y="906" type="qcurve" smooth="yes"/>
-      <point x="646" y="906"/>
-      <point x="615" y="700"/>
-    </contour>
+    <component base="yu-i"/>
+    <component base="yu.bgr-stroke" xOffset="-12"/>
+    <component base="o" xOffset="371"/>
   </outline>
   <lib>
     <dict>

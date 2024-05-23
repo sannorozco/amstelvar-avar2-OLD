@@ -4,6 +4,7 @@
   <unicode hex="041A"/>
   <anchor x="812.0" y="0" name="bottom"/>
   <anchor x="770.0" y="1500" name="top"/>
+  <anchor x="1476" y="100" name="cy_descender"/>
   <outline>
     <contour>
       <point x="82" y="0" type="line"/>
@@ -45,10 +46,4 @@
       <point x="1111" y="135" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-    </dict>
-  </lib>
 </glyph>

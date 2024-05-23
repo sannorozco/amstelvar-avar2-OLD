@@ -2,9 +2,9 @@
 <glyph name="zhe" format="2">
   <advance width="1666"/>
   <unicode hex="0436"/>
-  <guideline x="241" y="553" angle="90.0" identifier="8KgqZm3A67"/>
   <anchor x="833" y="0" name="bottom"/>
   <anchor x="833" y="1000" name="top"/>
+  <anchor x="1646" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="615" y="483" type="line"/>
@@ -69,12 +69,4 @@
       <point x="1344" y="111" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-      <key>com.hipertipo.tempEdit.glyphSetPath</key>
-      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/Sources/Roman/AmstelvarA2-Roman_XSHU0.ufo/glyphs</string>
-    </dict>
-  </lib>
 </glyph>

@@ -5,14 +5,6 @@
   <outline>
     <component base="idotless"/>
     <component base="idot" xOffset="320"/>
-    <component base="ogonekcomb" xOffset="540"/>
+    <component base="ogonekcomb" xOffset="470"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-      <key>public.markColor</key>
-      <string>0,0,1,0.5</string>
-    </dict>
-  </lib>
 </glyph>

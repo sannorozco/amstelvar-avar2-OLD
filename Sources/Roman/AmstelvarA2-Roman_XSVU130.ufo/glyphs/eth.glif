@@ -44,12 +44,4 @@
       <point x="489" y="1125" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-      <key>com.hipertipo.tempEdit.glyphSetPath</key>
-      <string>/Users/gferreira/hipertipo/fonts/amstelvar-avar2/sources/Roman/Amstelvar-Roman_wght400.ufo/glyphs</string>
-    </dict>
-  </lib>
 </glyph>

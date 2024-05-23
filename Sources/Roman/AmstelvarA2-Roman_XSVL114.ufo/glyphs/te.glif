@@ -2,6 +2,7 @@
 <glyph name="te" format="2">
   <advance width="1046"/>
   <unicode hex="0442"/>
+  <anchor x="756" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="756" y="80" type="line"/>
@@ -11,17 +12,23 @@
       <point x="438" y="115" type="line"/>
       <point x="440" y="500" type="line"/>
       <point x="438" y="895" type="line"/>
-      <point x="296" y="895" type="line"/>
-      <point x="250" y="662" type="line"/>
-      <point x="20" y="662" type="line"/>
-      <point x="20" y="1000" type="line"/>
-      <point x="1026" y="1000" type="line"/>
-      <point x="1026" y="662" type="line"/>
-      <point x="796" y="662" type="line"/>
-      <point x="750" y="895" type="line"/>
+      <point x="206" y="895" type="line"/>
+      <point x="160" y="662" type="line"/>
+      <point x="60" y="662" type="line"/>
+      <point x="60" y="1000" type="line"/>
+      <point x="986" y="1000" type="line"/>
+      <point x="986" y="662" type="line"/>
+      <point x="886" y="662" type="line"/>
+      <point x="840" y="895" type="line"/>
       <point x="608" y="895" type="line"/>
       <point x="606" y="500" type="line"/>
       <point x="608" y="115" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontBureau.measurements</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>

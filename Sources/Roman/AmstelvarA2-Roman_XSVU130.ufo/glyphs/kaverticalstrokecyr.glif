@@ -2,7 +2,6 @@
 <glyph name="kaverticalstrokecyr" format="2">
   <advance width="1296"/>
   <unicode hex="049D"/>
-  <guideline x="241" y="553" angle="90" identifier="lmgRx0QBdK"/>
   <outline>
     <contour>
       <point x="230" y="500" type="line"/>
@@ -50,10 +49,4 @@
       <point x="655" y="792" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontBureau.measurements</key>
-      <dict/>
-    </dict>
-  </lib>
 </glyph>

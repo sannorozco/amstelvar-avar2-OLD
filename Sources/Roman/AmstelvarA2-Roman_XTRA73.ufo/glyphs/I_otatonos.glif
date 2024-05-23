@@ -2,6 +2,9 @@
 <glyph name="Iotatonos" format="2">
   <advance width="961"/>
   <unicode hex="038A"/>
+  <note>
+10,I
+</note>
   <outline>
     <component base="I" xOffset="181"/>
     <component base="tonoscomb.case" xOffset="181"/>

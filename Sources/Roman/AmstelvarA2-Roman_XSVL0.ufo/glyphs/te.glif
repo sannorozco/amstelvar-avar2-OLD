@@ -2,6 +2,7 @@
 <glyph name="te" format="2">
   <advance width="1046"/>
   <unicode hex="0442"/>
+  <anchor x="756" y="80" name="cy_descender"/>
   <outline>
     <contour>
       <point x="756" y="80" type="line"/>
@@ -11,14 +12,14 @@
       <point x="438" y="115" type="line"/>
       <point x="440" y="500" type="line"/>
       <point x="438" y="895" type="line"/>
-      <point x="136" y="895" type="line"/>
-      <point x="90" y="662" type="line"/>
-      <point x="90" y="662" type="line"/>
-      <point x="90" y="1000" type="line"/>
-      <point x="956" y="1000" type="line"/>
-      <point x="956" y="662" type="line"/>
-      <point x="956" y="662" type="line"/>
-      <point x="910" y="895" type="line"/>
+      <point x="206" y="895" type="line"/>
+      <point x="160" y="662" type="line"/>
+      <point x="60" y="662" type="line"/>
+      <point x="60" y="1000" type="line"/>
+      <point x="986" y="1000" type="line"/>
+      <point x="986" y="662" type="line"/>
+      <point x="886" y="662" type="line"/>
+      <point x="840" y="895" type="line"/>
       <point x="608" y="895" type="line"/>
       <point x="606" y="500" type="line"/>
       <point x="608" y="115" type="line"/>
@@ -28,8 +29,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>1,0.18574,0.5734,0.3459</string>
     </dict>
   </lib>
 </glyph>
