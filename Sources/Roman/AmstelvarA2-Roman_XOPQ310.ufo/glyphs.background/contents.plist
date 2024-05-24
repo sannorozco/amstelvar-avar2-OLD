@@ -394,6 +394,8 @@
     <string>chedescender-cy.glif</string>
     <key>cheverticalstroke-cy</key>
     <string>cheverticalstroke-cy.glif</string>
+    <key>chi</key>
+    <string>chi.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
     <key>circumflexcomb-stack</key>
@@ -490,6 +492,8 @@
     <string>endescender.glif</string>
     <key>engn</key>
     <string>engn.glif</string>
+    <key>epsilon</key>
+    <string>epsilon.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
     <key>er</key>
@@ -524,6 +528,8 @@
     <string>foursuperior.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>gamma</key>
+    <string>gamma.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>ghe</key>

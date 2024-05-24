@@ -78,8 +78,8 @@
     <string>Z_he.glif</string>
     <key>alpha</key>
     <string>alpha.glif</string>
-    <key>che</key>
-    <string>che.glif</string>
+    <key>beta</key>
+    <string>beta.glif</string>
     <key>chi</key>
     <string>chi.glif</string>
     <key>cy-descendercomb</key>
@@ -108,18 +108,10 @@
     <string>obarcyr-stroke.glif</string>
     <key>phi</key>
     <string>phi.glif</string>
-    <key>sha</key>
-    <string>sha.glif</string>
-    <key>sha.bgr</key>
-    <string>sha.bgr.glif</string>
-    <key>soft</key>
-    <string>soft.glif</string>
-    <key>te</key>
-    <string>te.glif</string>
-    <key>u</key>
-    <string>u.glif</string>
-    <key>x</key>
-    <string>x.glif</string>
+    <key>rho</key>
+    <string>rho.glif</string>
+    <key>sigma</key>
+    <string>sigma.glif</string>
     <key>xi</key>
     <string>xi.glif</string>
     <key>yu-i</key>

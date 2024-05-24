@@ -66,6 +66,8 @@
     <string>Z_he.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
+    <key>alpha</key>
+    <string>alpha.glif</string>
     <key>c</key>
     <string>c.glif</string>
     <key>cedillacomb.case</key>
@@ -116,8 +118,8 @@
     <string>ka.glif</string>
     <key>kappa</key>
     <string>kappa.glif</string>
-    <key>l</key>
-    <string>l.glif</string>
+    <key>lambda</key>
+    <string>lambda.glif</string>
     <key>lslash</key>
     <string>lslash.glif</string>
     <key>mu</key>
