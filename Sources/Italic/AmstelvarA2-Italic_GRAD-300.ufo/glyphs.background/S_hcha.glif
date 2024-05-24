@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Shcha" format="2">
   <advance width="2141"/>
-  <guideline x="1624" y="1206" angle="90" identifier="zEB0U7qkWS"/>
-  <guideline x="1638" y="1367" angle="90" identifier="ocQ37TtvPt"/>
-  <guideline x="1638" y="1367" angle="90" identifier="tLgU9C020U"/>
-  <guideline x="1638" y="1367" angle="90" identifier="JMFW6vjRSN"/>
   <outline>
     <contour>
       <point x="1830" y="0" type="line"/>

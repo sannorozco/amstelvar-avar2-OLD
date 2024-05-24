@@ -5680,6 +5680,29 @@
       <string>tildemacroncomb.case</string>
       <string>yu-i</string>
       <string>yu-l.bgr</string>
+      <string>f_f_ij</string>
+      <string>f_ij</string>
+      <string>zero.prop</string>
+      <string>one.prop</string>
+      <string>two.prop</string>
+      <string>three.prop</string>
+      <string>four.prop</string>
+      <string>five.prop</string>
+      <string>six.prop</string>
+      <string>seven.prop</string>
+      <string>eight.prop</string>
+      <string>nine.prop</string>
+      <string>hryvnia.rvrn</string>
+      <string>hastroke-stroke</string>
+      <string>ka-swash</string>
+      <string>u-stroke</string>
+      <string>yu-dash</string>
+      <string>uni20B1.copy_1</string>
+      <string>uni20B2.copy_1</string>
+      <string>coloncurrency.rvrn</string>
+      <string>uni20B1.rvrn</string>
+      <string>uni20B2.rvrn</string>
+      <string>uni20B5.rvrn</string>
     </array>
     <key>tnCurvePalet</key>
     <dict>

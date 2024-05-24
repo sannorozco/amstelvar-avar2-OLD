@@ -1123,6 +1123,14 @@
       <real>0.5</real>
       <real>0.7</real>
     </array>
+    <key>com.typemytype.robofont.guideline.magnetic.5mWyZiMs4G</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.QLpK01J30W</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.5mWyZiMs4G</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.QLpK01J30W</key>
+    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>-97</integer>
     <key>com.typemytype.robofont.segmentType</key>

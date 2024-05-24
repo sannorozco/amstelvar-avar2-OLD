@@ -86,10 +86,14 @@
     <string>acutecomb-stack.case.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
+    <key>alpha</key>
+    <string>alpha.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
     <key>b</key>
     <string>b.glif</string>
+    <key>beta</key>
+    <string>beta.glif</string>
     <key>brevecomb-stack.case</key>
     <string>brevecomb-stack.case.glif</string>
     <key>breveinvertedcomb-stack.case</key>
@@ -106,6 +110,8 @@
     <string>d.glif</string>
     <key>dblgravecomb-stack.case</key>
     <string>dblgravecomb-stack.case.glif</string>
+    <key>delta</key>
+    <string>delta.glif</string>
     <key>dieresiscomb-stack.case</key>
     <string>dieresiscomb-stack.case.glif</string>
     <key>dieresistonoscomb.case</key>
@@ -116,8 +122,14 @@
     <string>e.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>epsilon</key>
+    <string>epsilon.glif</string>
+    <key>eta</key>
+    <string>eta.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>finalsigma</key>
+    <string>finalsigma.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>gravecomb-stack.case</key>
@@ -148,6 +160,8 @@
     <string>m.glif</string>
     <key>macroncomb-stack.case</key>
     <string>macroncomb-stack.case.glif</string>
+    <key>mu</key>
+    <string>mu.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>nine</key>
@@ -162,10 +176,14 @@
     <string>q.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>rho</key>
+    <string>rho.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>theta</key>
+    <string>theta.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>v</key>
@@ -178,6 +196,8 @@
     <string>y.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>zeta</key>
+    <string>zeta.glif</string>
     <key>zhe</key>
     <string>zhe.glif</string>
   </dict>

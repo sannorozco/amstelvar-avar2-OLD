@@ -26,8 +26,8 @@
       <point x="905" y="176"/>
       <point x="965" y="109"/>
       <point x="1014" y="109" type="qcurve" smooth="yes"/>
-      <point x="1083" y="109" type="line"/>
-      <point x="1083" y="29" type="line"/>
+      <point x="1085" y="109" type="line"/>
+      <point x="1085" y="29" type="line"/>
       <point x="907" y="-8" type="line"/>
       <point x="842" y="-7"/>
       <point x="755" y="65"/>

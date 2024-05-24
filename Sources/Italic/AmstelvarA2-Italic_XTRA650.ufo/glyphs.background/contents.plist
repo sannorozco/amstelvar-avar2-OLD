@@ -88,6 +88,10 @@
     <string>s.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>three</key>
+    <string>three.glif</string>
+    <key>two</key>
+    <string>two.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>v</key>
@@ -100,5 +104,7 @@
     <string>y.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>zero</key>
+    <string>zero.glif</string>
   </dict>
 </plist>

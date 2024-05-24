@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ef" format="2">
   <advance width="1754"/>
-  <guideline x="769" y="229" angle="0" identifier="3OSj1D4BTx"/>
-  <guideline x="987" y="1264" angle="0" identifier="qlKNpU9Xgf"/>
   <outline>
     <contour>
       <point x="464" y="-20" type="line"/>
@@ -61,10 +59,4 @@
       <point x="1633" y="962"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.83235,0.47321,0.74713</string>
-    </dict>
-  </lib>
 </glyph>

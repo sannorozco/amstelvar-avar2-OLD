@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jdotless" format="2">
   <advance width="556"/>
-  <anchor x="88.0" y="-436" name="bottom"/>
-  <anchor x="320" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="226" y="822" type="qcurve"/>
@@ -12,7 +10,7 @@
       <point x="367" y="1000" type="line"/>
       <point x="411" y="889" type="line"/>
       <point x="372" y="780" type="line"/>
-      <point x="267" y="132" type="line"/>
+      <point x="267" y="132" type="line" smooth="yes"/>
       <point x="228" y="-164"/>
       <point x="3" y="-464"/>
       <point x="-186" y="-464" type="qcurve"/>

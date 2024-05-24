@@ -16,6 +16,10 @@
     <string>V_.glif</string>
     <key>W</key>
     <string>W_.glif</string>
+    <key>alpha</key>
+    <string>alpha.glif</string>
+    <key>beta</key>
+    <string>beta.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>dagger</key>
@@ -50,6 +54,8 @@
     <string>horncomb.case.glif</string>
     <key>kappa</key>
     <string>kappa.glif</string>
+    <key>lambda</key>
+    <string>lambda.glif</string>
     <key>omega</key>
     <string>omega.glif</string>
     <key>phi</key>

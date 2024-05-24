@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chi" format="2">
+  <advance width="1749"/>
+  <unicode hex="03C7"/>
+  <outline>
+    <contour>
+      <point x="933" y="573" type="move"/>
+      <point x="985" y="451" type="line"/>
+      <point x="995" y="451" type="line"/>
+      <point x="1041" y="612" type="line"/>
+      <point x="1081" y="979" type="line"/>
+      <point x="1642" y="1000" type="line"/>
+      <point x="1667" y="964" type="line"/>
+      <point x="1313" y="570" type="line"/>
+      <point x="1142" y="317" type="line"/>
+    </contour>
+  </outline>
+</glyph>

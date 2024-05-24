@@ -518,6 +518,8 @@
     <string>perthousand.glif</string>
     <key>phi</key>
     <string>phi.glif</string>
+    <key>pi</key>
+    <string>pi.glif</string>
     <key>psi</key>
     <string>psi.glif</string>
     <key>q</key>
@@ -552,6 +554,8 @@
     <string>shcha.glif</string>
     <key>shcha.bgr</key>
     <string>shcha.bgr.glif</string>
+    <key>sigma</key>
+    <string>sigma.glif</string>
     <key>six.lf</key>
     <string>six.lf.glif</string>
     <key>sixsuperior</key>
@@ -564,6 +568,8 @@
     <string>te.locl.glif</string>
     <key>tedescender-cy</key>
     <string>tedescender-cy.glif</string>
+    <key>theta</key>
+    <string>theta.glif</string>
     <key>thinspace</key>
     <string>thinspace.glif</string>
     <key>three.lf</key>

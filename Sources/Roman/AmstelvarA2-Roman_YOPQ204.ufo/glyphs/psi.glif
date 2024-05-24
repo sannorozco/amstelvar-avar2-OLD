@@ -31,13 +31,13 @@
       <point x="353" y="908"/>
       <point x="353" y="831" type="qcurve" smooth="yes"/>
       <point x="353" y="627" type="line"/>
-      <point x="351" y="487"/>
+      <point x="351" y="467"/>
       <point x="530" y="353"/>
       <point x="723" y="353" type="qcurve"/>
       <point x="925" y="353"/>
-      <point x="1120" y="430"/>
-      <point x="1120" y="520" type="qcurve" smooth="yes"/>
-      <point x="1120" y="648"/>
+      <point x="1120" y="470"/>
+      <point x="1120" y="590" type="qcurve"/>
+      <point x="1120" y="688"/>
       <point x="1044" y="853"/>
       <point x="937" y="964" type="qcurve"/>
       <point x="1260" y="1029" type="line"/>

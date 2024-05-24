@@ -33,10 +33,10 @@
       <point x="2113" y="1394" type="line"/>
       <point x="1945" y="1353" type="line"/>
       <point x="2118" y="800" type="line"/>
-      <point x="2258" y="370" type="line" smooth="yes"/>
+      <point x="2258" y="370" type="line"/>
       <point x="2291" y="256" type="line"/>
       <point x="2301" y="256" type="line"/>
-      <point x="2337" y="370" type="line" smooth="yes"/>
+      <point x="2337" y="370" type="line"/>
       <point x="2490" y="803" type="line"/>
       <point x="2674" y="1352" type="line"/>
       <point x="2477" y="1386" type="line"/>

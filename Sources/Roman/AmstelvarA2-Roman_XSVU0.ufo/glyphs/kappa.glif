@@ -37,8 +37,8 @@
       <point x="864" y="136"/>
       <point x="909" y="109"/>
       <point x="966" y="109" type="qcurve" smooth="yes"/>
-      <point x="1040" y="109" type="line"/>
-      <point x="1040" y="29" type="line"/>
+      <point x="1041" y="109" type="line"/>
+      <point x="1041" y="29" type="line"/>
     </contour>
   </outline>
   <lib>
