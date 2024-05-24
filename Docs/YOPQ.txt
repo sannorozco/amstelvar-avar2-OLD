@@ -1,0 +1,47 @@
+YOPQ
+====
+
+
+Variation
+---------
+
+internal whitespace is expanded vertically
+
+### Glyphs
+
+- all glyphs with a thin stroke
+
+### Widths
+
+- rule: keeps the same width as the default
+- exception: glyphs with slanted strokes (V W Y v w y)
+
+### Anchors
+
+- rule: same position as the default
+
+
+Workflows
+---------
+
+...
+
+
+
+Notes
+-----
+
+### YOPQ vs. YSHL / YSHU
+
+the serif height axis currently controls a few things which are not serifs:
+
+- details of brackets, braces
+- tail of J j / Italic descenders g f j
+
+### YOPQ + XOPQ combined
+
+glyphs in which the weight change is split between XOPQ & YOPQ axes
+
+- S s g
+- A V v W w (apex)
+- section

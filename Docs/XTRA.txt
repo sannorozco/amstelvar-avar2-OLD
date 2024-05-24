@@ -1,0 +1,36 @@
+XTRA
+====
+
+Variation
+---------
+
+### Glyphs
+
+all glyphs with exceptions:
+
+- thin (single stroke) glyphs: i l I etc.
+- dots, bars, etc: .,:;!
+
+### Widths
+
+- character widths change with glyph shape
+- rule: sidebearings same as default
+
+## Anchors
+
+- some anchors are positioned proportionally (top, bottom, center)
+
+
+Workflow
+--------
+
+- use script to calculate new XTRA value based on H
+- ...
+
+
+Notes
+-----
+
+- some glyphs scale different than others
+- in practice: adjust values for special cases
+

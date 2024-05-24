@@ -302,7 +302,7 @@ class AmstelvarA2DesignSpaceBuilder:
     def save(self):
         if not self.designspace:
             return
-        print(f'saving {self.designspacePath}...')
+        print(f'saving {os.path.split(self.designspacePath)[-1]}...')
         self.designspace.write(self.designspacePath)
 
     def buildVariableFont(self, subset=None, setVersionInfo=True, debug=False):
@@ -650,9 +650,9 @@ if __name__ == '__main__':
     # D0.build()
     # D0.save()
 
-    D = AmstelvarA2DesignSpaceBuilder()
-    D.build(blends=True, instances=True)
-    D.save()
+    # D = AmstelvarA2DesignSpaceBuilder()
+    # D.build(blends=True, instances=True)
+    # D.save()
     # D.buildInstances()
 
     # D1 = AmstelvarA2DesignSpaceBuilder_avar1()
