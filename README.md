@@ -53,14 +53,13 @@ Proofs
 
 ```
 Proofs
-├── avar2-avar1.html
-├── avar2-original_blends.html
-├── avar2-original_compare.html
-├── avar2-test.py
+├── HTML/
+├── PDF/
 └── fontra-test-strings.txt
 ```
 
 <dl>
+  <!--
   <dt>avar2-original_blends.html</dt>
   <dd>Interactive HTML page for comparison between AmstelvarA2 avar2 (parametric axes) and the original Amstelvar (opsz wght wdth).<br/>
     Useful when defining and checking parametric locations of blended extrema against their avar2 blends.</dd>
@@ -73,8 +72,13 @@ Proofs
   <dt>avar2-test.py</dt>
   <dd>DrawBot script for testing the avar2 variable font interactively using the native macOS text engine.<br/>
     Produces a PDF document.</dd>
+  -->
+  <dt>HTML</dt>
+  <dd>Interactive proofs in HTML/CSS/JS format.</dd>
+  <dt>PDF</dt>
+  <dd>Static proofs in PDF format.</dd>
   <dt>fontra-test-strings.txt</dt>
-  <dd>A collection of test text strings for previewing glyph sets in Fontra.</dd>
+  <dd>Test text strings for previewing glyph sets in Fontra.</dd>
 </dl>
 
 
