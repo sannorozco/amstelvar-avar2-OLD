@@ -74,6 +74,8 @@
     <string>alpha.glif</string>
     <key>beta</key>
     <string>beta.glif</string>
+    <key>chi</key>
+    <string>chi.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>cy-descendercomb</key>
@@ -124,6 +126,8 @@
     <string>omega.glif</string>
     <key>phi</key>
     <string>phi.glif</string>
+    <key>psi</key>
+    <string>psi.glif</string>
     <key>quotedblbase</key>
     <string>quotedblbase.glif</string>
     <key>quotedblleft</key>

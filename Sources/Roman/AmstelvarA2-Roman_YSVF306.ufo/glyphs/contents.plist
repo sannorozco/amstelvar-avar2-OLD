@@ -194,6 +194,8 @@
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>Gamma</key>
+    <string>G_amma.glif</string>
     <key>Gbreve</key>
     <string>G_breve.glif</string>
     <key>Gcaron</key>
@@ -406,6 +408,8 @@
     <string>O_macron.glif</string>
     <key>Omacroncyr</key>
     <string>O_macroncyr.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
     <key>Omegatonos</key>
     <string>O_megatonos.glif</string>
     <key>Omicrontonos</key>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kappa" format="2">
-  <advance width="942"/>
+  <advance width="941"/>
   <unicode hex="03BA"/>
   <outline>
     <contour>
@@ -14,17 +14,17 @@
       <point x="343" y="21" type="line"/>
     </contour>
     <contour>
-      <point x="227" y="107" type="line"/>
-      <point x="227" y="269" type="line"/>
-      <point x="554" y="851" type="line" smooth="yes"/>
-      <point x="609" y="950"/>
+      <point x="237" y="107" type="line"/>
+      <point x="237" y="299" type="line"/>
+      <point x="544" y="851" type="line" smooth="yes"/>
+      <point x="600" y="952"/>
       <point x="697" y="1008"/>
       <point x="737" y="1010" type="qcurve"/>
       <point x="762" y="974" type="line"/>
       <point x="748" y="832" type="line"/>
       <point x="710" y="832"/>
-      <point x="652" y="797"/>
-      <point x="624" y="754" type="qcurve" smooth="yes"/>
+      <point x="661" y="797"/>
+      <point x="634" y="754" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
       <point x="686" y="-8" type="line"/>

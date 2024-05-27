@@ -3,5 +3,33 @@
   <advance width="500"/>
   <unicode hex="0033"/>
   <outline>
+    <contour>
+      <point x="-336" y="742" type="qcurve" smooth="yes"/>
+      <point x="-262" y="1087"/>
+      <point x="251" y="1520"/>
+      <point x="558" y="1520" type="qcurve" smooth="yes"/>
+      <point x="862" y="1520"/>
+      <point x="1150" y="1102"/>
+      <point x="1078" y="758" type="qcurve" smooth="yes"/>
+      <point x="1001" y="395"/>
+      <point x="505" y="-30"/>
+      <point x="190" y="-30" type="qcurve" smooth="yes"/>
+      <point x="-124" y="-30"/>
+      <point x="-412" y="394"/>
+    </contour>
+    <contour>
+      <point x="-152" y="769" type="qcurve" smooth="yes"/>
+      <point x="-219" y="463"/>
+      <point x="-33" y="81"/>
+      <point x="204" y="81" type="qcurve" smooth="yes"/>
+      <point x="459" y="81"/>
+      <point x="828" y="431"/>
+      <point x="896" y="749" type="qcurve" smooth="yes"/>
+      <point x="958" y="1031"/>
+      <point x="769" y="1400"/>
+      <point x="530" y="1400" type="qcurve" smooth="yes"/>
+      <point x="272" y="1400"/>
+      <point x="-89" y="1057"/>
+    </contour>
   </outline>
 </glyph>

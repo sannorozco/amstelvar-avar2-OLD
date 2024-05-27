@@ -19,9 +19,9 @@
       <point x="331" y="983" type="line"/>
       <point x="448" y="983" type="line"/>
       <point x="404" y="265" type="line" smooth="yes"/>
-      <point x="399" y="190"/>
-      <point x="480" y="109"/>
-      <point x="544" y="109" type="qcurve"/>
+      <point x="400" y="201"/>
+      <point x="452" y="109"/>
+      <point x="514" y="109" type="qcurve"/>
       <point x="663" y="109" type="line"/>
       <point x="663" y="29" type="line"/>
     </contour>
