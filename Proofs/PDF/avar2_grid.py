@@ -3,7 +3,7 @@ import os, datetime
 baseFolder = os.path.dirname(os.path.dirname(os.getcwd()))
 fontsFolder = os.path.join(baseFolder, 'Fonts')
 
-subFamilyName = ['Roman', 'Italic'][0]
+subFamilyName = ['Roman', 'Italic'][1]
 fontPath = os.path.join(fontsFolder, f'AmstelvarA2-{subFamilyName}_avar2.ttf')
 
 ASCII  = list('''ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,:;!?@#$%&*{|}[\](/)_<=>+~-'"^`''')

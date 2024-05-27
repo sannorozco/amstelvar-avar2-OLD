@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uhorn" format="2">
-  <advance width="1171"/>
+  <advance width="986"/>
   <unicode hex="01B0"/>
   <outline>
     <component base="u"/>
-    <component base="horncomb" xOffset="915.0000000000007"/>
+    <component base="horncomb" xOffset="869.999999999944"/>
   </outline>
   <lib>
     <dict>

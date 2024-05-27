@@ -1,2 +1,35 @@
 XUCS
 ====
+
+
+Variation
+---------
+
+### Glyphs
+
+- all glyphs except `space`
+
+### Widths
+
+- all glyph widths change except `space` 
+
+### Anchors
+
+- rule: same position in relation to the contours
+
+
+Workflow
+--------
+
+- start with `H`
+- propagate new margins to all members of left/right kerning groups (using GroupSpacing extension)
+- continue with all other glyphs
+
+- test intermediate results in Fontra
+- test effect on width and optical size axes
+
+
+Notes
+-----
+
+...

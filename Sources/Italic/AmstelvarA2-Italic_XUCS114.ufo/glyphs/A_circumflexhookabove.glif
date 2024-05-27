@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflexhookabove" format="2">
-  <advance width="1367"/>
+  <advance width="1217"/>
   <unicode hex="1EA8"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb-stack.case" xOffset="759.0000000000639"/>
-    <component base="hookabovecomb-stack.case" xOffset="1068.9999999999811" yOffset="272"/>
+    <component base="circumflexcomb-stack.case" xOffset="699.0000000001462"/>
+    <component base="hookabovecomb-stack.case" xOffset="1009.0000000000634" yOffset="272"/>
   </outline>
   <lib>
     <dict>

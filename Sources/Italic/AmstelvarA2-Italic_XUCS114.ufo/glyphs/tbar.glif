@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
-  <advance width="613"/>
+  <advance width="513"/>
   <unicode hex="0167"/>
   <outline>
     <component base="t"/>
-    <component base="horizontalbarlc" xOffset="-82.50000000002444" yOffset="-97"/>
+    <component base="horizontalbarlc" xOffset="-132.5000000000069" yOffset="-97"/>
   </outline>
   <lib>
     <dict>

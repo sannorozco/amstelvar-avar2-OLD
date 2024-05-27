@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odblgrave" format="2">
-  <advance width="1050"/>
+  <advance width="930"/>
   <unicode hex="020D"/>
   <outline>
     <component base="o"/>
-    <component base="dblgravecomb" xOffset="583.9999999999259"/>
+    <component base="dblgravecomb" xOffset="553.6159169549522"/>
   </outline>
   <lib>
     <dict>

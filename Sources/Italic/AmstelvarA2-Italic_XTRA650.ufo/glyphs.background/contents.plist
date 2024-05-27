@@ -136,11 +136,11 @@
     <string>y.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>zero</key>
+    <string>zero.glif</string>
     <key>zhe</key>
     <string>zhe.glif</string>
     <key>zhedescender</key>
     <string>zhedescender.glif</string>
-    <key>zero</key>
-    <string>zero.glif</string>
   </dict>
 </plist>
